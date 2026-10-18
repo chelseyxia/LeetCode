@@ -1,0 +1,36 @@
+{
+  "frontendId": "7",
+  "title": "Reverse Integer",
+  "slug": "reverse-integer",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538112235",
+      "submissionIds": [
+        "538112235"
+      ],
+      "timestamp": 1628895173,
+      "sha256": "8080fdabb91abed255947d23a2649701fa94b8a318d1b0499f7527bf6f5499bb"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "550660809",
+      "submissionIds": [
+        "550660809",
+        "550660699",
+        "544410007"
+      ],
+      "timestamp": 1630972867,
+      "sha256": "e31a7d0c67483c360045f66a735be499a52fbe9d985c423cc1b3051adb2c1697"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "frontendId": "2303",
+  "title": "Calculate Amount Paid in Taxes",
+  "slug": "calculate-amount-paid-in-taxes",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2150464295",
+      "submissionIds": [
+        "2150464295"
+      ],
+      "timestamp": 1790140064,
+      "sha256": "1c63014a9ad518e2972f89095cbffd364362113fb3a86706477ceeac4a12bed1"
+    }
+  ]
+}

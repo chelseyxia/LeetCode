@@ -1,0 +1,51 @@
+{
+  "frontendId": "63",
+  "title": "Unique Paths II",
+  "slug": "unique-paths-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "585666102",
+      "submissionIds": [
+        "585666102"
+      ],
+      "timestamp": 1636659352,
+      "sha256": "2c437e900921b6a084e8d397b88d21628ac0ff46eae6b5491e10cea45754c286"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "585666143",
+      "submissionIds": [
+        "585666143"
+      ],
+      "timestamp": 1636659361,
+      "sha256": "d13ea182b9276252d2b864ff9dc75928c58d3f820ab89a19d04cb922aa8545fe"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "665228049",
+      "submissionIds": [
+        "665228049"
+      ],
+      "timestamp": 1647974753,
+      "sha256": "360e8f556e1552cd582f9e0f470491489a95a5158865c7d0ac0e607af97eb14c"
+    }
+  ]
+}

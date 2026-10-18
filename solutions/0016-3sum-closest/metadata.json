@@ -1,0 +1,43 @@
+{
+  "frontendId": "16",
+  "title": "3Sum Closest",
+  "slug": "3sum-closest",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "551287643",
+      "submissionIds": [
+        "551287643"
+      ],
+      "timestamp": 1631074636,
+      "sha256": "6287d5366b4fb2c71e702f64f3c9e5c053c45cd67ba4987d39b78c0ade3b072d"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "551291103",
+      "submissionIds": [
+        "551291103",
+        "551290952"
+      ],
+      "timestamp": 1631075127,
+      "sha256": "30db0263f29556092cd861148eeff96817ac548a68b90d7ad6c6f2031ade10b7"
+    }
+  ]
+}

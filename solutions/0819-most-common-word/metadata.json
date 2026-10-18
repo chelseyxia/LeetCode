@@ -1,0 +1,55 @@
+{
+  "frontendId": "819",
+  "title": "Most Common Word",
+  "slug": "most-common-word",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "537765987",
+      "submissionIds": [
+        "537765987"
+      ],
+      "timestamp": 1628837017,
+      "sha256": "b68b62720f2e6b3055835402fbae637fcddc1dcb2bbbc6078791a5b41586c30c"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "545444684",
+      "submissionIds": [
+        "545444684"
+      ],
+      "timestamp": 1630129680,
+      "sha256": "61aeacd5c2831afdc428f0699203eaf65e94b2f80f155687b0d0fed7198fc577"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "555479599",
+      "submissionIds": [
+        "555479599"
+      ],
+      "timestamp": 1631729400,
+      "sha256": "4f5904f1a305a7fdaf1c60148ff4c39432f682123c24191babf086e967d8bf6e"
+    }
+  ]
+}

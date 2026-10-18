@@ -1,0 +1,42 @@
+{
+  "frontendId": "442",
+  "title": "Find All Duplicates in an Array",
+  "slug": "find-all-duplicates-in-an-array",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "638130255",
+      "submissionIds": [
+        "638130255"
+      ],
+      "timestamp": 1644440110,
+      "sha256": "85dc71fbeeda72e11c285e5722be139374be1c891b7bdc68f1fb9f0d40b3aaff"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "666554156",
+      "submissionIds": [
+        "666554156"
+      ],
+      "timestamp": 1648144972,
+      "sha256": "71a741a58cbbfc38bf2225dc9c2eb4d9dd2a17d40695862bf4759f41a44d91ac"
+    }
+  ]
+}

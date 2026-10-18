@@ -1,0 +1,115 @@
+{
+  "frontendId": "56",
+  "title": "Merge Intervals",
+  "slug": "merge-intervals",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Quicksort",
+      "slug": "quicksort"
+    }
+  ],
+  "acceptedCountReported": 11,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "537700667",
+      "submissionIds": [
+        "537700667"
+      ],
+      "timestamp": 1628827757,
+      "sha256": "3fa7355fa2555132e260bab6d6ab68302451441527f13ddec1fca6fab94b9028"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "554462888",
+      "submissionIds": [
+        "554462888",
+        "554461571"
+      ],
+      "timestamp": 1631576341,
+      "sha256": "70953c692ad96dc3d7628ad710c88b36462c5645a6ce23d62c54e19b35a6bf8c"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "626965862",
+      "submissionIds": [
+        "626965862"
+      ],
+      "timestamp": 1643050856,
+      "sha256": "ce217e0d640d5339cf43be14497350a91681d170776e184dd0f323efe79a8f49"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "643126707",
+      "submissionIds": [
+        "643126707"
+      ],
+      "timestamp": 1645083581,
+      "sha256": "f9f6e5dc611cb6fe1b20b1aaf83600a683c20975cd7703fb3aa0edc9fed088df"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "663212367",
+      "submissionIds": [
+        "663212367"
+      ],
+      "timestamp": 1647717062,
+      "sha256": "f2c38028fe8d26649f10e04c6bcb855386ebc9a6967c1b2b47d2f33245295046"
+    },
+    {
+      "file": "solution-6.java",
+      "submissionId": "663229803",
+      "submissionIds": [
+        "663229803"
+      ],
+      "timestamp": 1647719121,
+      "sha256": "2d6ca95f97048baf4f86692fadd1d39ad78ca7218c8f7e3509d6c4c8016edd6e"
+    },
+    {
+      "file": "solution-7.java",
+      "submissionId": "727291945",
+      "submissionIds": [
+        "727291945"
+      ],
+      "timestamp": 1655784232,
+      "sha256": "82e3ac54e8e8202519fd62c7919ae7666ec90de8405856774de25473706c8897"
+    },
+    {
+      "file": "solution-8.java",
+      "submissionId": "1988330236",
+      "submissionIds": [
+        "1988330236"
+      ],
+      "timestamp": 1777177863,
+      "sha256": "9eca9798f1ac02fd58d102cfb0eb037bc32f2e22312351c54fb5bc559162e067"
+    },
+    {
+      "file": "solution-9.java",
+      "submissionId": "2125442341",
+      "submissionIds": [
+        "2125442341"
+      ],
+      "timestamp": 1788119289,
+      "sha256": "20cd105acdf4f4a4a345bc4949132cd77a381e7e0e65c7c12174bb73342e9de6"
+    },
+    {
+      "file": "solution-10.java",
+      "submissionId": "2125442727",
+      "submissionIds": [
+        "2125442727"
+      ],
+      "timestamp": 1788119321,
+      "sha256": "d0dc9cd01d2d69cff763083f11da6e649aa8bfc8f457725f0a7a1b959111d9ae"
+    }
+  ]
+}

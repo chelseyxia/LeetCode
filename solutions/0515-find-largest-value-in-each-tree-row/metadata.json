@@ -1,0 +1,37 @@
+{
+  "frontendId": "515",
+  "title": "Find Largest Value in Each Tree Row",
+  "slug": "find-largest-value-in-each-tree-row",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "623072231",
+      "submissionIds": [
+        "623072231"
+      ],
+      "timestamp": 1642575412,
+      "sha256": "a02501ee6ee2a4fc890a44220583842152d392f312bdc942ea0369ee9585e470"
+    }
+  ]
+}

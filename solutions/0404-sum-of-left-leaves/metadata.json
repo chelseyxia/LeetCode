@@ -1,0 +1,37 @@
+{
+  "frontendId": "404",
+  "title": "Sum of Left Leaves",
+  "slug": "sum-of-left-leaves",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604322598",
+      "submissionIds": [
+        "604322598"
+      ],
+      "timestamp": 1639978302,
+      "sha256": "47f79523d9cdaa6c7f3836495d7e9a73fa5d04de78259ba25d1b584ea3773ad5"
+    }
+  ]
+}

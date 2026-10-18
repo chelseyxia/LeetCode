@@ -1,0 +1,33 @@
+{
+  "frontendId": "1861",
+  "title": "Rotating the Box",
+  "slug": "rotating-the-box",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "629989687",
+      "submissionIds": [
+        "629989687"
+      ],
+      "timestamp": 1643432605,
+      "sha256": "e14783bbeaf8e27dfbf73b0a308271c29578032ac60acbde46daaa779566ac71"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "frontendId": "628",
+  "title": "Maximum Product of Three Numbers",
+  "slug": "maximum-product-of-three-numbers",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "548605081",
+      "submissionIds": [
+        "548605081"
+      ],
+      "timestamp": 1630625381,
+      "sha256": "ee36261dec2929456efd8efc2acc5b7866ee823682e1a086c0f4d9e7a43ef76d"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "556039302",
+      "submissionIds": [
+        "556039302"
+      ],
+      "timestamp": 1631815415,
+      "sha256": "c9ce436d02c39bf4e594936e1a3513a6989f42dc4ced87ff7f01df59bd7f37cb"
+    }
+  ]
+}

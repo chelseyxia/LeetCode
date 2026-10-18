@@ -1,0 +1,49 @@
+{
+  "frontendId": "721",
+  "title": "Accounts Merge",
+  "slug": "accounts-merge",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "617894837",
+      "submissionIds": [
+        "617894837"
+      ],
+      "timestamp": 1641938208,
+      "sha256": "0548d559e61a39d3bdefaa625ba965e7ec8e7908e684bae0940fd19c97a1dd73"
+    }
+  ]
+}

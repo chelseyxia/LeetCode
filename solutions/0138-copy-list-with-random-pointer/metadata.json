@@ -1,0 +1,30 @@
+{
+  "frontendId": "138",
+  "title": "Copy List with Random Pointer",
+  "slug": "copy-list-with-random-pointer",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "552285818",
+      "submissionIds": [
+        "552285818",
+        "545717979"
+      ],
+      "timestamp": 1631226723,
+      "sha256": "9a5a2455d24ffc13546309c0882fc78dd76d5c9acfd0197bb148c148a06ee432"
+    }
+  ]
+}

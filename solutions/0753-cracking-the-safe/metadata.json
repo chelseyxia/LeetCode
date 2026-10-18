@@ -1,0 +1,46 @@
+{
+  "frontendId": "753",
+  "title": "Cracking the Safe",
+  "slug": "cracking-the-safe",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Eulerian Circuit",
+      "slug": "eulerian-circuit"
+    },
+    {
+      "name": "Eulerian Path",
+      "slug": "eulerian-path"
+    },
+    {
+      "name": "Eulerian Graph",
+      "slug": "eulerian-graph"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "733996805",
+      "submissionIds": [
+        "733996805",
+        "619946188"
+      ],
+      "timestamp": 1656479482,
+      "sha256": "65415471c8b5bef801c0a73f2809074f49267c2cebf6daee41f9e4d11181763f"
+    }
+  ]
+}

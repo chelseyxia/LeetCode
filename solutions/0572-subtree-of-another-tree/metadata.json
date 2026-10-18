@@ -1,0 +1,69 @@
+{
+  "frontendId": "572",
+  "title": "Subtree of Another Tree",
+  "slug": "subtree-of-another-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "String Matching",
+      "slug": "string-matching"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "Hash Function",
+      "slug": "hash-function"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539086531",
+      "submissionIds": [
+        "539086531"
+      ],
+      "timestamp": 1629066087,
+      "sha256": "eb05425bff405bf2950595224c0912f04a1aa31ed8e5d4af5896cfb084e5cf90"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "555490353",
+      "submissionIds": [
+        "555490353"
+      ],
+      "timestamp": 1631730707,
+      "sha256": "e32ebdd8531cdebff212cc67252430e94b83346f43e5b6091df4e35cccbae83e"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "555492746",
+      "submissionIds": [
+        "555492746",
+        "546290073"
+      ],
+      "timestamp": 1631731009,
+      "sha256": "66576700d96f29c43f323bf1ae4f5c2428178e3d04100960f8a937ab823da580"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "643527464",
+      "submissionIds": [
+        "643527464"
+      ],
+      "timestamp": 1645137923,
+      "sha256": "cebe7e86c008fc190e2a7f35baca0ea52278e431634d4a5d75f4136e3dc88b33"
+    }
+  ]
+}

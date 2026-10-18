@@ -1,0 +1,29 @@
+{
+  "frontendId": "2095",
+  "title": "Delete the Middle Node of a Linked List",
+  "slug": "delete-the-middle-node-of-a-linked-list",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "669932459",
+      "submissionIds": [
+        "669932459"
+      ],
+      "timestamp": 1648590256,
+      "sha256": "64e31ff72a8022c7343f3a447be55cfccc583efd9953b0b9e98efc352a484467"
+    }
+  ]
+}

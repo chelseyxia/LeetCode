@@ -1,0 +1,29 @@
+{
+  "frontendId": "373",
+  "title": "Find K Pairs with Smallest Sums",
+  "slug": "find-k-pairs-with-smallest-sums",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2101048840",
+      "submissionIds": [
+        "2101048840"
+      ],
+      "timestamp": 1786337243,
+      "sha256": "9367cbd53baf5ec81f2aeff01f9771974a7e43ea81841dd3a595ae7b210653b8"
+    }
+  ]
+}

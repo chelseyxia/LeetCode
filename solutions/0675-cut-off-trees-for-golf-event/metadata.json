@@ -1,0 +1,38 @@
+{
+  "frontendId": "675",
+  "title": "Cut Off Trees for Golf Event",
+  "slug": "cut-off-trees-for-golf-event",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "768702159",
+      "submissionIds": [
+        "768702159",
+        "767865484"
+      ],
+      "timestamp": 1659986694,
+      "sha256": "c8d361451a0a41c78b0e57a78af88d8fec6f8216b3bd537a7e86569c955e4961"
+    }
+  ]
+}

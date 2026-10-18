@@ -1,0 +1,37 @@
+{
+  "frontendId": "346",
+  "title": "Moving Average from Data Stream",
+  "slug": "moving-average-from-data-stream",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Data Stream",
+      "slug": "data-stream"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608357770",
+      "submissionIds": [
+        "608357770"
+      ],
+      "timestamp": 1640668229,
+      "sha256": "cd06fdb347aeb56ed48d3e8160120587bdd244d71b53699469f2c3e533bd00fd"
+    }
+  ]
+}

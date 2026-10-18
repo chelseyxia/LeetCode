@@ -1,0 +1,33 @@
+{
+  "frontendId": "1962",
+  "title": "Remove Stones to Minimize the Total",
+  "slug": "remove-stones-to-minimize-the-total",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2114634469",
+      "submissionIds": [
+        "2114634469"
+      ],
+      "timestamp": 1787287328,
+      "sha256": "24f65ac653bb78d12a1ba859cde450221e2f9586f977111da98153a75916047b"
+    }
+  ]
+}

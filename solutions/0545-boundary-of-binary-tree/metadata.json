@@ -1,0 +1,33 @@
+{
+  "frontendId": "545",
+  "title": "Boundary of Binary Tree",
+  "slug": "boundary-of-binary-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603055742",
+      "submissionIds": [
+        "603055742"
+      ],
+      "timestamp": 1639725338,
+      "sha256": "9a3da230fbbf982ca918fc16c06c8f094a151ef1c279d30d6fb8cf466c6e8000"
+    }
+  ]
+}

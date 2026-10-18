@@ -1,0 +1,56 @@
+{
+  "frontendId": "46",
+  "title": "Permutations",
+  "slug": "permutations",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "615217371",
+      "submissionIds": [
+        "615217371"
+      ],
+      "timestamp": 1641601552,
+      "sha256": "bfe8402dd30a627b1a7f0313d6e68d9acff6b05145f1665b372e8d7e710755a8"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "643770845",
+      "submissionIds": [
+        "643770845"
+      ],
+      "timestamp": 1645168558,
+      "sha256": "607e8232344f74c60477b5ac4c4d8e65cf1e9fe4080d0183dc9dbb1e9bd15440"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "736982403",
+      "submissionIds": [
+        "736982403"
+      ],
+      "timestamp": 1656805703,
+      "sha256": "752d257dd4b2afde24ce568f5ce20e8a964ae8792306be2662c89785e2c4a08a"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2026956574",
+      "submissionIds": [
+        "2026956574"
+      ],
+      "timestamp": 1780975236,
+      "sha256": "fd31f9ace7f882168faa0a2bb1990b4bb06212b3127adf1873922f2d70850625"
+    }
+  ]
+}

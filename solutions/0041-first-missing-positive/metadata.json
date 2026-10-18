@@ -1,0 +1,29 @@
+{
+  "frontendId": "41",
+  "title": "First Missing Positive",
+  "slug": "first-missing-positive",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "609459695",
+      "submissionIds": [
+        "609459695"
+      ],
+      "timestamp": 1640824733,
+      "sha256": "824b2f2e2c17c4b020c78dc2188f28ee68c38f0d4349864d54a94324e12fd1d3"
+    }
+  ]
+}

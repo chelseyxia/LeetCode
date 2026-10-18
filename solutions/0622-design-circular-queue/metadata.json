@@ -1,0 +1,37 @@
+{
+  "frontendId": "622",
+  "title": "Design Circular Queue",
+  "slug": "design-circular-queue",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608673961",
+      "submissionIds": [
+        "608673961"
+      ],
+      "timestamp": 1640716486,
+      "sha256": "e49e5c4fc72c8a757baead387a663fe7874b6cb3d85420bb50258afafba1aaf4"
+    }
+  ]
+}

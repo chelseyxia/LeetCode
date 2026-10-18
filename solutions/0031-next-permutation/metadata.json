@@ -1,0 +1,38 @@
+{
+  "frontendId": "31",
+  "title": "Next Permutation",
+  "slug": "next-permutation",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538677541",
+      "submissionIds": [
+        "538677541"
+      ],
+      "timestamp": 1628998641,
+      "sha256": "d8d1868c51bedc406367655b5b8652c0dc08e0b3c9855838d9095d0dbaa3b6e4"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "736966569",
+      "submissionIds": [
+        "736966569"
+      ],
+      "timestamp": 1656803069,
+      "sha256": "04c139f0127eeaab1a59c98b5d3ccb501d2ddb24c36d8142953dc96719af9f8d"
+    }
+  ]
+}

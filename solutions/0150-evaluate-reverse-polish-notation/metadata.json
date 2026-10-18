@@ -1,0 +1,33 @@
+{
+  "frontendId": "150",
+  "title": "Evaluate Reverse Polish Notation",
+  "slug": "evaluate-reverse-polish-notation",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607288978",
+      "submissionIds": [
+        "607288978"
+      ],
+      "timestamp": 1640498680,
+      "sha256": "febdda584dc57f4f37d6c435e0b4d2b6a749bf4a409ada3032014bf3e772a90b"
+    }
+  ]
+}

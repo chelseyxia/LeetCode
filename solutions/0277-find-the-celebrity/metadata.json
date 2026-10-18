@@ -1,0 +1,51 @@
+{
+  "frontendId": "277",
+  "title": "Find the Celebrity",
+  "slug": "find-the-celebrity",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Interactive",
+      "slug": "interactive"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "620117588",
+      "submissionIds": [
+        "620117588"
+      ],
+      "timestamp": 1642229289,
+      "sha256": "f77d6092b4bf2f896a15b35733b78917141d3a02242eaed3101dedee6028ba21"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "620124066",
+      "submissionIds": [
+        "620124066"
+      ],
+      "timestamp": 1642230069,
+      "sha256": "7ab322e0709aefb56643e9416160d69cbf577bf5e5c16af5d48a4e3b19b900eb"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "620125850",
+      "submissionIds": [
+        "620125850"
+      ],
+      "timestamp": 1642230282,
+      "sha256": "d5c5cc67953e54b24a1c32165b9774c4ef153610824fa15325f98261e74738f2"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "frontendId": "1136",
+  "title": "Parallel Courses",
+  "slug": "parallel-courses",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Topological Sort",
+      "slug": "topological-sort"
+    },
+    {
+      "name": "Directed Acyclic Graph",
+      "slug": "directed-acyclic-graph"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2052985866",
+      "submissionIds": [
+        "2052985866"
+      ],
+      "timestamp": 1782965627,
+      "sha256": "6d335821a003f7a132ff005b2fd1e412b58639af2358febf263c3a381c14bd75"
+    }
+  ]
+}

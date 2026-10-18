@@ -1,0 +1,42 @@
+{
+  "frontendId": "1423",
+  "title": "Maximum Points You Can Obtain from Cards",
+  "slug": "maximum-points-you-can-obtain-from-cards",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622244536",
+      "submissionIds": [
+        "622244536"
+      ],
+      "timestamp": 1642481867,
+      "sha256": "62ff4aa503af2196ec4daf2bb7c79c62002f8d217a658b165ec6a7289f82713a"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "622248038",
+      "submissionIds": [
+        "622248038"
+      ],
+      "timestamp": 1642482205,
+      "sha256": "ef971897798ffc88b0c8d0d84a36d20d8d846e7d4ea84231368d77e1d9d51265"
+    }
+  ]
+}

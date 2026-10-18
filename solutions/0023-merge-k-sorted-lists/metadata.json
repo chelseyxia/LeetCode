@@ -1,0 +1,59 @@
+{
+  "frontendId": "23",
+  "title": "Merge k Sorted Lists",
+  "slug": "merge-k-sorted-lists",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Merge Sort",
+      "slug": "merge-sort"
+    },
+    {
+      "name": "Tournament Sort",
+      "slug": "tournament-sort"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "552662134",
+      "submissionIds": [
+        "552662134"
+      ],
+      "timestamp": 1631290357,
+      "sha256": "3bcadd1b424a738cbacd3f41cfa828ea5cffa028e90bf26d5a7ed6aedf0091de"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "656810362",
+      "submissionIds": [
+        "656810362"
+      ],
+      "timestamp": 1646864995,
+      "sha256": "be414b82f671f9738123157e1b4c195fff2436a23b5a9b3f857f4281e76b5b53"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2100885440",
+      "submissionIds": [
+        "2100885440"
+      ],
+      "timestamp": 1786316667,
+      "sha256": "d07d51cab96789bfaa54c88cdaace29bf4052939c53d1f4369ef5c789ff6f2c5"
+    }
+  ]
+}

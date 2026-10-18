@@ -1,0 +1,47 @@
+{
+  "frontendId": "408",
+  "title": "Valid Word Abbreviation",
+  "slug": "valid-word-abbreviation",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "617258750",
+      "submissionIds": [
+        "617258750"
+      ],
+      "timestamp": 1641859453,
+      "sha256": "04dc18b3dc3a6cd49c412c9421749ecbd73f9ed4f78e3e13403b092c5639939a"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2000083365",
+      "submissionIds": [
+        "2000083365"
+      ],
+      "timestamp": 1778459293,
+      "sha256": "5da0636781e98bc6e173ec690393876f5f8d1528a7383b51d2356f35bde9c015"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2000083489",
+      "submissionIds": [
+        "2000083489"
+      ],
+      "timestamp": 1778459320,
+      "sha256": "a4b7b95b006127a28b745990fdb96b5194d9088038a1ef424cfc1455f7a280f7"
+    }
+  ]
+}

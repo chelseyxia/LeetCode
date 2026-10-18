@@ -1,0 +1,38 @@
+{
+  "frontendId": "344",
+  "title": "Reverse String",
+  "slug": "reverse-string",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "549107389",
+      "submissionIds": [
+        "549107389"
+      ],
+      "timestamp": 1630715426,
+      "sha256": "4cddd083687de5dc495bf06a9fb8344fa7c7ae8b1744fbbbf59ccc7b0d83814e"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "643791023",
+      "submissionIds": [
+        "643791023"
+      ],
+      "timestamp": 1645170957,
+      "sha256": "d424eb2d8a1f7c609471cad83d254dccea1f0b5da9100fcba80b166a2c19972e"
+    }
+  ]
+}

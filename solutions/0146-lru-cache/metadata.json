@@ -1,0 +1,46 @@
+{
+  "frontendId": "146",
+  "title": "LRU Cache",
+  "slug": "lru-cache",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Doubly-Linked List",
+      "slug": "doubly-linked-list"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "537685692",
+      "submissionIds": [
+        "537685692"
+      ],
+      "timestamp": 1628825461,
+      "sha256": "32c7d91725e08936aa475b3204b8b9599df91a311e83782211c485343bdfbcc6"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "637477324",
+      "submissionIds": [
+        "637477324"
+      ],
+      "timestamp": 1644362867,
+      "sha256": "6b82477712e40894dd49327ed4d6c8ad456683d05da8d8241d478c1e000fc0bf"
+    }
+  ]
+}

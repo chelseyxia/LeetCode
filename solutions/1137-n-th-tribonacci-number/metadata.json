@@ -1,0 +1,60 @@
+{
+  "frontendId": "1137",
+  "title": "N-th Tribonacci Number",
+  "slug": "n-th-tribonacci-number",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Memoization",
+      "slug": "memoization"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "588723266",
+      "submissionIds": [
+        "588723266"
+      ],
+      "timestamp": 1637178366,
+      "sha256": "e24a937417a8602345a5ac9f60245b939de7ad77a6f9ee433703cef4294719af"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "588727339",
+      "submissionIds": [
+        "588727339"
+      ],
+      "timestamp": 1637179013,
+      "sha256": "e7355acd4a937597e6c0331753c8f6a2eb4a13d7a254de52cbe4ca1612a1dfd5"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "591308863",
+      "submissionIds": [
+        "591308863"
+      ],
+      "timestamp": 1637640410,
+      "sha256": "e61a91cb853fe1aea56ebf5570f9f38ef8b00b06791e544541c1b6db5db2478d"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "591311481",
+      "submissionIds": [
+        "591311481"
+      ],
+      "timestamp": 1637640793,
+      "sha256": "5de0e492f8a82050cf16fabd5b8dbfc0474c122dd42514229365b378423953ed"
+    }
+  ]
+}

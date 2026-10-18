@@ -1,0 +1,37 @@
+{
+  "frontendId": "1086",
+  "title": "High Five",
+  "slug": "high-five",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538598340",
+      "submissionIds": [
+        "538598340"
+      ],
+      "timestamp": 1628986608,
+      "sha256": "648936e6ec5966a6f160473288a470b6b99c6ac24a93bc090cbc6691fadedeef"
+    }
+  ]
+}

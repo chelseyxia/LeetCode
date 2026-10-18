@@ -1,0 +1,25 @@
+{
+  "frontendId": "263",
+  "title": "Ugly Number",
+  "slug": "ugly-number",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "589201831",
+      "submissionIds": [
+        "589201831"
+      ],
+      "timestamp": 1637260127,
+      "sha256": "59973319e55740840476b92b715e911a4c9cc30fff067a429e90f189dd24d172"
+    }
+  ]
+}

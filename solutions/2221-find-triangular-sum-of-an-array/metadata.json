@@ -1,0 +1,59 @@
+{
+  "frontendId": "2221",
+  "title": "Find Triangular Sum of an Array",
+  "slug": "find-triangular-sum-of-an-array",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    },
+    {
+      "name": "Combinatorics",
+      "slug": "combinatorics"
+    },
+    {
+      "name": "Number Theory",
+      "slug": "number-theory"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "753173156",
+      "submissionIds": [
+        "753173156"
+      ],
+      "timestamp": 1658432249,
+      "sha256": "32c466651486ec43db35d27bf50476b2a246dc12c3f7b95b3516d9e6e1ad25d6"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "764514680",
+      "submissionIds": [
+        "764514680"
+      ],
+      "timestamp": 1659561988,
+      "sha256": "593490791e1e30ba5ace11dac9481efcb21911dc239143174580db411937c810"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "764553772",
+      "submissionIds": [
+        "764553772"
+      ],
+      "timestamp": 1659567016,
+      "sha256": "87fe6100540e6abc183c4e591a46fccf1894fa96307b1588e4308e1b1e44aa12"
+    }
+  ]
+}

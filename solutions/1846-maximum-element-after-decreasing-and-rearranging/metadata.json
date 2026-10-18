@@ -1,0 +1,33 @@
+{
+  "frontendId": "1846",
+  "title": "Maximum Element After Decreasing and Rearranging",
+  "slug": "maximum-element-after-decreasing-and-rearranging",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "753006337",
+      "submissionIds": [
+        "753006337"
+      ],
+      "timestamp": 1658418949,
+      "sha256": "e035c7697161a34b2bd91440c6730026b584af30ca83dd0df04d7052fb0b31f5"
+    }
+  ]
+}

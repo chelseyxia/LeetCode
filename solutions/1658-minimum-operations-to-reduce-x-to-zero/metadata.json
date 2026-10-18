@@ -1,0 +1,41 @@
+{
+  "frontendId": "1658",
+  "title": "Minimum Operations to Reduce X to Zero",
+  "slug": "minimum-operations-to-reduce-x-to-zero",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2125377001",
+      "submissionIds": [
+        "2125377001"
+      ],
+      "timestamp": 1788114279,
+      "sha256": "afa98fc7f925b44233d853e55012b631c58585281eae747c988d0175bea92866"
+    }
+  ]
+}

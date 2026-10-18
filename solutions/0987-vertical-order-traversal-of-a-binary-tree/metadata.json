@@ -1,0 +1,54 @@
+{
+  "frontendId": "987",
+  "title": "Vertical Order Traversal of a Binary Tree",
+  "slug": "vertical-order-traversal-of-a-binary-tree",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "609916760",
+      "submissionIds": [
+        "609916760"
+      ],
+      "timestamp": 1640888537,
+      "sha256": "9e3746b35c5b0265bde74261f8aae01f125f197700b2c998622d528ee4d397f3"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2120308448",
+      "submissionIds": [
+        "2120308448"
+      ],
+      "timestamp": 1787714900,
+      "sha256": "39f8b6b71a3df30b1c438b6b66957a8adf86f15341399e4e1186434ae4635626"
+    }
+  ]
+}

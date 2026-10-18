@@ -1,0 +1,33 @@
+{
+  "frontendId": "1465",
+  "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+  "slug": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "546409654",
+      "submissionIds": [
+        "546409654"
+      ],
+      "timestamp": 1630287575,
+      "sha256": "34cec0b86ae76119dd8bdd361afe9c732913985b75df2469fe2eff6967ec80c9"
+    }
+  ]
+}

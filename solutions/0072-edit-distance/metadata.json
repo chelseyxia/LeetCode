@@ -1,0 +1,29 @@
+{
+  "frontendId": "72",
+  "title": "Edit Distance",
+  "slug": "edit-distance",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618194986",
+      "submissionIds": [
+        "618194986"
+      ],
+      "timestamp": 1641972647,
+      "sha256": "88f520f15e750f84dbd90f685192f781168eb4a52252ea5fd933f72d85cddd45"
+    }
+  ]
+}

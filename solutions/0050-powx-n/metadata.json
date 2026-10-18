@@ -1,0 +1,38 @@
+{
+  "frontendId": "50",
+  "title": "Pow(x, n)",
+  "slug": "powx-n",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "620763314",
+      "submissionIds": [
+        "620763314"
+      ],
+      "timestamp": 1642309318,
+      "sha256": "05c6aa459a822863abb3e733f26a7efcd91f9c71472540a5f49b9152a527bf2c"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "620765410",
+      "submissionIds": [
+        "620765410"
+      ],
+      "timestamp": 1642309559,
+      "sha256": "ee598cd8b003a1ebb4a5bf09285ac65b0654fc285ef84d642f91ed81972f802a"
+    }
+  ]
+}

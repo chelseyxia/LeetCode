@@ -1,0 +1,37 @@
+{
+  "frontendId": "617",
+  "title": "Merge Two Binary Trees",
+  "slug": "merge-two-binary-trees",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604294010",
+      "submissionIds": [
+        "604294010"
+      ],
+      "timestamp": 1639973729,
+      "sha256": "4b5eb91b3fe6ef1b6414a404351d00df89be85f0c86aba0f518b922953f3babf"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "frontendId": "371",
+  "title": "Sum of Two Integers",
+  "slug": "sum-of-two-integers",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665556799",
+      "submissionIds": [
+        "665556799"
+      ],
+      "timestamp": 1648016353,
+      "sha256": "96837fe616c4d182510f7c6fed6d6dceb87eab9bd00bc8600f70a2e4a8668f38"
+    }
+  ]
+}

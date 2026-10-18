@@ -1,0 +1,33 @@
+{
+  "frontendId": "1326",
+  "title": "Minimum Number of Taps to Open to Water a Garden",
+  "slug": "minimum-number-of-taps-to-open-to-water-a-garden",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613218138",
+      "submissionIds": [
+        "613218138"
+      ],
+      "timestamp": 1641343585,
+      "sha256": "cf09c2b9b9693d433f64fd5a99b5b40c7fd3756faf85b4d7067a5265993be90d"
+    }
+  ]
+}

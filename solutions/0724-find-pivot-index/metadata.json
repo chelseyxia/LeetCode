@@ -1,0 +1,47 @@
+{
+  "frontendId": "724",
+  "title": "Find Pivot Index",
+  "slug": "find-pivot-index",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "634618821",
+      "submissionIds": [
+        "634618821"
+      ],
+      "timestamp": 1644013312,
+      "sha256": "750ce5c6b6349f327ee3da0184a916aeddfa20d2f53c4fd4ec28e78b60027206"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "634619816",
+      "submissionIds": [
+        "634619816"
+      ],
+      "timestamp": 1644013467,
+      "sha256": "05dd94395c9f2888ea3730c03dd16988bc4bc374dabf59f7f721b8b7f2d2466b"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "637714150",
+      "submissionIds": [
+        "637714150"
+      ],
+      "timestamp": 1644388961,
+      "sha256": "de9cb6bf8b5d7e482371d2cff9b2b2bf1c7a065ddc66d8064719e4526c05e916"
+    }
+  ]
+}

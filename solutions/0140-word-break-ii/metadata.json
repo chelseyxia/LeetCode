@@ -1,0 +1,49 @@
+{
+  "frontendId": "140",
+  "title": "Word Break II",
+  "slug": "word-break-ii",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    },
+    {
+      "name": "Memoization",
+      "slug": "memoization"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610116705",
+      "submissionIds": [
+        "610116705"
+      ],
+      "timestamp": 1640915185,
+      "sha256": "69ffe737f8862d94b6040b1d04c07eda187822b82fa688d8c3909210d4aaafcd"
+    }
+  ]
+}

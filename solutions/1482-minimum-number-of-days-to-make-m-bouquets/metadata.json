@@ -1,0 +1,29 @@
+{
+  "frontendId": "1482",
+  "title": "Minimum Number of Days to Make m Bouquets",
+  "slug": "minimum-number-of-days-to-make-m-bouquets",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2062417325",
+      "submissionIds": [
+        "2062417325"
+      ],
+      "timestamp": 1783659370,
+      "sha256": "19b79a4cae7a8e60360c84b3fa13b2090a1815d5e3054acd0e981ca2f4b4c8e0"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "frontendId": "815",
+  "title": "Bus Routes",
+  "slug": "bus-routes",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "609021629",
+      "submissionIds": [
+        "609021629"
+      ],
+      "timestamp": 1640762541,
+      "sha256": "982cb4b78dfa2017a68d576f7f790a01a1d77b76d1fc18b5737fef7fe66a4cc2"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "frontendId": "205",
+  "title": "Isomorphic Strings",
+  "slug": "isomorphic-strings",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "548683505",
+      "submissionIds": [
+        "548683505"
+      ],
+      "timestamp": 1630640151,
+      "sha256": "ba343cd8d615adc428e1c428f6a8fbde8eba0c9a1ba47e6511ba32b4cbb1e6d2"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "556027077",
+      "submissionIds": [
+        "556027077",
+        "548684936"
+      ],
+      "timestamp": 1631813899,
+      "sha256": "970ee9b7e1dbde0cd21255d278c13cbeaee2d9df3b0f70e1d88988b351885cd3"
+    }
+  ]
+}

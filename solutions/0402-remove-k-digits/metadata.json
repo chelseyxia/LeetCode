@@ -1,0 +1,46 @@
+{
+  "frontendId": "402",
+  "title": "Remove K Digits",
+  "slug": "remove-k-digits",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1814761210",
+      "submissionIds": [
+        "1814761210"
+      ],
+      "timestamp": 1761719662,
+      "sha256": "f8953de73c389874c41785e6c3199e145e71724f18aa619ec3ffb4d88ad8870e"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2092091177",
+      "submissionIds": [
+        "2092091177"
+      ],
+      "timestamp": 1785732731,
+      "sha256": "ddf535006ef3f978f40929c29d1ccc03f92053481b76f00c4a38c7ecace47410"
+    }
+  ]
+}

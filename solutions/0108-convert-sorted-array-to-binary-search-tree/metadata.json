@@ -1,0 +1,41 @@
+{
+  "frontendId": "108",
+  "title": "Convert Sorted Array to Binary Search Tree",
+  "slug": "convert-sorted-array-to-binary-search-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603429303",
+      "submissionIds": [
+        "603429303"
+      ],
+      "timestamp": 1639805263,
+      "sha256": "d03c2462570c1a31c9b3a2f3b82ded23a2eb30ee6b19de6a373d53c1a6f819cf"
+    }
+  ]
+}

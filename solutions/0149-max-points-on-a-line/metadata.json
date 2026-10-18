@@ -1,0 +1,54 @@
+{
+  "frontendId": "149",
+  "title": "Max Points on a Line",
+  "slug": "max-points-on-a-line",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Geometry",
+      "slug": "geometry"
+    },
+    {
+      "name": "Euclidean Algorithm",
+      "slug": "euclidean-algorithm"
+    },
+    {
+      "name": "Greatest Common Divisor",
+      "slug": "greatest-common-divisor"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610482007",
+      "submissionIds": [
+        "610482007"
+      ],
+      "timestamp": 1640976725,
+      "sha256": "f135df42a23199710bd70a22148f40f9fdc591a01738a0f5f617fea2e6b60b2a"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "610488051",
+      "submissionIds": [
+        "610488051"
+      ],
+      "timestamp": 1640977730,
+      "sha256": "cbf0fa870111a0018ffd209fc186bcce98ea9e711adab14f261c38498466c1b5"
+    }
+  ]
+}

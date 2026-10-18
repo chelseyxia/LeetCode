@@ -1,0 +1,51 @@
+{
+  "frontendId": "206",
+  "title": "Reverse Linked List",
+  "slug": "reverse-linked-list",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 7,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539232292",
+      "submissionIds": [
+        "539232292"
+      ],
+      "timestamp": 1629092662,
+      "sha256": "c750902083ebf227c95b43d3594e94620002fbe1522904284e9c34c347283a4d"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "556098607",
+      "submissionIds": [
+        "556098607",
+        "552290183"
+      ],
+      "timestamp": 1631823258,
+      "sha256": "f2fd12b402c0d35ce4953ba917c3344ae1aa3b191a3d33dbab4acc0ce987f7c4"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "669970626",
+      "submissionIds": [
+        "669970626",
+        "666138711",
+        "552289412",
+        "549104845"
+      ],
+      "timestamp": 1648596559,
+      "sha256": "542bb1b8a20814dd2c0ddca8c6d6197459dd675be8c69711f4903b15e464baf1"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "frontendId": "1857",
+  "title": "Largest Color Value in a Directed Graph",
+  "slug": "largest-color-value-in-a-directed-graph",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Topological Sort",
+      "slug": "topological-sort"
+    },
+    {
+      "name": "Memoization",
+      "slug": "memoization"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    },
+    {
+      "name": "Directed Acyclic Graph",
+      "slug": "directed-acyclic-graph"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "633276135",
+      "submissionIds": [
+        "633276135"
+      ],
+      "timestamp": 1643844848,
+      "sha256": "cc521c9f7a4adb4a33531f42b463f9c5370a54e194972aa09a0a3f9b7e83cd13"
+    }
+  ]
+}

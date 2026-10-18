@@ -1,0 +1,30 @@
+{
+  "frontendId": "707",
+  "title": "Design Linked List",
+  "slug": "design-linked-list",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "669790131",
+      "submissionIds": [
+        "669790131",
+        "669789966"
+      ],
+      "timestamp": 1648574199,
+      "sha256": "dc1cc3e6139f16fd414c7771e75c2e35673a623f8473e614041589218d63be6e"
+    }
+  ]
+}

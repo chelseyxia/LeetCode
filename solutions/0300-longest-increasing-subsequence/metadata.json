@@ -1,0 +1,37 @@
+{
+  "frontendId": "300",
+  "title": "Longest Increasing Subsequence",
+  "slug": "longest-increasing-subsequence",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "588210881",
+      "submissionIds": [
+        "588210881"
+      ],
+      "timestamp": 1637091462,
+      "sha256": "b299b2677b48c6a573fde927cdc63e528887283ac4829b1fd605c6d67d7f3cb4"
+    }
+  ]
+}

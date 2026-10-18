@@ -1,0 +1,33 @@
+{
+  "frontendId": "232",
+  "title": "Implement Queue using Stacks",
+  "slug": "implement-queue-using-stacks",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607006246",
+      "submissionIds": [
+        "607006246"
+      ],
+      "timestamp": 1640453347,
+      "sha256": "31b03cd8cff74a66615ca23e7b125326d1757d6075423331e0c4d11fa0998477"
+    }
+  ]
+}

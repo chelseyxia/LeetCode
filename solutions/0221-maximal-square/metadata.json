@@ -1,0 +1,33 @@
+{
+  "frontendId": "221",
+  "title": "Maximal Square",
+  "slug": "maximal-square",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539550581",
+      "submissionIds": [
+        "539550581"
+      ],
+      "timestamp": 1629146481,
+      "sha256": "5300dbe8dca69cb04aeac8a5e6b574fbef63a2704d426f2bf8332fa6bb32c085"
+    }
+  ]
+}

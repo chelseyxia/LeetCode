@@ -1,0 +1,37 @@
+{
+  "frontendId": "992",
+  "title": "Subarrays with K Different Integers",
+  "slug": "subarrays-with-k-different-integers",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1997080784",
+      "submissionIds": [
+        "1997080784"
+      ],
+      "timestamp": 1778129568,
+      "sha256": "41131ffacf2970aef872c107407d65a6dbf621de7a6eb4bc5be942a0952e3705"
+    }
+  ]
+}

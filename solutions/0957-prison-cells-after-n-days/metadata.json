@@ -1,0 +1,60 @@
+{
+  "frontendId": "957",
+  "title": "Prison Cells After N Days",
+  "slug": "prison-cells-after-n-days",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Floyd's Cycle Finding Algorithm",
+      "slug": "floyds-cycle-finding-algorithm"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "550660959",
+      "submissionIds": [
+        "550660959",
+        "545807028"
+      ],
+      "timestamp": 1630972893,
+      "sha256": "bec9c1eee74e91d72ae770a973a6d6aefc3f5be64b255ef8ec7fbc965a2f96da"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "634201282",
+      "submissionIds": [
+        "634201282"
+      ],
+      "timestamp": 1643957272,
+      "sha256": "f56e002920c474cbec8b4c35fc418f017cb679ee14d236c11cbe6c9b0bd5ab1e"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "637689024",
+      "submissionIds": [
+        "637689024"
+      ],
+      "timestamp": 1644386577,
+      "sha256": "a78dbee2765c26a5f79df7f1c486effe037ddd1631e63a3acbe480fe98ac2828"
+    }
+  ]
+}

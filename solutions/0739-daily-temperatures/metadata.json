@@ -1,0 +1,60 @@
+{
+  "frontendId": "739",
+  "title": "Daily Temperatures",
+  "slug": "daily-temperatures",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "629252683",
+      "submissionIds": [
+        "629252683"
+      ],
+      "timestamp": 1643328288,
+      "sha256": "037348a21b3db16e847d4815f944149e72069b4382941cbe0daccd8eb4d9a6cd"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "629355200",
+      "submissionIds": [
+        "629355200"
+      ],
+      "timestamp": 1643342676,
+      "sha256": "8aca73261808072a3a5a7531f2988192d79d5fdfaefe46632efb2a2c9c58c904"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "666171190",
+      "submissionIds": [
+        "666171190"
+      ],
+      "timestamp": 1648096436,
+      "sha256": "409619626dd501503503b44a8ad274da7b8a7d1922529b21a8fa58ca8f169838"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2080113156",
+      "submissionIds": [
+        "2080113156"
+      ],
+      "timestamp": 1784934774,
+      "sha256": "c7cf6e89b0e62d4dc7b1c1a09379fb37d256d844e9d9eb2ae6bbea8a9b8933aa"
+    }
+  ]
+}

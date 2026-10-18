@@ -1,0 +1,50 @@
+{
+  "frontendId": "130",
+  "title": "Surrounded Regions",
+  "slug": "surrounded-regions",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622638675",
+      "submissionIds": [
+        "622638675"
+      ],
+      "timestamp": 1642526506,
+      "sha256": "d88c9b8c592c41a78fd57f74677dbe1ef53e4dcc0f4f9c10a31773a16346e73c"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2035800611",
+      "submissionIds": [
+        "2035800611"
+      ],
+      "timestamp": 1781667897,
+      "sha256": "070de14f9d87db387ca1bb556e2812d3a46f53dbb41cf0516c2970067fa43106"
+    }
+  ]
+}

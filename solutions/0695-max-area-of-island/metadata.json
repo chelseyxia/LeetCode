@@ -1,0 +1,60 @@
+{
+  "frontendId": "695",
+  "title": "Max Area of Island",
+  "slug": "max-area-of-island",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "602429217",
+      "submissionIds": [
+        "602429217"
+      ],
+      "timestamp": 1639609524,
+      "sha256": "4a3e7ef1d8254ff02e0967d7180068c56c68a5116e803d18d483140d4b783190"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "602429301",
+      "submissionIds": [
+        "602429301",
+        "602429266"
+      ],
+      "timestamp": 1639609542,
+      "sha256": "beb5a29c7007990c84e76e4c13c484cceeb86d91a74429f332918b3c7f4884f4"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2034561472",
+      "submissionIds": [
+        "2034561472"
+      ],
+      "timestamp": 1781581163,
+      "sha256": "e5ede5ced5c85d90023f8c46986e6ae27b8a5a6376238a1ca88bc111a06e1826"
+    }
+  ]
+}

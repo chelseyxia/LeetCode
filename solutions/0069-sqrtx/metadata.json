@@ -1,0 +1,33 @@
+{
+  "frontendId": "69",
+  "title": "Sqrt(x)",
+  "slug": "sqrtx",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Newton's Method",
+      "slug": "newtons-method"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "621525472",
+      "submissionIds": [
+        "621525472"
+      ],
+      "timestamp": 1642400769,
+      "sha256": "f2f56a07a220f4d4b646fa655ebcf3d0c31cfc35a26f04ea1df05f3c6782b798"
+    }
+  ]
+}

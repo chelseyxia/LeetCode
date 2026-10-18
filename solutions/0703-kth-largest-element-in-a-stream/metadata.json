@@ -1,0 +1,63 @@
+{
+  "frontendId": "703",
+  "title": "Kth Largest Element in a Stream",
+  "slug": "kth-largest-element-in-a-stream",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "Data Stream",
+      "slug": "data-stream"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "548730276",
+      "submissionIds": [
+        "548730276"
+      ],
+      "timestamp": 1630647019,
+      "sha256": "74e8e3d835cc053e83beb434e8f2e0ed1b1bf564df284689926b8444996b9145"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "556036866",
+      "submissionIds": [
+        "556036866"
+      ],
+      "timestamp": 1631815105,
+      "sha256": "171fa3abb07857624291abc1507a573ab602d5ce81198693baf7b58611e18504"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2097520246",
+      "submissionIds": [
+        "2097520246"
+      ],
+      "timestamp": 1786080838,
+      "sha256": "eb9710336385c17566d1d55e899c225ef60437856ad1403392873d6d577c2338"
+    }
+  ]
+}

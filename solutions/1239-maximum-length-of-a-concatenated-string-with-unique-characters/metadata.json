@@ -1,0 +1,37 @@
+{
+  "frontendId": "1239",
+  "title": "Maximum Length of a Concatenated String with Unique Characters",
+  "slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "636606949",
+      "submissionIds": [
+        "636606949"
+      ],
+      "timestamp": 1644258974,
+      "sha256": "e9b733d989a57725ec1b7beb5776118df6c7db4b3a7529e9705f1e9bd32b0a06"
+    }
+  ]
+}

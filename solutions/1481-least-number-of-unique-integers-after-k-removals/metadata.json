@@ -1,0 +1,41 @@
+{
+  "frontendId": "1481",
+  "title": "Least Number of Unique Integers after K Removals",
+  "slug": "least-number-of-unique-integers-after-k-removals",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613325051",
+      "submissionIds": [
+        "613325051"
+      ],
+      "timestamp": 1641356170,
+      "sha256": "0a21e23db08df61e900540b9d5322e9ad95c8727ed32eaee1e86200332142aef"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "frontendId": "2235",
+  "title": "Add Two Integers",
+  "slug": "add-two-integers",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1809881844",
+      "submissionIds": [
+        "1809881844"
+      ],
+      "timestamp": 1761263867,
+      "sha256": "78f77c516033dec3c30deac206c8379f3069228a29c2d19b1e545aa0283581ff"
+    }
+  ]
+}

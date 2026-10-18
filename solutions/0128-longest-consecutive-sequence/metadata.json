@@ -1,0 +1,33 @@
+{
+  "frontendId": "128",
+  "title": "Longest Consecutive Sequence",
+  "slug": "longest-consecutive-sequence",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622285270",
+      "submissionIds": [
+        "622285270"
+      ],
+      "timestamp": 1642485559,
+      "sha256": "ede7ddddc0f17014fe4f272eabd6f89496a6b0a24cad55e861e2373a6b8f00c4"
+    }
+  ]
+}

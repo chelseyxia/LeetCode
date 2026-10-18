@@ -1,0 +1,37 @@
+{
+  "frontendId": "470",
+  "title": "Implement Rand10() Using Rand7()",
+  "slug": "implement-rand10-using-rand7",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Rejection Sampling",
+      "slug": "rejection-sampling"
+    },
+    {
+      "name": "Randomized",
+      "slug": "randomized"
+    },
+    {
+      "name": "Probability and Statistics",
+      "slug": "probability-and-statistics"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "620743271",
+      "submissionIds": [
+        "620743271"
+      ],
+      "timestamp": 1642307145,
+      "sha256": "ec57ffc158fc6dd298494019d09836179bceea4ccfacc87e8d947d80618c4ece"
+    }
+  ]
+}

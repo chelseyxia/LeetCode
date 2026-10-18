@@ -1,0 +1,33 @@
+{
+  "frontendId": "4",
+  "title": "Median of Two Sorted Arrays",
+  "slug": "median-of-two-sorted-arrays",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "554431788",
+      "submissionIds": [
+        "554431788"
+      ],
+      "timestamp": 1631570714,
+      "sha256": "478d3d62ccdf04a8ed0ee247d9f53b8082b7f175b50990d28ad833f83cd36ba6"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "frontendId": "472",
+  "title": "Concatenated Words",
+  "slug": "concatenated-words",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618590476",
+      "submissionIds": [
+        "618590476"
+      ],
+      "timestamp": 1642025676,
+      "sha256": "2d5ba5af7220e4573c185ae724ffb7a3eaac13e27630a4b710ce6768d5616389"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "frontendId": "70",
+  "title": "Climbing Stairs",
+  "slug": "climbing-stairs",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Memoization",
+      "slug": "memoization"
+    }
+  ],
+  "acceptedCountReported": 8,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "582042442",
+      "submissionIds": [
+        "582042442",
+        "539200181"
+      ],
+      "timestamp": 1636041991,
+      "sha256": "252ef6479ce96db699fb9a3c40c93cf56ab0b03b897fa638261bdd1d39f2f623"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "582057163",
+      "submissionIds": [
+        "582057163"
+      ],
+      "timestamp": 1636044541,
+      "sha256": "342e3456c04b5ef33b2d5602a8f48107562af77ce24fb04911fcade5b3c6f140"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "582058851",
+      "submissionIds": [
+        "582058851"
+      ],
+      "timestamp": 1636044834,
+      "sha256": "807db636da4051d8c766a35eee9f5944169d73ecbcfdd9d9ecfa18db41f81c18"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "591318454",
+      "submissionIds": [
+        "591318454"
+      ],
+      "timestamp": 1637641729,
+      "sha256": "612c68d3068d754a58cf57355bf7168aeed50c3172b2cfe1c7422308ecc554ce"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "665294686",
+      "submissionIds": [
+        "665294686"
+      ],
+      "timestamp": 1647983023,
+      "sha256": "401427b089767dfb6566433480c157c39a109964a0ca351073776cfe911cfd11"
+    },
+    {
+      "file": "solution-6.java",
+      "submissionId": "2139854909",
+      "submissionIds": [
+        "2139854909"
+      ],
+      "timestamp": 1789234807,
+      "sha256": "5f80a2f5bf5966f49459b8edef1583ffbdce0987cfe219d5fba6f8f434b935b8"
+    },
+    {
+      "file": "solution-7.java",
+      "submissionId": "2139864078",
+      "submissionIds": [
+        "2139864078"
+      ],
+      "timestamp": 1789235312,
+      "sha256": "34e07e093351e5fc195bf6e24ba823e9203983d889887c4c5e63386b75a16187"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "frontendId": "66",
+  "title": "Plus One",
+  "slug": "plus-one",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "578623122",
+      "submissionIds": [
+        "578623122"
+      ],
+      "timestamp": 1635441232,
+      "sha256": "0bc15ffea116f90c8e366245bfe2dc9b03a5123b2a136d4ff82176d8ed502537"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "735629824",
+      "submissionIds": [
+        "735629824"
+      ],
+      "timestamp": 1656654872,
+      "sha256": "1724fb0520ffa120470882b4170af891ff8726d1244aa909e241812c6b70bfe8"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "frontendId": "496",
+  "title": "Next Greater Element I",
+  "slug": "next-greater-element-i",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "548513479",
+      "submissionIds": [
+        "548513479"
+      ],
+      "timestamp": 1630609451,
+      "sha256": "7879cb5cd5daca073365bd3be4d52eff9015bbeeca5408c023ada5e47ea9618f"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "548513613",
+      "submissionIds": [
+        "548513613"
+      ],
+      "timestamp": 1630609470,
+      "sha256": "0293100954a69024af21daae0d5f23dc4e825d4b28f9014fec2d80f4036108f1"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "555697893",
+      "submissionIds": [
+        "555697893"
+      ],
+      "timestamp": 1631763168,
+      "sha256": "de3f7a3a3e2f7268ae53807fa6095571d43cea7a0005b661f95d6f11ab382182"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2070587228",
+      "submissionIds": [
+        "2070587228"
+      ],
+      "timestamp": 1784261988,
+      "sha256": "af46d70f35d5ce48e2fc555a09485559a23802e26a586281917c3ca4a33bbc10"
+    }
+  ]
+}

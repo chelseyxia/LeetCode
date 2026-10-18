@@ -1,0 +1,42 @@
+{
+  "frontendId": "116",
+  "title": "Populating Next Right Pointers in Each Node",
+  "slug": "populating-next-right-pointers-in-each-node",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "719842716",
+      "submissionIds": [
+        "719842716",
+        "719176495"
+      ],
+      "timestamp": 1654970784,
+      "sha256": "e5a99da2abb59a7d133cce372b09cb0afeaa79dc4035a34280fec16652d77572"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "frontendId": "697",
+  "title": "Degree of an Array",
+  "slug": "degree-of-an-array",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608997161",
+      "submissionIds": [
+        "608997161"
+      ],
+      "timestamp": 1640759633,
+      "sha256": "56a8418e86fc9b7d2d63209c932963a96b6366dc4bb33ed53c63450a973ea88c"
+    }
+  ]
+}

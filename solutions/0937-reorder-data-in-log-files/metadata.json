@@ -1,0 +1,51 @@
+{
+  "frontendId": "937",
+  "title": "Reorder Data in Log Files",
+  "slug": "reorder-data-in-log-files",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "542587400",
+      "submissionIds": [
+        "542587400"
+      ],
+      "timestamp": 1629668954,
+      "sha256": "fe790ed44e5c82ef5c4441cbd4a80961088dd9650678a6963cf86894e6827f64"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "542595153",
+      "submissionIds": [
+        "542595153"
+      ],
+      "timestamp": 1629670256,
+      "sha256": "fc9cf4a3f83380d6ab52cf7c99890a1a669fd8915a9b78ccdab798907c43ab6d"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "545295336",
+      "submissionIds": [
+        "545295336"
+      ],
+      "timestamp": 1630098573,
+      "sha256": "13a5fd01c8541ae6e5d400a9c937269b31abd8c3b45f9b14068802188b68dc36"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "frontendId": "169",
+  "title": "Majority Element",
+  "slug": "majority-element",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    },
+    {
+      "name": "Boyer–Moore Majority Vote Algorithm",
+      "slug": "boyer-moore-majority-vote-algorithm"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "548932702",
+      "submissionIds": [
+        "548932702"
+      ],
+      "timestamp": 1630684923,
+      "sha256": "94cb5421cd8a4f140b45fb9a4a6f3c5159d83f4e0516174f0ae500052d8dc2b8"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "548946535",
+      "submissionIds": [
+        "548946535"
+      ],
+      "timestamp": 1630687046,
+      "sha256": "2c9f899fcb94dd9abb48d598a7f4e26f905b2fe32f986cde5d87659121b292b2"
+    }
+  ]
+}

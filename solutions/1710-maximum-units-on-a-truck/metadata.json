@@ -1,0 +1,51 @@
+{
+  "frontendId": "1710",
+  "title": "Maximum Units on a Truck",
+  "slug": "maximum-units-on-a-truck",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538013041",
+      "submissionIds": [
+        "538013041"
+      ],
+      "timestamp": 1628877975,
+      "sha256": "085a5ffdc1a094b425f3ce209ee1108082765e07cfaa61453b7d8adc0ad855d1"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "538016346",
+      "submissionIds": [
+        "538016346"
+      ],
+      "timestamp": 1628878426,
+      "sha256": "97d77704397de35fe5cdc58e094e0c2a8a4cb032a21fcc0996dea51cc9a77cc0"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "555582923",
+      "submissionIds": [
+        "555582923"
+      ],
+      "timestamp": 1631744476,
+      "sha256": "8452c8385fb1e889deca1aa4f6245b81c5fe4e772f7cc527a762eea6d86e4d97"
+    }
+  ]
+}

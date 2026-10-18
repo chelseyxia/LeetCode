@@ -1,0 +1,41 @@
+{
+  "frontendId": "678",
+  "title": "Valid Parenthesis String",
+  "slug": "valid-parenthesis-string",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Bracket Sequences",
+      "slug": "bracket-sequences"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607765129",
+      "submissionIds": [
+        "607765129"
+      ],
+      "timestamp": 1640580429,
+      "sha256": "59e8bb31d8487ab74720378e4bd085e28b64007de6292d943ce31bac285b6af0"
+    }
+  ]
+}

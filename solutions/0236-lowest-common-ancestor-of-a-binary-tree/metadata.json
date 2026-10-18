@@ -1,0 +1,50 @@
+{
+  "frontendId": "236",
+  "title": "Lowest Common Ancestor of a Binary Tree",
+  "slug": "lowest-common-ancestor-of-a-binary-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "Binary Lifting",
+      "slug": "binary-lifting"
+    },
+    {
+      "name": "Lowest Common Ancestor",
+      "slug": "lowest-common-ancestor"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "601898018",
+      "submissionIds": [
+        "601898018"
+      ],
+      "timestamp": 1639513791,
+      "sha256": "de8a0fc1edec2e4455270411b1e42a27425d251f2b200e432d05bfb52870de07"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "733753348",
+      "submissionIds": [
+        "733753348"
+      ],
+      "timestamp": 1656449632,
+      "sha256": "24be8decaf124f2c540b2972985095dde099b2522825b30d54ef6383076948f3"
+    }
+  ]
+}

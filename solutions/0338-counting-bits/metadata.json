@@ -1,0 +1,38 @@
+{
+  "frontendId": "338",
+  "title": "Counting Bits",
+  "slug": "counting-bits",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "587690925",
+      "submissionIds": [
+        "587690925"
+      ],
+      "timestamp": 1637005726,
+      "sha256": "e4f2e24051597398dd4042ae07b6422e821b4f8666aa2d45ae515985fe75adc0"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "587692999",
+      "submissionIds": [
+        "587692999"
+      ],
+      "timestamp": 1637006041,
+      "sha256": "ed9b11387ae266653610beacbf5580352bd4278845a2ba8509d805e138f4277e"
+    }
+  ]
+}

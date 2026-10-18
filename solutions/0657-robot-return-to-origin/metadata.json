@@ -1,0 +1,29 @@
+{
+  "frontendId": "657",
+  "title": "Robot Return to Origin",
+  "slug": "robot-return-to-origin",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "549087638",
+      "submissionIds": [
+        "549087638"
+      ],
+      "timestamp": 1630710533,
+      "sha256": "de36dde1413233e2c49b5c5b0d3eb1a2a16da04e99694e28aee247c11deebf15"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "frontendId": "17",
+  "title": "Letter Combinations of a Phone Number",
+  "slug": "letter-combinations-of-a-phone-number",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538717642",
+      "submissionIds": [
+        "538717642"
+      ],
+      "timestamp": 1629003991,
+      "sha256": "2799fa2dad95cf8e937d48a0f0d4ed830ffd18821500a4f55772251540d8ee54"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "554259405",
+      "submissionIds": [
+        "554259405",
+        "553973270"
+      ],
+      "timestamp": 1631547831,
+      "sha256": "bf5be75ea3d11683e95be9d0c1be86ad62667fae1d69c95a842b5b070faf35db"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2032056364",
+      "submissionIds": [
+        "2032056364"
+      ],
+      "timestamp": 1781373819,
+      "sha256": "a136b4bdb76f5a90efbefe5514b62845dca71e0f1da17d4ec0682edd818a8062"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2032064785",
+      "submissionIds": [
+        "2032064785"
+      ],
+      "timestamp": 1781374314,
+      "sha256": "d23a87474e59221d5085512af2569d31e1bf64442a3168656ecd32428f0d79c9"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "frontendId": "670",
+  "title": "Maximum Swap",
+  "slug": "maximum-swap",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "621177770",
+      "submissionIds": [
+        "621177770"
+      ],
+      "timestamp": 1642360869,
+      "sha256": "cdae4a4199b9abf2d079f70971fb092231727e1c2592ccdcb399c625424afa59"
+    }
+  ]
+}

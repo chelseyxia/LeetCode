@@ -1,0 +1,41 @@
+{
+  "frontendId": "114",
+  "title": "Flatten Binary Tree to Linked List",
+  "slug": "flatten-binary-tree-to-linked-list",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603045908",
+      "submissionIds": [
+        "603045908"
+      ],
+      "timestamp": 1639723746,
+      "sha256": "604a9b910a6253d04580f47413bd0a71dc18f47de0419992baa4ac9373c0b08f"
+    }
+  ]
+}

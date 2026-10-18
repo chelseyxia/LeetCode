@@ -1,0 +1,33 @@
+{
+  "frontendId": "929",
+  "title": "Unique Email Addresses",
+  "slug": "unique-email-addresses",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "722647023",
+      "submissionIds": [
+        "722647023"
+      ],
+      "timestamp": 1655273483,
+      "sha256": "5482912bcdb78cf679a4859b3e219ebb876aaeff29b990eae4345dcf6cd824d9"
+    }
+  ]
+}

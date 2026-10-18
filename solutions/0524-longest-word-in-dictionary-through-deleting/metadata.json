@@ -1,0 +1,37 @@
+{
+  "frontendId": "524",
+  "title": "Longest Word in Dictionary through Deleting",
+  "slug": "longest-word-in-dictionary-through-deleting",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603870001",
+      "submissionIds": [
+        "603870001"
+      ],
+      "timestamp": 1639890177,
+      "sha256": "241a8624e0b75ad67d0d39d29c2a2c915ae433ee2a2a6c11e7dfac1cdf54ef0e"
+    }
+  ]
+}

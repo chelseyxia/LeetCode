@@ -1,0 +1,41 @@
+{
+  "frontendId": "337",
+  "title": "House Robber III",
+  "slug": "house-robber-iii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "DP on Trees",
+      "slug": "dp-on-trees"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "616712020",
+      "submissionIds": [
+        "616712020"
+      ],
+      "timestamp": 1641788993,
+      "sha256": "89281820c3e8fe9f04a96429711858f210e2f979e01708812028f0c9c1156b8d"
+    }
+  ]
+}

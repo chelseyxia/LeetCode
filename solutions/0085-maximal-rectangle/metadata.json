@@ -1,0 +1,59 @@
+{
+  "frontendId": "85",
+  "title": "Maximal Rectangle",
+  "slug": "maximal-rectangle",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "624740639",
+      "submissionIds": [
+        "624740639"
+      ],
+      "timestamp": 1642785809,
+      "sha256": "9006a5a91745aeab26e4faf15b1a14d072c5df687b20791e41336522f8940e92"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2086970025",
+      "submissionIds": [
+        "2086970025"
+      ],
+      "timestamp": 1785388828,
+      "sha256": "5d47de6e376054daf1d696c8e1f437ba22ed47dd27d286b65008e2a775059ef2"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2086976039",
+      "submissionIds": [
+        "2086976039"
+      ],
+      "timestamp": 1785389108,
+      "sha256": "0360aaa8911ce66bc41af6d1caea16fea1477d6ea05161d214e6e6b5718fbf1f"
+    }
+  ]
+}

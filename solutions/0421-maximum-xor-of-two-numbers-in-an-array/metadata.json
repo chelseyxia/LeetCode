@@ -1,0 +1,37 @@
+{
+  "frontendId": "421",
+  "title": "Maximum XOR of Two Numbers in an Array",
+  "slug": "maximum-xor-of-two-numbers-in-an-array",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "620707279",
+      "submissionIds": [
+        "620707279"
+      ],
+      "timestamp": 1642304222,
+      "sha256": "2aabd77aa5ecf8d0c084e3f4d9c4ccb4736a299eff0be9cd1abc64bbcb321932"
+    }
+  ]
+}

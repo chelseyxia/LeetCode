@@ -1,0 +1,37 @@
+{
+  "frontendId": "604",
+  "title": "Design Compressed String Iterator",
+  "slug": "design-compressed-string-iterator",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Iterator",
+      "slug": "iterator"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "602895334",
+      "submissionIds": [
+        "602895334"
+      ],
+      "timestamp": 1639696732,
+      "sha256": "28f8ccbebdc4db31af544ed860f7cec9573d55b4bc6b73a3a225b519b0e06db0"
+    }
+  ]
+}

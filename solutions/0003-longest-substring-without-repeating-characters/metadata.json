@@ -1,0 +1,105 @@
+{
+  "frontendId": "3",
+  "title": "Longest Substring Without Repeating Characters",
+  "slug": "longest-substring-without-repeating-characters",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ],
+  "acceptedCountReported": 9,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "537724516",
+      "submissionIds": [
+        "537724516"
+      ],
+      "timestamp": 1628831261,
+      "sha256": "a5fce3915a61a4186f4a4bdbbc349257f0c559ad0fe04d4fd502ae297cd88330"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "550764914",
+      "submissionIds": [
+        "550764914"
+      ],
+      "timestamp": 1630988667,
+      "sha256": "27cc8f3649d9253da013be6f5be24008028efa8131c3674185aa1411b9c9abf6"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "634537978",
+      "submissionIds": [
+        "634537978"
+      ],
+      "timestamp": 1644001860,
+      "sha256": "1ccdc0a0bf1ff0b1f1474091c34aba29764465d769f431dd36ea0f0701e4a1f0"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "636918938",
+      "submissionIds": [
+        "636918938"
+      ],
+      "timestamp": 1644295978,
+      "sha256": "c24290e9b5c397dc7a2360dbf8a8d87fdb1718f61be4d8a582d312f3e13f9889"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "637757964",
+      "submissionIds": [
+        "637757964"
+      ],
+      "timestamp": 1644393398,
+      "sha256": "e2dbb3e819f4aa07a7a1a57fe5a400cc895b7bbc342e3c44ae276326c80066da"
+    },
+    {
+      "file": "solution-6.java",
+      "submissionId": "641401015",
+      "submissionIds": [
+        "641401015"
+      ],
+      "timestamp": 1644866683,
+      "sha256": "fbcb1d5eab3693ebc8b3391cfdbe4c9ad58d91503857b719be0837308f37036e"
+    },
+    {
+      "file": "solution-7.java",
+      "submissionId": "643367145",
+      "submissionIds": [
+        "643367145"
+      ],
+      "timestamp": 1645117781,
+      "sha256": "cf4bec496467f7acccfe543bbd91aac811a57e6db0e0a2834807cbfb55183347"
+    },
+    {
+      "file": "solution-8.java",
+      "submissionId": "650035873",
+      "submissionIds": [
+        "650035873"
+      ],
+      "timestamp": 1645983970,
+      "sha256": "72ab9a94ad4cf0d6afc03d98ed78d44fd2bc49ab2689603d158a1c3e4ea8d64e"
+    },
+    {
+      "file": "solution-9.java",
+      "submissionId": "1991498421",
+      "submissionIds": [
+        "1991498421"
+      ],
+      "timestamp": 1777523497,
+      "sha256": "cb11fcda1066a179d2be8147f88c3afc3c82c176801607d2fc842b40e02103b1"
+    }
+  ]
+}

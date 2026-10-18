@@ -1,0 +1,37 @@
+{
+  "frontendId": "981",
+  "title": "Time Based Key-Value Store",
+  "slug": "time-based-key-value-store",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610076628",
+      "submissionIds": [
+        "610076628"
+      ],
+      "timestamp": 1640909331,
+      "sha256": "dcadb5c38b369f2e48bfdc0339531ba74678b6653a771557aa4dc6fe85692b3e"
+    }
+  ]
+}

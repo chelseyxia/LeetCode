@@ -1,0 +1,56 @@
+{
+  "frontendId": "875",
+  "title": "Koko Eating Bananas",
+  "slug": "koko-eating-bananas",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "624492565",
+      "submissionIds": [
+        "624492565"
+      ],
+      "timestamp": 1642750057,
+      "sha256": "be83197e2f872e315b00a15797c71229803a01ab257fdd8381002be1ee837db8"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2012916248",
+      "submissionIds": [
+        "2012916248"
+      ],
+      "timestamp": 1779733246,
+      "sha256": "e48339bc534fe8335370d0fda2fe048f8c6f1431f609c4a9078eb7ae7ab067db"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2012917659",
+      "submissionIds": [
+        "2012917659"
+      ],
+      "timestamp": 1779733326,
+      "sha256": "5a8f143652d851cf37fff1328bc7d1cdf522247cc06a54594b4bcab83eddca83"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2119129571",
+      "submissionIds": [
+        "2119129571"
+      ],
+      "timestamp": 1787630008,
+      "sha256": "0ce57a67631e4efee06834a657df3fd0cc1724ad6a397950dd73b62d93dd3e40"
+    }
+  ]
+}

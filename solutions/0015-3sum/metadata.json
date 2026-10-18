@@ -1,0 +1,70 @@
+{
+  "frontendId": "15",
+  "title": "3Sum",
+  "slug": "3sum",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 6,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "551184535",
+      "submissionIds": [
+        "551184535",
+        "538213979"
+      ],
+      "timestamp": 1631057757,
+      "sha256": "1c20285bcece6c8bd3444163dfa7ebf5ba736c85442050faeca4b33059648d93"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "640870689",
+      "submissionIds": [
+        "640870689"
+      ],
+      "timestamp": 1644797315,
+      "sha256": "3b7fa869031f7b160feede085951b47504c9391bdfcd45c379f71e377595621d"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "642896823",
+      "submissionIds": [
+        "642896823"
+      ],
+      "timestamp": 1645057174,
+      "sha256": "5baee343511fd2e91002ac237b3c302e6bf7f9d06c340fe5502bbdd73612de7c"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "652424609",
+      "submissionIds": [
+        "652424609"
+      ],
+      "timestamp": 1646289302,
+      "sha256": "b78d76a078202a807d6601fefcc8eb91ea130bab1943274005ef5a9ecc1261b5"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "2000094192",
+      "submissionIds": [
+        "2000094192"
+      ],
+      "timestamp": 1778461657,
+      "sha256": "130ad387b1f90148b09e0ddc3f6d73b95ce016243f502b4faebe4430ecdcb097"
+    }
+  ]
+}

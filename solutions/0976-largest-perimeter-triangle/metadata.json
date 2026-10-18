@@ -1,0 +1,45 @@
+{
+  "frontendId": "976",
+  "title": "Largest Perimeter Triangle",
+  "slug": "largest-perimeter-triangle",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Quicksort",
+      "slug": "quicksort"
+    },
+    {
+      "name": "Polygons",
+      "slug": "polygons"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1812713015",
+      "submissionIds": [
+        "1812713015"
+      ],
+      "timestamp": 1761530318,
+      "sha256": "f7d3b814d068d5c2abc8e57705ca096f31ee735db5e73bc7b2ed429e9a264425"
+    }
+  ]
+}

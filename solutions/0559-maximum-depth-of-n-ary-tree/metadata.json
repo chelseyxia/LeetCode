@@ -1,0 +1,33 @@
+{
+  "frontendId": "559",
+  "title": "Maximum Depth of N-ary Tree",
+  "slug": "maximum-depth-of-n-ary-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604837012",
+      "submissionIds": [
+        "604837012"
+      ],
+      "timestamp": 1640066543,
+      "sha256": "af776ef19ba7c112c3b794a4bf25ac86564b208ec3089f5989b3d524d011febb"
+    }
+  ]
+}

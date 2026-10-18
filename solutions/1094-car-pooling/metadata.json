@@ -1,0 +1,50 @@
+{
+  "frontendId": "1094",
+  "title": "Car Pooling",
+  "slug": "car-pooling",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1812756311",
+      "submissionIds": [
+        "1812756311"
+      ],
+      "timestamp": 1761535544,
+      "sha256": "7b5c4d0374a7c40948bb939271c7a6e00a896fe1724ad5988ecb299f89288821"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "1812768914",
+      "submissionIds": [
+        "1812768914"
+      ],
+      "timestamp": 1761536849,
+      "sha256": "52fcf0beae9b8786610276aaed76c7cb095fcdcd1ffbe7fa75cdf5664e8998eb"
+    }
+  ]
+}

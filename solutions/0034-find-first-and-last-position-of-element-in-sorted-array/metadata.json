@@ -1,0 +1,48 @@
+{
+  "frontendId": "34",
+  "title": "Find First and Last Position of Element in Sorted Array",
+  "slug": "find-first-and-last-position-of-element-in-sorted-array",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "581082026",
+      "submissionIds": [
+        "581082026"
+      ],
+      "timestamp": 1635876736,
+      "sha256": "f14e06eda5443b0afd81b49b0c8e0b2a1c69180aedcad3e61d3d47e9f790821b"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "725665413",
+      "submissionIds": [
+        "725665413",
+        "725665158"
+      ],
+      "timestamp": 1655612601,
+      "sha256": "8d76796ea72b3bcd178a3c7503888d662c20f238aef3a9583b73983273952332"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2011218011",
+      "submissionIds": [
+        "2011218011"
+      ],
+      "timestamp": 1779583309,
+      "sha256": "1fbd15471648007588ba63e9586fca958bfe9ae9d7aa6367ad5829b9ed420ff5"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "frontendId": "637",
+  "title": "Average of Levels in Binary Tree",
+  "slug": "average-of-levels-in-binary-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604362851",
+      "submissionIds": [
+        "604362851"
+      ],
+      "timestamp": 1639984486,
+      "sha256": "4bae407cd884a90a86c249f208c817c0a1611aa0f55a36265eed6537957b8938"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2041431020",
+      "submissionIds": [
+        "2041431020"
+      ],
+      "timestamp": 1782079612,
+      "sha256": "ec6ffc886be6bf1dad914506b872aa161b9c01f089597b1c8a18a1fd08b22dc7"
+    }
+  ]
+}

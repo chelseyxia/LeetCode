@@ -1,0 +1,33 @@
+{
+  "frontendId": "1466",
+  "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+  "slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2065633180",
+      "submissionIds": [
+        "2065633180"
+      ],
+      "timestamp": 1783917332,
+      "sha256": "a22f8ffff07beecec427519754f03474fa835d6a96222481b9765cc97f1a6375"
+    }
+  ]
+}

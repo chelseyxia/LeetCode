@@ -1,0 +1,41 @@
+{
+  "frontendId": "897",
+  "title": "Increasing Order Search Tree",
+  "slug": "increasing-order-search-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "606803897",
+      "submissionIds": [
+        "606803897"
+      ],
+      "timestamp": 1640415778,
+      "sha256": "d915c4b0d7d227e051b750d275d64d15350f06a57c1e429fba4328c61af8a19a"
+    }
+  ]
+}

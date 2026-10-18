@@ -1,0 +1,51 @@
+{
+  "frontendId": "160",
+  "title": "Intersection of Two Linked Lists",
+  "slug": "intersection-of-two-linked-lists",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613828502",
+      "submissionIds": [
+        "613828502"
+      ],
+      "timestamp": 1641421563,
+      "sha256": "d70899cd9463c61ff6b8dc202b852ac794fb8017502c3b22912a4d82a87cb356"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "613830808",
+      "submissionIds": [
+        "613830808"
+      ],
+      "timestamp": 1641421860,
+      "sha256": "d04d417a27e42d76a156a2ea7a021b5506bd4c8493d46400af91137d45e5c570"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "669952132",
+      "submissionIds": [
+        "669952132"
+      ],
+      "timestamp": 1648593433,
+      "sha256": "3a0581a7fbac44d8c05ee86ed8ea2b8a2a23fc40032d6b2b554a791b3d2cd354"
+    }
+  ]
+}

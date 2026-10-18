@@ -1,0 +1,33 @@
+{
+  "frontendId": "1143",
+  "title": "Longest Common Subsequence",
+  "slug": "longest-common-subsequence",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665542102",
+      "submissionIds": [
+        "665542102"
+      ],
+      "timestamp": 1648014753,
+      "sha256": "909f7bb6ff83fd9756974b76326ebbbb36c675f90f51a46382bd01dad644b87e"
+    }
+  ]
+}

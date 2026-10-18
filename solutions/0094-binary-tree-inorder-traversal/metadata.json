@@ -1,0 +1,55 @@
+{
+  "frontendId": "94",
+  "title": "Binary Tree Inorder Traversal",
+  "slug": "binary-tree-inorder-traversal",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "591799271",
+      "submissionIds": [
+        "591799271"
+      ],
+      "timestamp": 1637724092,
+      "sha256": "33c88b03699e14dc0d8b7a1d630948161ad5cc0a71defd95f7713f928aa2ae10"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "665455912",
+      "submissionIds": [
+        "665455912"
+      ],
+      "timestamp": 1648005445,
+      "sha256": "4994c7a1a437b44b33ea2ecf10d025311d3389416c3b7615f8de71a286dac785"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2025720564",
+      "submissionIds": [
+        "2025720564"
+      ],
+      "timestamp": 1780864325,
+      "sha256": "724013f0eb8801756cfc30d2692f4fd4c790830a60ff5b12ceff903b5fbba60c"
+    }
+  ]
+}

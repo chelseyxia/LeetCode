@@ -1,0 +1,42 @@
+{
+  "frontendId": "438",
+  "title": "Find All Anagrams in a String",
+  "slug": "find-all-anagrams-in-a-string",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618631620",
+      "submissionIds": [
+        "618631620"
+      ],
+      "timestamp": 1642031630,
+      "sha256": "e5c837fb25873ab0b05ef3c865fb042e4c65b165fb7e6b22574bfea97b063afb"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "1999290392",
+      "submissionIds": [
+        "1999290392"
+      ],
+      "timestamp": 1778376195,
+      "sha256": "596f5120361e37a91997095f1419e7e0133086a0135e4bbdb648b6015962f13c"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "frontendId": "647",
+  "title": "Palindromic Substrings",
+  "slug": "palindromic-substrings",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618670597",
+      "submissionIds": [
+        "618670597"
+      ],
+      "timestamp": 1642037147,
+      "sha256": "116eb86d353aa2d0fd6b8a7f93095fe2985977858e2061e7fcaf214af3349a08"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "666540764",
+      "submissionIds": [
+        "666540764"
+      ],
+      "timestamp": 1648143680,
+      "sha256": "7fa028d7921d8b0891af768dbd04eee238de09fb549aa28f3f3094a17607d59a"
+    }
+  ]
+}

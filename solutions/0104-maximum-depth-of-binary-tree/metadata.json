@@ -1,0 +1,47 @@
+{
+  "frontendId": "104",
+  "title": "Maximum Depth of Binary Tree",
+  "slug": "maximum-depth-of-binary-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665485877",
+      "submissionIds": [
+        "665485877",
+        "567896115"
+      ],
+      "timestamp": 1648008753,
+      "sha256": "e3fa0abc1d76e72aaa3baa4f5a92e19d309cb4baf1c740090fd776f9689e8c37"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2025734778",
+      "submissionIds": [
+        "2025734778"
+      ],
+      "timestamp": 1780866358,
+      "sha256": "0b6d938de00769474d766b87945e21e96c2a893bdb0c6f4e837995d210c3bf81"
+    }
+  ]
+}

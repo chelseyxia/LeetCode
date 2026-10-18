@@ -1,0 +1,54 @@
+{
+  "frontendId": "239",
+  "title": "Sliding Window Maximum",
+  "slug": "sliding-window-maximum",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Monotonic Queue",
+      "slug": "monotonic-queue"
+    },
+    {
+      "name": "Range Minimum/Maximum Query",
+      "slug": "range-minimum-maximum-query"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608409705",
+      "submissionIds": [
+        "608409705"
+      ],
+      "timestamp": 1640674476,
+      "sha256": "55ef7e4e6490e31e7842e62d903f060d1313674212018a9203bc3b00ec85819c"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2091781313",
+      "submissionIds": [
+        "2091781313"
+      ],
+      "timestamp": 1785695674,
+      "sha256": "b624387ef885b137258876efa777e5978715c9d1524297b005682545d1e30ea5"
+    }
+  ]
+}

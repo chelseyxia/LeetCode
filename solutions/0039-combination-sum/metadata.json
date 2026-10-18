@@ -1,0 +1,56 @@
+{
+  "frontendId": "39",
+  "title": "Combination Sum",
+  "slug": "combination-sum",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "615191280",
+      "submissionIds": [
+        "615191280"
+      ],
+      "timestamp": 1641597483,
+      "sha256": "ad67e98a9b88904b516b83e3e96097f29a0b0138fd89eb1bd8a2bb639bfefab5"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "636547271",
+      "submissionIds": [
+        "636547271"
+      ],
+      "timestamp": 1644253326,
+      "sha256": "2e741861d4e2539ccdd7e5a6672f4748bc2c2ce70cc40a8ff1d30ed67f3fef61"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "660095217",
+      "submissionIds": [
+        "660095217"
+      ],
+      "timestamp": 1647295341,
+      "sha256": "3e801d46177648ebdbdd70b80bafa029625189fbf394840e590844664c7c8276"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2026981168",
+      "submissionIds": [
+        "2026981168"
+      ],
+      "timestamp": 1780977315,
+      "sha256": "1a6ad3aed1be860b1db2372e922284dc5d3f1efbe7173af88ea673223d2ebe17"
+    }
+  ]
+}

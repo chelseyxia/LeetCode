@@ -1,0 +1,61 @@
+{
+  "frontendId": "1044",
+  "title": "Longest Duplicate Substring",
+  "slug": "longest-duplicate-substring",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Rolling Hash",
+      "slug": "rolling-hash"
+    },
+    {
+      "name": "Suffix Array",
+      "slug": "suffix-array"
+    },
+    {
+      "name": "Hash Function",
+      "slug": "hash-function"
+    },
+    {
+      "name": "Suffix Automaton",
+      "slug": "suffix-automaton"
+    },
+    {
+      "name": "Suffix Tree",
+      "slug": "suffix-tree"
+    },
+    {
+      "name": "Z Algorithm",
+      "slug": "z-algorithm"
+    },
+    {
+      "name": "Boyer–Moore String-Search Algorithm",
+      "slug": "boyer-moore-string-search-algorithm"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618126866",
+      "submissionIds": [
+        "618126866"
+      ],
+      "timestamp": 1641965917,
+      "sha256": "853854f2b23430dd237ecde4b3f54ba291d216b64aaa759464bd65b7de9bcee4"
+    }
+  ]
+}

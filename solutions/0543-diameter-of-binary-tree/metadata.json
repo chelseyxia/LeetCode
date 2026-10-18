@@ -1,0 +1,47 @@
+{
+  "frontendId": "543",
+  "title": "Diameter of Binary Tree",
+  "slug": "diameter-of-binary-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "DP on Trees",
+      "slug": "dp-on-trees"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "553330100",
+      "submissionIds": [
+        "553330100",
+        "548598622"
+      ],
+      "timestamp": 1631402843,
+      "sha256": "90809eef511479ef421b8933d606ce2b4728d8b4886b8eb9d050455930b6087b"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "553729971",
+      "submissionIds": [
+        "553729971"
+      ],
+      "timestamp": 1631465570,
+      "sha256": "bb635cab504cd60673e45ae6606d343ed6c202dd2519297f65dae8770e5ed151"
+    }
+  ]
+}

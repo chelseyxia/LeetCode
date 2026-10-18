@@ -1,0 +1,60 @@
+{
+  "frontendId": "680",
+  "title": "Valid Palindrome II",
+  "slug": "valid-palindrome-ii",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538958957",
+      "submissionIds": [
+        "538958957"
+      ],
+      "timestamp": 1629046482,
+      "sha256": "60e2ce6f568ef73caa2247406b99c1cca2061e27618d652806bb97b87333362e"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "544724168",
+      "submissionIds": [
+        "544724168"
+      ],
+      "timestamp": 1630005066,
+      "sha256": "5e6ca7aafa70ef1452d50b815a0ec996629f0c4dda6eb3124365c77344b13cf7"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "544724359",
+      "submissionIds": [
+        "544724359"
+      ],
+      "timestamp": 1630005094,
+      "sha256": "4e6d02fe222a411c1036d561a526ab9a090ed287d2d59521118132a568ccfc3e"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2000046420",
+      "submissionIds": [
+        "2000046420"
+      ],
+      "timestamp": 1778450279,
+      "sha256": "5345a6e3413034918eb6b30e40a9b9ebf8bb5ef1c13d6159ab9906a9f8bf185f"
+    }
+  ]
+}

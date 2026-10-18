@@ -1,0 +1,29 @@
+{
+  "frontendId": "29",
+  "title": "Divide Two Integers",
+  "slug": "divide-two-integers",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1818302021",
+      "submissionIds": [
+        "1818302021"
+      ],
+      "timestamp": 1762057799,
+      "sha256": "aa336cf482457f0a4d809facc1cab050e25ca821ac59df469605453ec1cb3f23"
+    }
+  ]
+}

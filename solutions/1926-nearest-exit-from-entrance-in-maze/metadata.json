@@ -1,0 +1,33 @@
+{
+  "frontendId": "1926",
+  "title": "Nearest Exit from Entrance in Maze",
+  "slug": "nearest-exit-from-entrance-in-maze",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2066813231",
+      "submissionIds": [
+        "2066813231"
+      ],
+      "timestamp": 1784000827,
+      "sha256": "cac624bded479560990945c81e20e776036c5f3eba256c531ab88c67dffeb7c3"
+    }
+  ]
+}

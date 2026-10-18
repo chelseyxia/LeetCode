@@ -1,0 +1,33 @@
+{
+  "frontendId": "556",
+  "title": "Next Greater Element III",
+  "slug": "next-greater-element-iii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "617935724",
+      "submissionIds": [
+        "617935724"
+      ],
+      "timestamp": 1641943922,
+      "sha256": "35ee66d6eb71ad0ed618e678313ba1933ccde3a1b677fc9c4a96603c7e86af29"
+    }
+  ]
+}

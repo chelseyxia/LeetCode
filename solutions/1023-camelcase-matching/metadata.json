@@ -1,0 +1,41 @@
+{
+  "frontendId": "1023",
+  "title": "Camelcase Matching",
+  "slug": "camelcase-matching",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    },
+    {
+      "name": "String Matching",
+      "slug": "string-matching"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "628372495",
+      "submissionIds": [
+        "628372495"
+      ],
+      "timestamp": 1643216220,
+      "sha256": "83733ac66369fb6fa5f856ad78a6b1888bbf7221e71db30b391ad828c73cd7f8"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "frontendId": "68",
+  "title": "Text Justification",
+  "slug": "text-justification",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "611946037",
+      "submissionIds": [
+        "611946037"
+      ],
+      "timestamp": 1641189396,
+      "sha256": "8f253b3b8382cb16509b961cc6539ae2f0ac6cfa97db38b8460352f966d81b0d"
+    }
+  ]
+}

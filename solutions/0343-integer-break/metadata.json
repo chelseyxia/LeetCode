@@ -1,0 +1,29 @@
+{
+  "frontendId": "343",
+  "title": "Integer Break",
+  "slug": "integer-break",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "588702350",
+      "submissionIds": [
+        "588702350"
+      ],
+      "timestamp": 1637175145,
+      "sha256": "80e428c92b666a0f3a68f06d31a758a4980c08d38096d51a213470de86830812"
+    }
+  ]
+}

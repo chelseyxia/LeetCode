@@ -1,0 +1,69 @@
+{
+  "frontendId": "42",
+  "title": "Trapping Rain Water",
+  "slug": "trapping-rain-water",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "587965037",
+      "submissionIds": [
+        "587965037"
+      ],
+      "timestamp": 1637047603,
+      "sha256": "41fbf2563947e819adb85d456d29b07f650a22f6adc9d186232b28be7e1206b0"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "761205051",
+      "submissionIds": [
+        "761205051"
+      ],
+      "timestamp": 1659243340,
+      "sha256": "f43f8ce57cde87d15fb84cbd8c6d587a12881bab4ee42695d23626671a26b417"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "761238236",
+      "submissionIds": [
+        "761238236",
+        "761220527"
+      ],
+      "timestamp": 1659246541,
+      "sha256": "533694b1d31b6e6fa52e7eb4e64e80efb9379814c1d94256af68cdf16483a2af"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2002652016",
+      "submissionIds": [
+        "2002652016"
+      ],
+      "timestamp": 1778734787,
+      "sha256": "247b9fe0faced11f2727adbe8edbf8cad44cba83da1e7fe12977b802c7852ce8"
+    }
+  ]
+}

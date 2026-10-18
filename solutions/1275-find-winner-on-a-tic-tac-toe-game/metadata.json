@@ -1,0 +1,37 @@
+{
+  "frontendId": "1275",
+  "title": "Find Winner on a Tic Tac Toe Game",
+  "slug": "find-winner-on-a-tic-tac-toe-game",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610190797",
+      "submissionIds": [
+        "610190797"
+      ],
+      "timestamp": 1640925607,
+      "sha256": "b409ccc5e6d016e1e0f46bda962b14a5e43c0049c988bb99b5545113ed81f4c8"
+    }
+  ]
+}

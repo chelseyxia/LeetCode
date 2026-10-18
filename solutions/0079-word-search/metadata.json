@@ -1,0 +1,60 @@
+{
+  "frontendId": "79",
+  "title": "Word Search",
+  "slug": "word-search",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "549952415",
+      "submissionIds": [
+        "549952415"
+      ],
+      "timestamp": 1630862504,
+      "sha256": "db24dbcc525529b417411e3cccb3fc39b4694b5b08c14738c347b32c112fad79"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "554337172",
+      "submissionIds": [
+        "554337172",
+        "554333022"
+      ],
+      "timestamp": 1631557311,
+      "sha256": "02f735be2d08e8f7ce47020a0a3ae7ea781360d10378a990fb41fa31e432f899"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "665318498",
+      "submissionIds": [
+        "665318498"
+      ],
+      "timestamp": 1647986332,
+      "sha256": "72b0377eeedd2a12af8ca9b5b7dc1510143304512cc5f591546c13d42ce2c7be"
+    }
+  ]
+}

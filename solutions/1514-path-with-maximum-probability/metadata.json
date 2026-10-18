@@ -1,0 +1,41 @@
+{
+  "frontendId": "1514",
+  "title": "Path with Maximum Probability",
+  "slug": "path-with-maximum-probability",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Shortest Path",
+      "slug": "shortest-path"
+    },
+    {
+      "name": "Dijkstra's Algorithm",
+      "slug": "dijkstra"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2121507806",
+      "submissionIds": [
+        "2121507806"
+      ],
+      "timestamp": 1787807636,
+      "sha256": "9f0621902d2fc5c5de0fc9f4443b63150a204841d37014c8dbfb68d6974f0817"
+    }
+  ]
+}

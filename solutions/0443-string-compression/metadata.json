@@ -1,0 +1,29 @@
+{
+  "frontendId": "443",
+  "title": "String Compression",
+  "slug": "string-compression",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "617203477",
+      "submissionIds": [
+        "617203477"
+      ],
+      "timestamp": 1641851945,
+      "sha256": "de905e0dd25832885b35a1103cfb28a022b77c69256f2e216ac4936b95560c7a"
+    }
+  ]
+}

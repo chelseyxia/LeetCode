@@ -1,0 +1,51 @@
+{
+  "frontendId": "14",
+  "title": "Longest Common Prefix",
+  "slug": "longest-common-prefix",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538651429",
+      "submissionIds": [
+        "538651429"
+      ],
+      "timestamp": 1628996024,
+      "sha256": "ad7792cc7a684b7f01a39be781f56eed7e1e768f826722838286f96260787c23"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "544672693",
+      "submissionIds": [
+        "544672693"
+      ],
+      "timestamp": 1629998789,
+      "sha256": "2a8204a9ba00059cee87139794510d9702a6ea15b7a1d477ddf44fb4d11dd267"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "643786198",
+      "submissionIds": [
+        "643786198"
+      ],
+      "timestamp": 1645170338,
+      "sha256": "3429c4e4129fad78dd28829f9926718a5a1d99c246ff6d961a82cf7201beea24"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "frontendId": "212",
+  "title": "Word Search II",
+  "slug": "word-search-ii",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "614403632",
+      "submissionIds": [
+        "614403632"
+      ],
+      "timestamp": 1641493675,
+      "sha256": "1eecf095362eb037fe8bac717512eae9b3f2f72f351a2d33ce5aefa84851de4f"
+    }
+  ]
+}

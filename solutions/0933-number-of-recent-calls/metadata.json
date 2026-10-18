@@ -1,0 +1,33 @@
+{
+  "frontendId": "933",
+  "title": "Number of Recent Calls",
+  "slug": "number-of-recent-calls",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Data Stream",
+      "slug": "data-stream"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608417461",
+      "submissionIds": [
+        "608417461"
+      ],
+      "timestamp": 1640675442,
+      "sha256": "243fd028b6848dcd8eafa52c12faf322dcb749eb5a5e41d3ee7612cc71e5a9c0"
+    }
+  ]
+}

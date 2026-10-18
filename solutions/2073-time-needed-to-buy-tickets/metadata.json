@@ -1,0 +1,33 @@
+{
+  "frontendId": "2073",
+  "title": "Time Needed to Buy Tickets",
+  "slug": "time-needed-to-buy-tickets",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608424233",
+      "submissionIds": [
+        "608424233"
+      ],
+      "timestamp": 1640676342,
+      "sha256": "3b109ce1b7a5be96ba014eeadd0f9014b0b75637b296b78524848119020cf1e7"
+    }
+  ]
+}

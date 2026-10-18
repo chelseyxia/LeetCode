@@ -1,0 +1,41 @@
+{
+  "frontendId": "109",
+  "title": "Convert Sorted List to Binary Search Tree",
+  "slug": "convert-sorted-list-to-binary-search-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603449333",
+      "submissionIds": [
+        "603449333"
+      ],
+      "timestamp": 1639808956,
+      "sha256": "faa08c697dd35c6ed51bd8aff2a3c60e726a2067936e5495f86c154094e7e0c6"
+    }
+  ]
+}

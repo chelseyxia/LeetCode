@@ -1,0 +1,33 @@
+{
+  "frontendId": "809",
+  "title": "Expressive Words",
+  "slug": "expressive-words",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "617103053",
+      "submissionIds": [
+        "617103053"
+      ],
+      "timestamp": 1641839753,
+      "sha256": "7c43cebcc63359a195f0dbc3be722b39de8f6178b6a5f8995bf0217cedda7323"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "frontendId": "1190",
+  "title": "Reverse Substrings Between Each Pair of Parentheses",
+  "slug": "reverse-substrings-between-each-pair-of-parentheses",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Bracket Sequences",
+      "slug": "bracket-sequences"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "637307086",
+      "submissionIds": [
+        "637307086"
+      ],
+      "timestamp": 1644342231,
+      "sha256": "f730c239b9544f8cbedb219916bded639a1d949bb43d035793f7f65729c3d64f"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "637318401",
+      "submissionIds": [
+        "637318401"
+      ],
+      "timestamp": 1644343300,
+      "sha256": "2dd6ad85b808c1fa0c5c5fe8226ad34160ca6d9cf6e0ebb6355c5a8f1dd41e14"
+    }
+  ]
+}

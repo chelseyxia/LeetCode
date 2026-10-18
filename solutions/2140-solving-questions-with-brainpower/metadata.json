@@ -1,0 +1,38 @@
+{
+  "frontendId": "2140",
+  "title": "Solving Questions With Brainpower",
+  "slug": "solving-questions-with-brainpower",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2169637347",
+      "submissionIds": [
+        "2169637347"
+      ],
+      "timestamp": 1791748987,
+      "sha256": "1eba8ab161c24297488570be67dc82a30afaf04b3a39e16de8ae22237c98e8ac"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2169666305",
+      "submissionIds": [
+        "2169666305"
+      ],
+      "timestamp": 1791752944,
+      "sha256": "6d53c057b0f0850539e387e8bd55d4893e14a37f4d9cf0fc346e791cbb4af196"
+    }
+  ]
+}

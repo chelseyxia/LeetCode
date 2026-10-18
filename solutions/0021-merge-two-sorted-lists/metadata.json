@@ -1,0 +1,74 @@
+{
+  "frontendId": "21",
+  "title": "Merge Two Sorted Lists",
+  "slug": "merge-two-sorted-lists",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 6,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "537970687",
+      "submissionIds": [
+        "537970687"
+      ],
+      "timestamp": 1628872084,
+      "sha256": "87c08424d224121d21732f75ca43f7a029afdf7d0697852ec426df1a6865c742"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "537976635",
+      "submissionIds": [
+        "537976635"
+      ],
+      "timestamp": 1628872934,
+      "sha256": "b42be931648048c06df1f8d2b43792b147bd0c6824802607b068e958960f9fc2"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "537977075",
+      "submissionIds": [
+        "537977075"
+      ],
+      "timestamp": 1628872997,
+      "sha256": "8ed70137293c8d7fd25044d7c64df8722b19ef73d48c49419dc7f1b8005816c1"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "544923949",
+      "submissionIds": [
+        "544923949"
+      ],
+      "timestamp": 1630038404,
+      "sha256": "092f8ff1c9486bd4679e2d722786f6eb09938a6dabac00edbb8f14c6efb842d7"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "552210680",
+      "submissionIds": [
+        "552210680"
+      ],
+      "timestamp": 1631214650,
+      "sha256": "0cf7673af9ee009b8956b3b5b29aba2595c79e13233e40ad0c86a458fdb0bf3a"
+    },
+    {
+      "file": "solution-6.java",
+      "submissionId": "555563671",
+      "submissionIds": [
+        "555563671"
+      ],
+      "timestamp": 1631741141,
+      "sha256": "56b7591020739a4abffaf9e51e14bfc62ba008b8efb55323920807dea23ef4ce"
+    }
+  ]
+}

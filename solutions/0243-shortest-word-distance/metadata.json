@@ -1,0 +1,29 @@
+{
+  "frontendId": "243",
+  "title": "Shortest Word Distance",
+  "slug": "shortest-word-distance",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618849116",
+      "submissionIds": [
+        "618849116"
+      ],
+      "timestamp": 1642056582,
+      "sha256": "0277237861b60246ce09bd8717bf284132db22cb25be9f52b77c4be94f5fcf5f"
+    }
+  ]
+}

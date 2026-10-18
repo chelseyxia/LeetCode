@@ -1,0 +1,38 @@
+{
+  "frontendId": "151",
+  "title": "Reverse Words in a String",
+  "slug": "reverse-words-in-a-string",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "567411095",
+      "submissionIds": [
+        "567411095"
+      ],
+      "timestamp": 1633624137,
+      "sha256": "28936d30c46d53b207e67289be638be88bb924e21750999f5274d3f1fefc7627"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "643514599",
+      "submissionIds": [
+        "643514599"
+      ],
+      "timestamp": 1645135829,
+      "sha256": "b47ed89d765037eafe0ee314c563cb4ca82275ecd3a85769e5794acc209c21de"
+    }
+  ]
+}

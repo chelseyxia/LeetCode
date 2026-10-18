@@ -1,0 +1,33 @@
+{
+  "frontendId": "2265",
+  "title": "Count Nodes Equal to Average of Subtree",
+  "slug": "count-nodes-equal-to-average-of-subtree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2151612054",
+      "submissionIds": [
+        "2151612054"
+      ],
+      "timestamp": 1790227523,
+      "sha256": "93914ad072a8dfbd77d22b96cf4fbb6d404b7ede37e839484c1f9b4e383eb134"
+    }
+  ]
+}

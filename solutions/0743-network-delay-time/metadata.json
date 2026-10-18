@@ -1,0 +1,64 @@
+{
+  "frontendId": "743",
+  "title": "Network Delay Time",
+  "slug": "network-delay-time",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Shortest Path",
+      "slug": "shortest-path"
+    },
+    {
+      "name": "Dijkstra's Algorithm",
+      "slug": "dijkstra"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "722199047",
+      "submissionIds": [
+        "722199047"
+      ],
+      "timestamp": 1655224784,
+      "sha256": "a66ec0a2d7a47037e729b38f08c8e79110c82f1a082f62ef669c142117c2f524"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "722362830",
+      "submissionIds": [
+        "722362830",
+        "722253764"
+      ],
+      "timestamp": 1655239525,
+      "sha256": "2ec73a471d85faf96351467dc0bf7ac12cfc405eec20a9038d3b52780d0115bc"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2108418766",
+      "submissionIds": [
+        "2108418766"
+      ],
+      "timestamp": 1786849558,
+      "sha256": "60f1236303fa34d646e07898758b2c90c7b4323e1b1f458218d26916e96d8995"
+    }
+  ]
+}

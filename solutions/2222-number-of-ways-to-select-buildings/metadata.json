@@ -1,0 +1,33 @@
+{
+  "frontendId": "2222",
+  "title": "Number of Ways to Select Buildings",
+  "slug": "number-of-ways-to-select-buildings",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "754116798",
+      "submissionIds": [
+        "754116798"
+      ],
+      "timestamp": 1658536434,
+      "sha256": "d6edf676cd94e8278c5395c0fe83d5633861d700c2669c917344f9c0fab32774"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "frontendId": "844",
+  "title": "Backspace String Compare",
+  "slug": "backspace-string-compare",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "606798855",
+      "submissionIds": [
+        "606798855"
+      ],
+      "timestamp": 1640414920,
+      "sha256": "13a3780a505f0912d98228165a3e008d5d91b15fd6f00e1029348e8f095006eb"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "606798890",
+      "submissionIds": [
+        "606798890"
+      ],
+      "timestamp": 1640414927,
+      "sha256": "bd17de51766eb4d3867270efc7e60c460e6c063c69c47c5eda5b1fdcb777f82c"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "724210985",
+      "submissionIds": [
+        "724210985"
+      ],
+      "timestamp": 1655446064,
+      "sha256": "c7c2243cf0091e80e5f2212c38456f61d3ea1295a83512d90565bd3c339a5fed"
+    }
+  ]
+}

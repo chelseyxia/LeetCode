@@ -1,0 +1,42 @@
+{
+  "frontendId": "242",
+  "title": "Valid Anagram",
+  "slug": "valid-anagram",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610139701",
+      "submissionIds": [
+        "610139701"
+      ],
+      "timestamp": 1640918575,
+      "sha256": "85c207c42f4ae7a6977a00a6366b63f0b98429a49b5389414f3932292592a5a6"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "727311435",
+      "submissionIds": [
+        "727311435"
+      ],
+      "timestamp": 1655786049,
+      "sha256": "408a5d7bf2e7c4c92028a42e4ce2ce26d0bee3756da6ef4dfeafd08a4f943949"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "frontendId": "287",
+  "title": "Find the Duplicate Number",
+  "slug": "find-the-duplicate-number",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Pigeonhole Principle",
+      "slug": "pigeonhole-principle"
+    },
+    {
+      "name": "Floyd's Cycle Finding Algorithm",
+      "slug": "floyds-cycle-finding-algorithm"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622272270",
+      "submissionIds": [
+        "622272270"
+      ],
+      "timestamp": 1642484376,
+      "sha256": "773cf8641533c4b2ea6e502c962fd41ebd9f4dc78b7af60cdd2dbacb8943084c"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "643684123",
+      "submissionIds": [
+        "643684123"
+      ],
+      "timestamp": 1645159509,
+      "sha256": "77082c7d3297787117f284516187d321d953277c255595f47c8d02970a47e479"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "643691298",
+      "submissionIds": [
+        "643691298"
+      ],
+      "timestamp": 1645160232,
+      "sha256": "c60e989d4c599dbbc1feb015dbb6a925316d15b4b6b6b98821152e67d8cb41f6"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2007795898",
+      "submissionIds": [
+        "2007795898"
+      ],
+      "timestamp": 1779251815,
+      "sha256": "d38451c0070f7e7fc56ff2f7149c8843a533c65c0b258327fccd8463bb2b7a3e"
+    }
+  ]
+}

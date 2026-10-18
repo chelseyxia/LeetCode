@@ -1,0 +1,70 @@
+{
+  "frontendId": "394",
+  "title": "Decode String",
+  "slug": "decode-string",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 6,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607567274",
+      "submissionIds": [
+        "607567274"
+      ],
+      "timestamp": 1640548286,
+      "sha256": "852553d71fe2ec2bb73c0c5dc30ac03be19c0fb537693bfa9dd9e6520e55dbc1"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "607567349",
+      "submissionIds": [
+        "607567349"
+      ],
+      "timestamp": 1640548295,
+      "sha256": "79130be8c7772ac7559ce0b815a3da7fa80beca72f077a81ddfe8b5c9bf7f26d"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "634650154",
+      "submissionIds": [
+        "634650154"
+      ],
+      "timestamp": 1644018648,
+      "sha256": "39180598b8773c717e97e3441703a90c8a5f57a63ad1d1601ba089c52a9558ef"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "637750385",
+      "submissionIds": [
+        "637750385"
+      ],
+      "timestamp": 1644392559,
+      "sha256": "e9ee5840ae7eb0a6b5023d63a2bca13e6985e2bffc202e16294d8408edf71d5c"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "733951338",
+      "submissionIds": [
+        "733951338",
+        "729830858"
+      ],
+      "timestamp": 1656475014,
+      "sha256": "23ffa5e13b9d7f0e2d1b7dfdd16c040cd829affbc4fed46801790a8630f8d1f0"
+    }
+  ]
+}

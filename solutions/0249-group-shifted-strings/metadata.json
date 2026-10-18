@@ -1,0 +1,33 @@
+{
+  "frontendId": "249",
+  "title": "Group Shifted Strings",
+  "slug": "group-shifted-strings",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618867852",
+      "submissionIds": [
+        "618867852"
+      ],
+      "timestamp": 1642058565,
+      "sha256": "a4c1c1757ec1725cf0f19026bf64cc43805c62c43a44b3c5eddc0264aa97e71c"
+    }
+  ]
+}

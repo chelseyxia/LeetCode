@@ -1,0 +1,42 @@
+{
+  "frontendId": "51",
+  "title": "N-Queens",
+  "slug": "n-queens",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Algorithm X",
+      "slug": "algorithm-x"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "614568994",
+      "submissionIds": [
+        "614568994"
+      ],
+      "timestamp": 1641514865,
+      "sha256": "1b1506c3943f3eb3acc28531886b9c345b028d5a0e5e851648aee34d6afbd3c8"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2033183535",
+      "submissionIds": [
+        "2033183535"
+      ],
+      "timestamp": 1781465250,
+      "sha256": "4509ec2fc6fbbb39f8d8b01f50ca6b868e04183ecc7eeaab305f8c1a4da0cb12"
+    }
+  ]
+}

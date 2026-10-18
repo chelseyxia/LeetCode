@@ -1,0 +1,26 @@
+{
+  "frontendId": "163",
+  "title": "Missing Ranges",
+  "slug": "missing-ranges",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "736397413",
+      "submissionIds": [
+        "736397413",
+        "735664278"
+      ],
+      "timestamp": 1656744560,
+      "sha256": "5cc5dadde7bbea8afcb37062edb636251283592f7eab73c0c76ad3bb1828d5c4"
+    }
+  ]
+}

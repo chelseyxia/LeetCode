@@ -1,0 +1,37 @@
+{
+  "frontendId": "907",
+  "title": "Sum of Subarray Minimums",
+  "slug": "sum-of-subarray-minimums",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2082593317",
+      "submissionIds": [
+        "2082593317"
+      ],
+      "timestamp": 1785103244,
+      "sha256": "e95fcabb8c9c169ea68c4be459ec3c6be1c5ce36bd8142a3a2e8158441f100d7"
+    }
+  ]
+}

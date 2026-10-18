@@ -1,0 +1,41 @@
+{
+  "frontendId": "362",
+  "title": "Design Hit Counter",
+  "slug": "design-hit-counter",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Data Stream",
+      "slug": "data-stream"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608682275",
+      "submissionIds": [
+        "608682275"
+      ],
+      "timestamp": 1640717514,
+      "sha256": "4cb7d8ac4f0f29f392b731c05d68e0ab9332654634518b6cc4d9968dcc6c39a6"
+    }
+  ]
+}

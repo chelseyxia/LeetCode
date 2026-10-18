@@ -1,0 +1,33 @@
+{
+  "frontendId": "951",
+  "title": "Flip Equivalent Binary Trees",
+  "slug": "flip-equivalent-binary-trees",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "729042592",
+      "submissionIds": [
+        "729042592"
+      ],
+      "timestamp": 1655962061,
+      "sha256": "76c01703be9e82953a02e6a27872de5bd16147c0931e2ac3d169d3c671c76a69"
+    }
+  ]
+}

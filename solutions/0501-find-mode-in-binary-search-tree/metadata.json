@@ -1,0 +1,37 @@
+{
+  "frontendId": "501",
+  "title": "Find Mode in Binary Search Tree",
+  "slug": "find-mode-in-binary-search-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665472972",
+      "submissionIds": [
+        "665472972"
+      ],
+      "timestamp": 1648007352,
+      "sha256": "ec576575b2d305cd3afd3e5d14836df8e3c6d205fae307c87f10fbe8dd64f808"
+    }
+  ]
+}

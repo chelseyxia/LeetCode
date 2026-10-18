@@ -1,0 +1,33 @@
+{
+  "frontendId": "904",
+  "title": "Fruit Into Baskets",
+  "slug": "fruit-into-baskets",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "723778161",
+      "submissionIds": [
+        "723778161"
+      ],
+      "timestamp": 1655396018,
+      "sha256": "e26427ba7643db65b00e40fbb429d0f81b235b48ee426a0a8ef3228ffc3e5e74"
+    }
+  ]
+}

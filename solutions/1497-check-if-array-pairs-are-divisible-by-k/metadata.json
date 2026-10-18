@@ -1,0 +1,42 @@
+{
+  "frontendId": "1497",
+  "title": "Check If Array Pairs Are Divisible by k",
+  "slug": "check-if-array-pairs-are-divisible-by-k",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "639436571",
+      "submissionIds": [
+        "639436571"
+      ],
+      "timestamp": 1644605992,
+      "sha256": "cc8d623da76f4280e8d0520c9751596ebe648d30f206c865a7c6ae7c1b2416ca"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "639465215",
+      "submissionIds": [
+        "639465215"
+      ],
+      "timestamp": 1644609546,
+      "sha256": "facaaf1dd68d9d2b7f057d5dbe7ccceba9f8c19825b77eb19d3e636e7acc066e"
+    }
+  ]
+}

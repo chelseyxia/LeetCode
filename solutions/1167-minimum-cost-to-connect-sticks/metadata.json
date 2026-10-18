@@ -1,0 +1,69 @@
+{
+  "frontendId": "1167",
+  "title": "Minimum Cost to Connect Sticks",
+  "slug": "minimum-cost-to-connect-sticks",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "546380188",
+      "submissionIds": [
+        "546380188"
+      ],
+      "timestamp": 1630282320,
+      "sha256": "8315fb89a58d351d5dcd3da29dec16f6497012e5f2dcbc46e33886b94a778441"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "546383335",
+      "submissionIds": [
+        "546383335"
+      ],
+      "timestamp": 1630282870,
+      "sha256": "6260f98cc1a22398bef67be97d097b0654bdb131c31429acb3881216fe88dee2"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "546383577",
+      "submissionIds": [
+        "546383577"
+      ],
+      "timestamp": 1630282910,
+      "sha256": "bdb73877cf2ddd06cd9125e5704246af359a690627b8aba305020218f1a1160a"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "546384328",
+      "submissionIds": [
+        "546384328"
+      ],
+      "timestamp": 1630283049,
+      "sha256": "d6af2215f57fdfe1c78459a05105ec4d99b2b50df0a2d8108a81df3987a4348b"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "2114617353",
+      "submissionIds": [
+        "2114617353"
+      ],
+      "timestamp": 1787286138,
+      "sha256": "f238bf934ac963d358a8cd46d899497ac1881bc6a88df659ee58b495ef49157b"
+    }
+  ]
+}

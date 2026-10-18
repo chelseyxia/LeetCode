@@ -1,0 +1,54 @@
+{
+  "frontendId": "1048",
+  "title": "Longest String Chain",
+  "slug": "longest-string-chain",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "591626604",
+      "submissionIds": [
+        "591626604"
+      ],
+      "timestamp": 1637693852,
+      "sha256": "0a42e347131d885e17934e80f03f48d2178df4d4a255ba32b475b4e33383a93a"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "635303200",
+      "submissionIds": [
+        "635303200"
+      ],
+      "timestamp": 1644105278,
+      "sha256": "a4b43c549e16a9eba66243e6c716d00dbecc5661de6c7dac9ae81331b8402871"
+    }
+  ]
+}

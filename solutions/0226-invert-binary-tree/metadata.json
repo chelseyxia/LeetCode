@@ -1,0 +1,37 @@
+{
+  "frontendId": "226",
+  "title": "Invert Binary Tree",
+  "slug": "invert-binary-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "563563050",
+      "submissionIds": [
+        "563563050"
+      ],
+      "timestamp": 1633021123,
+      "sha256": "acc15c8cfb2994b6a82a3a64cd273a6a612c3ba04e4f163aa7149c0fbb05079c"
+    }
+  ]
+}

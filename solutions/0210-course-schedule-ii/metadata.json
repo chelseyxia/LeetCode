@@ -1,0 +1,65 @@
+{
+  "frontendId": "210",
+  "title": "Course Schedule II",
+  "slug": "course-schedule-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Topological Sort",
+      "slug": "topological-sort"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "602128300",
+      "submissionIds": [
+        "602128300"
+      ],
+      "timestamp": 1639552616,
+      "sha256": "fd78ee0aa9a29c3d447f25cd5e7f37346c1ce34cd0f8381782fe4680d765f56a"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "728811373",
+      "submissionIds": [
+        "728811373",
+        "728811259"
+      ],
+      "timestamp": 1655934948,
+      "sha256": "9d0f1675d6b1746144c64a05e58927fd5f2b4f82fba072b25932cf14639bc2ae"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2040295555",
+      "submissionIds": [
+        "2040295555"
+      ],
+      "timestamp": 1781992363,
+      "sha256": "58c1abc68de8d089e29e3701096b462b7c1e8bd06e4261a717c553f4b48864bb"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2052971370",
+      "submissionIds": [
+        "2052971370"
+      ],
+      "timestamp": 1782964577,
+      "sha256": "ad1458ff2adcec893ba93a4b4024bf8d2a6859188c12b49bc2e4144aaa827d0e"
+    }
+  ]
+}

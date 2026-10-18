@@ -1,0 +1,51 @@
+{
+  "frontendId": "977",
+  "title": "Squares of a Sorted Array",
+  "slug": "squares-of-a-sorted-array",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "619528801",
+      "submissionIds": [
+        "619528801"
+      ],
+      "timestamp": 1642144525,
+      "sha256": "2875c85750ecd950d22c09c40d3c6216f43468c6c260cb8e26cd201622285d5d"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "619531321",
+      "submissionIds": [
+        "619531321"
+      ],
+      "timestamp": 1642144791,
+      "sha256": "cd5406cc3c5fb06233a4fb0ba9f722846e47de7c70556b8b07d8e1ade1de7ffe"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2005934788",
+      "submissionIds": [
+        "2005934788"
+      ],
+      "timestamp": 1779063462,
+      "sha256": "d5ee461d489c3c5aa1f47a7f037cfb2869893a3ceb1dcb2ef9ff571302cfe496"
+    }
+  ]
+}

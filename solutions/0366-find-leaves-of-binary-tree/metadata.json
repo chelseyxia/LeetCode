@@ -1,0 +1,37 @@
+{
+  "frontendId": "366",
+  "title": "Find Leaves of Binary Tree",
+  "slug": "find-leaves-of-binary-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "DP on Trees",
+      "slug": "dp-on-trees"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "602994010",
+      "submissionIds": [
+        "602994010"
+      ],
+      "timestamp": 1639715810,
+      "sha256": "8367690ece24034a553fb0fb36df1d1b44aee719738634676eca5ce1f0d19ba2"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "frontendId": "398",
+  "title": "Random Pick Index",
+  "slug": "random-pick-index",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Reservoir Sampling",
+      "slug": "reservoir-sampling"
+    },
+    {
+      "name": "Randomized",
+      "slug": "randomized"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622814036",
+      "submissionIds": [
+        "622814036"
+      ],
+      "timestamp": 1642546377,
+      "sha256": "0de568736ac406b266451ee1ee16270e3f5fa3c7002523ba12fca709b45318f0"
+    }
+  ]
+}

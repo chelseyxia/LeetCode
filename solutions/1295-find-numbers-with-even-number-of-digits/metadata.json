@@ -1,0 +1,29 @@
+{
+  "frontendId": "1295",
+  "title": "Find Numbers with Even Number of Digits",
+  "slug": "find-numbers-with-even-number-of-digits",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "655310387",
+      "submissionIds": [
+        "655310387"
+      ],
+      "timestamp": 1646675865,
+      "sha256": "5f5ae5c3cb869b022a4fb6a520a33727dbdb358e30f56951a2eedb2a54ee75be"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "frontendId": "495",
+  "title": "Teemo Attacking",
+  "slug": "teemo-attacking",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "664532570",
+      "submissionIds": [
+        "664532570"
+      ],
+      "timestamp": 1647886818,
+      "sha256": "dc055a9b5e0f696415f8c43a2bf2095e19080605e3755d7c739b927341025220"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "664537238",
+      "submissionIds": [
+        "664537238"
+      ],
+      "timestamp": 1647887273,
+      "sha256": "455c5faca08e9dfd5c8a48622742ff9a92e9f0dab1077001c3259edff702c419"
+    }
+  ]
+}

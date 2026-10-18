@@ -1,0 +1,54 @@
+{
+  "frontendId": "621",
+  "title": "Task Scheduler",
+  "slug": "task-scheduler",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "564083941",
+      "submissionIds": [
+        "564083941"
+      ],
+      "timestamp": 1633107498,
+      "sha256": "9f216fbd551da9b43eb53958bb37573cb3ce5dd89b75a9da1fc5a3c3d0ddf225"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2109442611",
+      "submissionIds": [
+        "2109442611"
+      ],
+      "timestamp": 1786910385,
+      "sha256": "a4cc044264131dfae3d65cd103514b6fa33eb4dd01dd1b5d35682258929fb574"
+    }
+  ]
+}

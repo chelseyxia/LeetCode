@@ -1,0 +1,45 @@
+{
+  "frontendId": "241",
+  "title": "Different Ways to Add Parentheses",
+  "slug": "different-ways-to-add-parentheses",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    },
+    {
+      "name": "Memoization",
+      "slug": "memoization"
+    },
+    {
+      "name": "Bracket Sequences",
+      "slug": "bracket-sequences"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618462057",
+      "submissionIds": [
+        "618462057"
+      ],
+      "timestamp": 1642010343,
+      "sha256": "90475b11fe55678fa9c31b230eba6f66b6d31b910123874833aa43a19b4b43e0"
+    }
+  ]
+}

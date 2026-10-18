@@ -1,0 +1,25 @@
+{
+  "frontendId": "237",
+  "title": "Delete Node in a Linked List",
+  "slug": "delete-node-in-a-linked-list",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613835920",
+      "submissionIds": [
+        "613835920"
+      ],
+      "timestamp": 1641422532,
+      "sha256": "d8c23360d73546da2c54c9cb4998778b305db6bb38e54ef134f461325f092179"
+    }
+  ]
+}

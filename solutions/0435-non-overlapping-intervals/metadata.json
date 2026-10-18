@@ -1,0 +1,64 @@
+{
+  "frontendId": "435",
+  "title": "Non-overlapping Intervals",
+  "slug": "non-overlapping-intervals",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665551951",
+      "submissionIds": [
+        "665551951"
+      ],
+      "timestamp": 1648015818,
+      "sha256": "43870497cdae6f8ce901e7732bd0e7aea01c6e4ca0973f44a6a9c6b81edadfd0"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "665552333",
+      "submissionIds": [
+        "665552333"
+      ],
+      "timestamp": 1648015860,
+      "sha256": "04479066e040985b0752775205a002c2843e859705ff90c4a9a27d888e455372"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "1988996367",
+      "submissionIds": [
+        "1988996367"
+      ],
+      "timestamp": 1777247766,
+      "sha256": "df0985df6d3077b33ed9b5a595b9239aa98ed8c41f1bb0075995cd48721dc323"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2125414443",
+      "submissionIds": [
+        "2125414443"
+      ],
+      "timestamp": 1788116820,
+      "sha256": "8f3bfbad5b142782067668d142846d38d3a15f3ca5652465708687629a0395a5"
+    }
+  ]
+}

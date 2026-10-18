@@ -1,0 +1,83 @@
+{
+  "frontendId": "19",
+  "title": "Remove Nth Node From End of List",
+  "slug": "remove-nth-node-from-end-of-list",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "acceptedCountReported": 7,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "614056785",
+      "submissionIds": [
+        "614056785"
+      ],
+      "timestamp": 1641448323,
+      "sha256": "f31a266a34b25a601812080bb5177be69662ebef5df93969e1da4de110df8594"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "643565500",
+      "submissionIds": [
+        "643565500"
+      ],
+      "timestamp": 1645144345,
+      "sha256": "5c6f0c136faaa27d4e53770cf612f20c442ee717453151f42f50f10bdabb6d64"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "643567108",
+      "submissionIds": [
+        "643567108"
+      ],
+      "timestamp": 1645144586,
+      "sha256": "42178414b03fac57f5bd46c5e3a65b0beb47d7c2c3172b66a2c1c6eab4b6cafd"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "652787421",
+      "submissionIds": [
+        "652787421"
+      ],
+      "timestamp": 1646336905,
+      "sha256": "d220a204b073c9ba95102721050c97b60c82db8bff9550ce6df8e00cf04ad325"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "669961225",
+      "submissionIds": [
+        "669961225"
+      ],
+      "timestamp": 1648594976,
+      "sha256": "a83f170cbd0c288c970d5d58d4972fdc8aaf5a9cf182d0fddb738fe27eb749d8"
+    },
+    {
+      "file": "solution-6.java",
+      "submissionId": "669966091",
+      "submissionIds": [
+        "669966091"
+      ],
+      "timestamp": 1648595812,
+      "sha256": "069103de33f8749f4204a82fbbf877fd2f26807e1842c3e27d48cd8dda935623"
+    },
+    {
+      "file": "solution-7.java",
+      "submissionId": "2008569306",
+      "submissionIds": [
+        "2008569306"
+      ],
+      "timestamp": 1779322155,
+      "sha256": "7ca2179a296b8ec9ef816af4d32b4b75aa937f0ddc1379c58f9652b90505049f"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "frontendId": "1405",
+  "title": "Longest Happy String",
+  "slug": "longest-happy-string",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618102700",
+      "submissionIds": [
+        "618102700"
+      ],
+      "timestamp": 1641963545,
+      "sha256": "7e5cabb18194efc01176ba7e0038b72e6c7a323e8be20594959f793c1ead2f28"
+    }
+  ]
+}

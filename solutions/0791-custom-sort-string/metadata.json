@@ -1,0 +1,33 @@
+{
+  "frontendId": "791",
+  "title": "Custom Sort String",
+  "slug": "custom-sort-string",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622972504",
+      "submissionIds": [
+        "622972504"
+      ],
+      "timestamp": 1642565944,
+      "sha256": "4ee4bd56a93be465a912ba95d1615ebdc4c140d6ed719567e7d8990ffc8ce052"
+    }
+  ]
+}

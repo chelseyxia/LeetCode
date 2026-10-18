@@ -1,0 +1,33 @@
+{
+  "frontendId": "266",
+  "title": "Palindrome Permutation",
+  "slug": "palindrome-permutation",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "623036404",
+      "submissionIds": [
+        "623036404"
+      ],
+      "timestamp": 1642572051,
+      "sha256": "de10f5f56a891f9641237625145c30f083ba2547076611d7aad8ffc9b70edf1f"
+    }
+  ]
+}

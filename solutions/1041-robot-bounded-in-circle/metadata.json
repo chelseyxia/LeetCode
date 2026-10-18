@@ -1,0 +1,42 @@
+{
+  "frontendId": "1041",
+  "title": "Robot Bounded In Circle",
+  "slug": "robot-bounded-in-circle",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "537670118",
+      "submissionIds": [
+        "537670118"
+      ],
+      "timestamp": 1628822986,
+      "sha256": "283566b9f067924b8b38d4a84b97c783fcaec0059ee97330d50363897ec7bb62"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "545323732",
+      "submissionIds": [
+        "545323732"
+      ],
+      "timestamp": 1630104104,
+      "sha256": "52cc1d048e13390b4fa522246a377694d6ac2a2f06bdb9c16bf81f1144186545"
+    }
+  ]
+}

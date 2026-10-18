@@ -1,0 +1,33 @@
+{
+  "frontendId": "129",
+  "title": "Sum Root to Leaf Numbers",
+  "slug": "sum-root-to-leaf-numbers",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "616446672",
+      "submissionIds": [
+        "616446672"
+      ],
+      "timestamp": 1641757722,
+      "sha256": "c0802e095b2cb882f23789b335e0e46dab5692573e3fc97466b6048d8efbb82b"
+    }
+  ]
+}

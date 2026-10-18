@@ -1,0 +1,42 @@
+{
+  "frontendId": "1381",
+  "title": "Design a Stack With Increment Operation",
+  "slug": "design-a-stack-with-increment-operation",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607801652",
+      "submissionIds": [
+        "607801652"
+      ],
+      "timestamp": 1640585403,
+      "sha256": "f80c71b8fe17f5aa6ff7da76d8f84781ff11913ce2d779f60c60144dcd937bd3"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "633127213",
+      "submissionIds": [
+        "633127213"
+      ],
+      "timestamp": 1643826056,
+      "sha256": "e6dbbf8364d379e2e4607f63bdfc67ad50469391c219318e0435a721e84192c1"
+    }
+  ]
+}

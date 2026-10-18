@@ -1,0 +1,33 @@
+{
+  "frontendId": "450",
+  "title": "Delete Node in a BST",
+  "slug": "delete-node-in-a-bst",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "616693666",
+      "submissionIds": [
+        "616693666"
+      ],
+      "timestamp": 1641786888,
+      "sha256": "581a99ee0b53167f0855992f9958f41855b9496caf839bf27276c475fe5762e9"
+    }
+  ]
+}

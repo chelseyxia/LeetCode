@@ -1,0 +1,33 @@
+{
+  "frontendId": "282",
+  "title": "Expression Add Operators",
+  "slug": "expression-add-operators",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "621518128",
+      "submissionIds": [
+        "621518128"
+      ],
+      "timestamp": 1642400002,
+      "sha256": "9975744162fc0a44f63da1c133bf70212f99f37397b62625fa2286e28eadde82"
+    }
+  ]
+}

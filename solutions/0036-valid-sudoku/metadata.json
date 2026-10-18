@@ -1,0 +1,42 @@
+{
+  "frontendId": "36",
+  "title": "Valid Sudoku",
+  "slug": "valid-sudoku",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "581591442",
+      "submissionIds": [
+        "581591442"
+      ],
+      "timestamp": 1635962088,
+      "sha256": "b4084695264caa3982761410fcc4f3fdca4520e34c9b73d3048264b3c0fe2d56"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "640829396",
+      "submissionIds": [
+        "640829396"
+      ],
+      "timestamp": 1644791555,
+      "sha256": "1f1d1d2f24c54658e9cb043288bcb182683cf4a545ec2d509fbdb18fdcd84311"
+    }
+  ]
+}

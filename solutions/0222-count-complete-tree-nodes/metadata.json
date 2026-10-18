@@ -1,0 +1,55 @@
+{
+  "frontendId": "222",
+  "title": "Count Complete Tree Nodes",
+  "slug": "count-complete-tree-nodes",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "616789434",
+      "submissionIds": [
+        "616789434"
+      ],
+      "timestamp": 1641797444,
+      "sha256": "c305721794453b8271f779f290ccea8dea6d324266cf5514ace9265bf9868dd8"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "728971078",
+      "submissionIds": [
+        "728971078"
+      ],
+      "timestamp": 1655955380,
+      "sha256": "7a66b4affe35548f7de370af9ee7220daf943c6b6ca1ed26318e5f61790194f9"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "728978328",
+      "submissionIds": [
+        "728978328"
+      ],
+      "timestamp": 1655956102,
+      "sha256": "e63244fde5d452242cc48e9d8249f88a5d4ccef1818586a8e0caaa6004823ac8"
+    }
+  ]
+}

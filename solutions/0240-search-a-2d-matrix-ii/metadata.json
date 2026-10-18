@@ -1,0 +1,55 @@
+{
+  "frontendId": "240",
+  "title": "Search a 2D Matrix II",
+  "slug": "search-a-2d-matrix-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "546470671",
+      "submissionIds": [
+        "546470671"
+      ],
+      "timestamp": 1630297158,
+      "sha256": "c51d1d332c3532967a2407f4f13aaae82e24f3e571c0972bd6c7bcc7512b53c6"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "643452972",
+      "submissionIds": [
+        "643452972"
+      ],
+      "timestamp": 1645127115,
+      "sha256": "aa4a884601351abd322f9c3f26e4d967ea27d0ebda75c51fbe8cda94e8b597af"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "643464403",
+      "submissionIds": [
+        "643464403"
+      ],
+      "timestamp": 1645128573,
+      "sha256": "5568b0c417783fe6d113893eccb8fdaafc3a02b93b6b46e1c41b2f9ff0ed2587"
+    }
+  ]
+}

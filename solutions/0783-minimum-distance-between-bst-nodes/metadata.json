@@ -1,0 +1,41 @@
+{
+  "frontendId": "783",
+  "title": "Minimum Distance Between BST Nodes",
+  "slug": "minimum-distance-between-bst-nodes",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604691312",
+      "submissionIds": [
+        "604691312"
+      ],
+      "timestamp": 1640044966,
+      "sha256": "831c15da55c0ec0c29fc654fa52da625905ff994c9b2e6b52265355317059a3e"
+    }
+  ]
+}

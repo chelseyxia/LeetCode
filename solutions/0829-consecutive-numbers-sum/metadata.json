@@ -1,0 +1,29 @@
+{
+  "frontendId": "829",
+  "title": "Consecutive Numbers Sum",
+  "slug": "consecutive-numbers-sum",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Enumeration",
+      "slug": "enumeration"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "620737006",
+      "submissionIds": [
+        "620737006"
+      ],
+      "timestamp": 1642306521,
+      "sha256": "b1a0ca9f2680bb748d85a2634b83ff874a5414034029610cc076ba3db59bb1b9"
+    }
+  ]
+}

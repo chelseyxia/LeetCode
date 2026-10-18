@@ -1,0 +1,67 @@
+{
+  "frontendId": "332",
+  "title": "Reconstruct Itinerary",
+  "slug": "reconstruct-itinerary",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Eulerian Circuit",
+      "slug": "eulerian-circuit"
+    },
+    {
+      "name": "Eulerian Path",
+      "slug": "eulerian-path"
+    },
+    {
+      "name": "Semi-Eulerian Graph",
+      "slug": "semi-eulerian-graph"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "619928090",
+      "submissionIds": [
+        "619928090"
+      ],
+      "timestamp": 1642199751,
+      "sha256": "7a6640785bc6554039d9d6cacbb0dd7b7d370c7311f9e24d250d4a89645ad860"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "705762731",
+      "submissionIds": [
+        "705762731",
+        "705762397"
+      ],
+      "timestamp": 1653343098,
+      "sha256": "906a7f96928774bdaed498487c8034bc9f59c9d49cea4f6f349b5435d7bf5d7a"
+    }
+  ]
+}

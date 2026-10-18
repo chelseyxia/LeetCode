@@ -1,0 +1,33 @@
+{
+  "frontendId": "430",
+  "title": "Flatten a Multilevel Doubly Linked List",
+  "slug": "flatten-a-multilevel-doubly-linked-list",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Doubly-Linked List",
+      "slug": "doubly-linked-list"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603025762",
+      "submissionIds": [
+        "603025762"
+      ],
+      "timestamp": 1639720681,
+      "sha256": "cf902249020b6234245469c9028f6ba5d26a639caef288473d18db96e19b4942"
+    }
+  ]
+}

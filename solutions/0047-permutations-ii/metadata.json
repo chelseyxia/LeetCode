@@ -1,0 +1,51 @@
+{
+  "frontendId": "47",
+  "title": "Permutations II",
+  "slug": "permutations-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "615290197",
+      "submissionIds": [
+        "615290197"
+      ],
+      "timestamp": 1641613329,
+      "sha256": "c3a53d0798051e04bfdb0dc51f8548e36c6e399c42e662f36e4282591213aa98"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "615290252",
+      "submissionIds": [
+        "615290252"
+      ],
+      "timestamp": 1641613337,
+      "sha256": "b23787e3dc726e0594fc7ac2bdbd64c5fe9832410f46fa3ce2023f8e5bd8c156"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2029211036",
+      "submissionIds": [
+        "2029211036"
+      ],
+      "timestamp": 1781148724,
+      "sha256": "809318c366d5ff781d8fe40405312af6a249a479e0155c267cb4aca78d05617c"
+    }
+  ]
+}

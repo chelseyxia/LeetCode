@@ -1,0 +1,53 @@
+{
+  "frontendId": "694",
+  "title": "Number of Distinct Islands",
+  "slug": "number-of-distinct-islands",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Hash Function",
+      "slug": "hash-function"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "602624823",
+      "submissionIds": [
+        "602624823"
+      ],
+      "timestamp": 1639642779,
+      "sha256": "7de38fb4a732b5df906bc4554734f560b43f0722d81942722d2fdec4a58265d0"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "frontendId": "215",
+  "title": "Kth Largest Element in an Array",
+  "slug": "kth-largest-element-in-an-array",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Quickselect",
+      "slug": "quickselect"
+    }
+  ],
+  "acceptedCountReported": 8,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "554463667",
+      "submissionIds": [
+        "554463667",
+        "538478853"
+      ],
+      "timestamp": 1631576480,
+      "sha256": "c0cc378887dff1aba6b4e1b52f3b88eebe8fb5b97f304fbe476e50877a49ff4d"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "554465544",
+      "submissionIds": [
+        "554465544",
+        "554465270"
+      ],
+      "timestamp": 1631576834,
+      "sha256": "958274c24bb29005e5a992f4708ec11e25aedb482e331a3eec219727de2c9242"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "631885610",
+      "submissionIds": [
+        "631885610"
+      ],
+      "timestamp": 1643671687,
+      "sha256": "3aa20a7aec635d35ffd2a45379c10cb164bab906f2d5538bb13b77ac18ce912f"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "680506085",
+      "submissionIds": [
+        "680506085",
+        "643774935"
+      ],
+      "timestamp": 1649976345,
+      "sha256": "734e57f49969e7b7d5fe47134d058d10a4706d254f77f256d8c68ed82ce1ab1e"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "2097526343",
+      "submissionIds": [
+        "2097526343"
+      ],
+      "timestamp": 1786081173,
+      "sha256": "7ecdf0e8d66b4bb099ff3e9c994b41eeaa5716fa662b0d4e6ed418a3e7c932dc"
+    }
+  ]
+}

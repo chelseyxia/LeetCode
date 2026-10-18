@@ -1,0 +1,59 @@
+{
+  "frontendId": "797",
+  "title": "All Paths From Source to Target",
+  "slug": "all-paths-from-source-to-target",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Directed Acyclic Graph",
+      "slug": "directed-acyclic-graph"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "612564924",
+      "submissionIds": [
+        "612564924"
+      ],
+      "timestamp": 1641264152,
+      "sha256": "aa08fe9d9dc496ddb92db07a3d12f0e94e119ddb870a9a558b3484cacd89595d"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "704362699",
+      "submissionIds": [
+        "704362699"
+      ],
+      "timestamp": 1653178902,
+      "sha256": "562ad4ae067d0e935ec389c1d0b5eeca3ff9a6fc941b7c304e356d388a15f056"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "719058081",
+      "submissionIds": [
+        "719058081"
+      ],
+      "timestamp": 1654884061,
+      "sha256": "813ed57be15d23ee3be13ed990eff9f17d60fbc2174e3fd67c7c63a3e0236988"
+    }
+  ]
+}

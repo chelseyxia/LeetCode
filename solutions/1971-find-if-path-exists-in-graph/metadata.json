@@ -1,0 +1,73 @@
+{
+  "frontendId": "1971",
+  "title": "Find if Path Exists in Graph",
+  "slug": "find-if-path-exists-in-graph",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604342938",
+      "submissionIds": [
+        "604342938"
+      ],
+      "timestamp": 1639981413,
+      "sha256": "018a8de21e7f5b8f380ad83dfcd52cb94f03a925063f2a10581c2332f4b9491e"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "703666255",
+      "submissionIds": [
+        "703666255"
+      ],
+      "timestamp": 1653080207,
+      "sha256": "596ef77da4d4976d9689f2c930178f7a19f3ebbb4c41d2efee3ab6f2d39f8934"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "703679454",
+      "submissionIds": [
+        "703679454"
+      ],
+      "timestamp": 1653082240,
+      "sha256": "b386c76e97e40dc30888324e6689dc02341d5ab55abc28fa98336e693d661b39"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "718575451",
+      "submissionIds": [
+        "718575451"
+      ],
+      "timestamp": 1654831876,
+      "sha256": "d6a21247f95e52528607c20c6d1ba0f099288a2ee65b1834b36acdc0f9009c07"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "718997539",
+      "submissionIds": [
+        "718997539"
+      ],
+      "timestamp": 1654878083,
+      "sha256": "c7fdadb63e100a2ceb36cbf12b4a23fe4997caaf12eef51d057ce2347f941302"
+    }
+  ]
+}

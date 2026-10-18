@@ -1,0 +1,50 @@
+{
+  "frontendId": "75",
+  "title": "Sort Colors",
+  "slug": "sort-colors",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Quicksort",
+      "slug": "quicksort"
+    },
+    {
+      "name": "Bubble Sort",
+      "slug": "bubble-sort"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "570647635",
+      "submissionIds": [
+        "570647635"
+      ],
+      "timestamp": 1634142507,
+      "sha256": "67f049b129d2bab4b4cf87dc8f0790daf1d619e022ed2fd146fb37be8292e151"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2000204907",
+      "submissionIds": [
+        "2000204907"
+      ],
+      "timestamp": 1778476124,
+      "sha256": "60795ac64f73360a1ce3281d5d0a80c21e081b8f0546ee180362538a85798811"
+    }
+  ]
+}

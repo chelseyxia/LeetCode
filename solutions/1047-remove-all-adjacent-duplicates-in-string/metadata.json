@@ -1,0 +1,29 @@
+{
+  "frontendId": "1047",
+  "title": "Remove All Adjacent Duplicates In String",
+  "slug": "remove-all-adjacent-duplicates-in-string",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "606790506",
+      "submissionIds": [
+        "606790506"
+      ],
+      "timestamp": 1640413469,
+      "sha256": "faad0161b7d927b1ef47f2ddf9ad7664a7740a4a1c33a9498c08ad18cdc14d34"
+    }
+  ]
+}

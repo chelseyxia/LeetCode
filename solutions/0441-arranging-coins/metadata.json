@@ -1,0 +1,29 @@
+{
+  "frontendId": "441",
+  "title": "Arranging Coins",
+  "slug": "arranging-coins",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "620135898",
+      "submissionIds": [
+        "620135898"
+      ],
+      "timestamp": 1642231475,
+      "sha256": "85d627d1fc037b736999631863eb93a78e2e11f3d6983fefcb9ea02c0073bd78"
+    }
+  ]
+}

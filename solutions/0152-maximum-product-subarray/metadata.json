@@ -1,0 +1,31 @@
+{
+  "frontendId": "152",
+  "title": "Maximum Product Subarray",
+  "slug": "maximum-product-subarray",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "582527005",
+      "submissionIds": [
+        "582527005",
+        "582526903",
+        "582139597"
+      ],
+      "timestamp": 1636127704,
+      "sha256": "7e2cabad8051d9d2c1ea9837df687c1cc2cd31f3d11a206ee8243d3088669c83"
+    }
+  ]
+}

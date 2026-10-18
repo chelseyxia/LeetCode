@@ -1,0 +1,46 @@
+{
+  "frontendId": "990",
+  "title": "Satisfiability of Equality Equations",
+  "slug": "satisfiability-of-equality-equations",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "620047817",
+      "submissionIds": [
+        "620047817"
+      ],
+      "timestamp": 1642220038,
+      "sha256": "d71fe3df7879dd8bfeb756a0c57c2acf082439accfec61f52c6a2360889f126d"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2120366883",
+      "submissionIds": [
+        "2120366883"
+      ],
+      "timestamp": 1787719895,
+      "sha256": "450377c972163ca2ef0c2b7eba7bcf32473bb1d7dfebd3c2fb73fda2b3c61fa0"
+    }
+  ]
+}

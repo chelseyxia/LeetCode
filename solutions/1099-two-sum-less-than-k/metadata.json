@@ -1,0 +1,64 @@
+{
+  "frontendId": "1099",
+  "title": "Two Sum Less Than K",
+  "slug": "two-sum-less-than-k",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "547466162",
+      "submissionIds": [
+        "547466162"
+      ],
+      "timestamp": 1630447327,
+      "sha256": "741f5c98ed8f41f35096b300fbb097756b8519b2b77781b6b09c0f0b7dfd5eb1"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "547478518",
+      "submissionIds": [
+        "547478518"
+      ],
+      "timestamp": 1630449701,
+      "sha256": "d0af29b16597967ac0e9211187a7c55030771530818203c03c3361f6f1dfd0fd"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "555613742",
+      "submissionIds": [
+        "555613742"
+      ],
+      "timestamp": 1631750086,
+      "sha256": "5400d0251474dcaaf7c4cf8ef84be30a8f584cc3c0e0c048783c515e2be85c81"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "555614732",
+      "submissionIds": [
+        "555614732"
+      ],
+      "timestamp": 1631750267,
+      "sha256": "6b85f8541fed376766c57727ad8de6a1dbf97d1c3e5a60a7d991b1e0967e0509"
+    }
+  ]
+}

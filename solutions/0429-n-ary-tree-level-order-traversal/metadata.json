@@ -1,0 +1,30 @@
+{
+  "frontendId": "429",
+  "title": "N-ary Tree Level Order Traversal",
+  "slug": "n-ary-tree-level-order-traversal",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "720753879",
+      "submissionIds": [
+        "720753879",
+        "720608777"
+      ],
+      "timestamp": 1655069617,
+      "sha256": "ad3e468f27694243cd959811ea6503c3f48b928af2d36b46222f91bf974e1cc4"
+    }
+  ]
+}

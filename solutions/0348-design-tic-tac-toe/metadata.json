@@ -1,0 +1,42 @@
+{
+  "frontendId": "348",
+  "title": "Design Tic-Tac-Toe",
+  "slug": "design-tic-tac-toe",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610207761",
+      "submissionIds": [
+        "610207761",
+        "610207167"
+      ],
+      "timestamp": 1640927855,
+      "sha256": "8c3d4f3a1aef0ff4eb95fd0441c7ecf07363fa603af5e61f2680c9be6557ca17"
+    }
+  ]
+}

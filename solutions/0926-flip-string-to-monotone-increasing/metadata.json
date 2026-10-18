@@ -1,0 +1,29 @@
+{
+  "frontendId": "926",
+  "title": "Flip String to Monotone Increasing",
+  "slug": "flip-string-to-monotone-increasing",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "617909741",
+      "submissionIds": [
+        "617909741"
+      ],
+      "timestamp": 1641940279,
+      "sha256": "5669aa37efb886d4842d591eae8c090c5e65adc6583189cb2b391255672de565"
+    }
+  ]
+}

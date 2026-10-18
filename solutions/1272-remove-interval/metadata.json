@@ -1,0 +1,25 @@
+{
+  "frontendId": "1272",
+  "title": "Remove Interval",
+  "slug": "remove-interval",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1988918563",
+      "submissionIds": [
+        "1988918563"
+      ],
+      "timestamp": 1777233500,
+      "sha256": "8bf419e73652585d98b8554e2b2454946aae655b7986df16e9b7cb7859684941"
+    }
+  ]
+}

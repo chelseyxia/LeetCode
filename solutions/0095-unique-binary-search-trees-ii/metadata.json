@@ -1,0 +1,41 @@
+{
+  "frontendId": "95",
+  "title": "Unique Binary Search Trees II",
+  "slug": "unique-binary-search-trees-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "587270244",
+      "submissionIds": [
+        "587270244"
+      ],
+      "timestamp": 1636936554,
+      "sha256": "af9f120e3bc1903a85cfbf9b838bf1dd264371b6f054e5204ae34f5a2f287df4"
+    }
+  ]
+}

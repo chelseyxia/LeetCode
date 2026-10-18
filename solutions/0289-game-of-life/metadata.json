@@ -1,0 +1,23 @@
+{
+  "frontendId": "289",
+  "title": "Game of Life",
+  "slug": "game-of-life",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 0,
+  "solutions": []
+}

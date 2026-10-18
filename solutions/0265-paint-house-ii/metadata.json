@@ -1,0 +1,29 @@
+{
+  "frontendId": "265",
+  "title": "Paint House II",
+  "slug": "paint-house-ii",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "762106010",
+      "submissionIds": [
+        "762106010"
+      ],
+      "timestamp": 1659336323,
+      "sha256": "fe28b1e507ce3e5b1c97b712b5f74f466c381e2d8c7ae46c1cdd69e3132892a7"
+    }
+  ]
+}

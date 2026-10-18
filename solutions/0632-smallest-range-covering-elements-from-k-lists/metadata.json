@@ -1,0 +1,54 @@
+{
+  "frontendId": "632",
+  "title": "Smallest Range Covering Elements from K Lists",
+  "slug": "smallest-range-covering-elements-from-k-lists",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "619526746",
+      "submissionIds": [
+        "619526746"
+      ],
+      "timestamp": 1642144292,
+      "sha256": "996865b4e98b7bd7fdbae3c90a34e8c31730609a85384a13a0541407ab06a993"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2103648612",
+      "submissionIds": [
+        "2103648612"
+      ],
+      "timestamp": 1786508945,
+      "sha256": "a7120cbda50d7914ac2a8897feb81b69e81169f38c5a7f403120d3e7e37bfb87"
+    }
+  ]
+}

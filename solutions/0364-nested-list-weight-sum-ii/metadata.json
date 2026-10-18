@@ -1,0 +1,33 @@
+{
+  "frontendId": "364",
+  "title": "Nested List Weight Sum II",
+  "slug": "nested-list-weight-sum-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603009112",
+      "submissionIds": [
+        "603009112"
+      ],
+      "timestamp": 1639718153,
+      "sha256": "a97b971c4cdfdef26a39d3ff39dae4d9940e5bd27672f94a2aefd3572a8fce5b"
+    }
+  ]
+}

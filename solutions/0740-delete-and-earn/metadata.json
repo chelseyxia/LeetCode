@@ -1,0 +1,51 @@
+{
+  "frontendId": "740",
+  "title": "Delete and Earn",
+  "slug": "delete-and-earn",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2156670880",
+      "submissionIds": [
+        "2156670880"
+      ],
+      "timestamp": 1790657887,
+      "sha256": "3bf67ba2074c85718a430cd36f7d5a55d877ac3899d15c2bcfde1925bce9ddec"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2156675015",
+      "submissionIds": [
+        "2156675015"
+      ],
+      "timestamp": 1790658123,
+      "sha256": "c8d6342a3997d4d13a5cd0ee15abbd15ac2255983beb02e06e8140a5493038cb"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2156678907",
+      "submissionIds": [
+        "2156678907"
+      ],
+      "timestamp": 1790658361,
+      "sha256": "da1188315df12dc35d1a0c087bd41ed399aad629f005502ac3e8dcaffec9ef00"
+    }
+  ]
+}

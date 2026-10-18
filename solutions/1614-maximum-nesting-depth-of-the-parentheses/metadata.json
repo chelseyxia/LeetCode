@@ -1,0 +1,33 @@
+{
+  "frontendId": "1614",
+  "title": "Maximum Nesting Depth of the Parentheses",
+  "slug": "maximum-nesting-depth-of-the-parentheses",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Bracket Sequences",
+      "slug": "bracket-sequences"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607808008",
+      "submissionIds": [
+        "607808008"
+      ],
+      "timestamp": 1640586238,
+      "sha256": "5ac594ccc0c3b301c81cb7cc8becc2d59e1091ec5c1d6bd488e5b1a5c6abe0c5"
+    }
+  ]
+}

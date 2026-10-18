@@ -1,0 +1,42 @@
+{
+  "frontendId": "2104",
+  "title": "Sum of Subarray Ranges",
+  "slug": "sum-of-subarray-ranges",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "752555904",
+      "submissionIds": [
+        "752555904"
+      ],
+      "timestamp": 1658375373,
+      "sha256": "33f5cd56725213d5753f7ced84eca2f9ca1c1206a4b07899c64793eb086f9ec9"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2082767106",
+      "submissionIds": [
+        "2082767106"
+      ],
+      "timestamp": 1785125908,
+      "sha256": "66a7b037defafc4f365cffa1ce21735ea5a32803bcdbb130399ffbb8f9146272"
+    }
+  ]
+}

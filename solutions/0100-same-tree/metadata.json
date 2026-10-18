@@ -1,0 +1,47 @@
+{
+  "frontendId": "100",
+  "title": "Same Tree",
+  "slug": "same-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665475120",
+      "submissionIds": [
+        "665475120",
+        "601439501"
+      ],
+      "timestamp": 1648007590,
+      "sha256": "75141bac1944c0c48efc2cc83591c490277d0d8e745325e18819375eb5dfb263"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2025743560",
+      "submissionIds": [
+        "2025743560"
+      ],
+      "timestamp": 1780867816,
+      "sha256": "64052fe197c772b44e949f18bd133210b969c15098286606331ce47d11a850f4"
+    }
+  ]
+}

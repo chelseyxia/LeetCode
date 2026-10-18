@@ -1,0 +1,15 @@
+{
+  "frontendId": "935",
+  "title": "Knight Dialer",
+  "slug": "knight-dialer",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 0,
+  "solutions": []
+}

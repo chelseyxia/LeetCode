@@ -1,0 +1,25 @@
+{
+  "frontendId": "476",
+  "title": "Number Complement",
+  "slug": "number-complement",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607788183",
+      "submissionIds": [
+        "607788183"
+      ],
+      "timestamp": 1640583561,
+      "sha256": "6cf7238f2dd9dcfadbc6b6a4ad46489128f2668ef4e7a3c1267f2e1ea7cc2a63"
+    }
+  ]
+}

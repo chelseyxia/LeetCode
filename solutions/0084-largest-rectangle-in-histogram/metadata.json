@@ -1,0 +1,46 @@
+{
+  "frontendId": "84",
+  "title": "Largest Rectangle in Histogram",
+  "slug": "largest-rectangle-in-histogram",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    },
+    {
+      "name": "Range Minimum/Maximum Query",
+      "slug": "range-minimum-maximum-query"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607785511",
+      "submissionIds": [
+        "607785511"
+      ],
+      "timestamp": 1640583193,
+      "sha256": "744228a3b3ae9f22669a51089b0bf9b989a6f341ef57faf6752bd0e6f5d819c2"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2084198355",
+      "submissionIds": [
+        "2084198355"
+      ],
+      "timestamp": 1785214464,
+      "sha256": "bce4a8fafe69e79349452b86b3e4fb529c3317e0f497802d161a26355d086f02"
+    }
+  ]
+}

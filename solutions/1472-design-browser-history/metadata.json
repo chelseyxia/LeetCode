@@ -1,0 +1,45 @@
+{
+  "frontendId": "1472",
+  "title": "Design Browser History",
+  "slug": "design-browser-history",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Doubly-Linked List",
+      "slug": "doubly-linked-list"
+    },
+    {
+      "name": "Data Stream",
+      "slug": "data-stream"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607813935",
+      "submissionIds": [
+        "607813935"
+      ],
+      "timestamp": 1640587017,
+      "sha256": "a21c833d722de72258e0e95cb1fd3882fc4d965b807de5d55c5c34090d05d4a3"
+    }
+  ]
+}

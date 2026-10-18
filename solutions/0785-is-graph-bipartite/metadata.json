@@ -1,0 +1,45 @@
+{
+  "frontendId": "785",
+  "title": "Is Graph Bipartite?",
+  "slug": "is-graph-bipartite",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Graph Coloring",
+      "slug": "graph-coloring"
+    },
+    {
+      "name": "Bipartite Graph",
+      "slug": "bipartite-graph"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "620140073",
+      "submissionIds": [
+        "620140073"
+      ],
+      "timestamp": 1642232024,
+      "sha256": "019da1837d9d0647dd967dd65d5e7d8a1bf35e178378381fc9b9ae3f5d79a774"
+    }
+  ]
+}

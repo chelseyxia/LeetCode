@@ -1,0 +1,44 @@
+{
+  "frontendId": "252",
+  "title": "Meeting Rooms",
+  "slug": "meeting-rooms",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Quicksort",
+      "slug": "quicksort"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "664160383",
+      "submissionIds": [
+        "664160383",
+        "556044185",
+        "548966837"
+      ],
+      "timestamp": 1647837825,
+      "sha256": "9d6d90e51ff7e6502d79a1336c85fa963e353675fce92bf3acb253a19a18557a"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "1985867511",
+      "submissionIds": [
+        "1985867511"
+      ],
+      "timestamp": 1776920972,
+      "sha256": "7aebf153af0a678c6818b226261b1e0310cefdea314bf74d6023d0cd7d431ab7"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "frontendId": "1008",
+  "title": "Construct Binary Search Tree from Preorder Traversal",
+  "slug": "construct-binary-search-tree-from-preorder-traversal",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "616624551",
+      "submissionIds": [
+        "616624551"
+      ],
+      "timestamp": 1641778887,
+      "sha256": "4f1e3f06b4a13eca68e12575efda1113f5e5c37146bc4050a9942affdb92f092"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "frontendId": "1011",
+  "title": "Capacity To Ship Packages Within D Days",
+  "slug": "capacity-to-ship-packages-within-d-days",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "630042789",
+      "submissionIds": [
+        "630042789"
+      ],
+      "timestamp": 1643439236,
+      "sha256": "4fec14d07502c1ad48b56e044a8dd5ef51f59345d7bec76279074f8da6f6f839"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2012958184",
+      "submissionIds": [
+        "2012958184"
+      ],
+      "timestamp": 1779736238,
+      "sha256": "0ff9cecbec57e6fe20552a3c7be85bf9873dc5307940bd5eaf6add0d742eb4b6"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "frontendId": "836",
+  "title": "Rectangle Overlap",
+  "slug": "rectangle-overlap",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Geometry",
+      "slug": "geometry"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665150496",
+      "submissionIds": [
+        "665150496"
+      ],
+      "timestamp": 1647967092,
+      "sha256": "8441a9bb8987ff225559977462ef2e53c5c638d374e9dd4087f1da1569823116"
+    }
+  ]
+}

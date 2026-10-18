@@ -1,0 +1,61 @@
+{
+  "frontendId": "167",
+  "title": "Two Sum II - Input Array Is Sorted",
+  "slug": "two-sum-ii-input-array-is-sorted",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "554888788",
+      "submissionIds": [
+        "554888788"
+      ],
+      "timestamp": 1631639683,
+      "sha256": "75258df749672d512c4eb471793610368dcce0e1b0914ff76e2523e2e99e8597"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "554889140",
+      "submissionIds": [
+        "554889140",
+        "554888830"
+      ],
+      "timestamp": 1631639725,
+      "sha256": "b16796221dc4ffc34f4534eb5af1a9041d7665c605228af96204670e8dcccba7"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2006042173",
+      "submissionIds": [
+        "2006042173"
+      ],
+      "timestamp": 1779079213,
+      "sha256": "0154af5762771a33ccfd91e067eec15ae9bc8a763a0bd47a69bc320551cedca1"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2006042904",
+      "submissionIds": [
+        "2006042904"
+      ],
+      "timestamp": 1779079275,
+      "sha256": "81ecebe13817da55d325024067ec8e08d9850a99b60c18e4e27a84be32deacdf"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "frontendId": "99",
+  "title": "Recover Binary Search Tree",
+  "slug": "recover-binary-search-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "591821496",
+      "submissionIds": [
+        "591821496"
+      ],
+      "timestamp": 1637727457,
+      "sha256": "aecab42a50681381cbcb15830509c9e5f2dc29ab24efdeed6c86371deefe13ce"
+    }
+  ]
+}

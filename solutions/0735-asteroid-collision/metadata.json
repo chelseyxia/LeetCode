@@ -1,0 +1,51 @@
+{
+  "frontendId": "735",
+  "title": "Asteroid Collision",
+  "slug": "asteroid-collision",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607689554",
+      "submissionIds": [
+        "607689554"
+      ],
+      "timestamp": 1640568944,
+      "sha256": "c1922e480f5c780f0fb6a99a3520e099474299868e85dfb51ea64213d6953040"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2117737901",
+      "submissionIds": [
+        "2117737901"
+      ],
+      "timestamp": 1787511129,
+      "sha256": "80404d7bee016bd504f06022eda43fd0c3f507ffd54abb54abe01613f4cd69d9"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2117741323",
+      "submissionIds": [
+        "2117741323"
+      ],
+      "timestamp": 1787511359,
+      "sha256": "2729c1a202e6a15ed7134cbf8a94ef3a5b7d010d474846e4cdaec2a04a5614a6"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "frontendId": "1344",
+  "title": "Angle Between Hands of a Clock",
+  "slug": "angle-between-hands-of-a-clock",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "621321708",
+      "submissionIds": [
+        "621321708"
+      ],
+      "timestamp": 1642377866,
+      "sha256": "cac3fb6ecff3148eaff3e32f7cac121cc22e8456d815c3e754d09f5073f3a3b9"
+    }
+  ]
+}

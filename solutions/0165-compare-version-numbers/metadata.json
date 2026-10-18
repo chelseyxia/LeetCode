@@ -1,0 +1,48 @@
+{
+  "frontendId": "165",
+  "title": "Compare Version Numbers",
+  "slug": "compare-version-numbers",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "551568976",
+      "submissionIds": [
+        "551568976"
+      ],
+      "timestamp": 1631117889,
+      "sha256": "39aee9ff4727adcea26d992d6da0337590e9477d1f3b15dbd3b15427ac486c19"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "551594664",
+      "submissionIds": [
+        "551594664"
+      ],
+      "timestamp": 1631121050,
+      "sha256": "7c668341ce6934269f6811d03ed30c538b3a7fab9e9f9cbe6455aa1bd0c7da15"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "551606754",
+      "submissionIds": [
+        "551606754",
+        "551603367"
+      ],
+      "timestamp": 1631122519,
+      "sha256": "415d21cbf591da417d2f5f1b35998f3d80f3966a7e719f35245336b1b52ccab2"
+    }
+  ]
+}

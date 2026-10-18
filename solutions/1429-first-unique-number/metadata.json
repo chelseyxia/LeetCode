@@ -1,0 +1,41 @@
+{
+  "frontendId": "1429",
+  "title": "First Unique Number",
+  "slug": "first-unique-number",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Data Stream",
+      "slug": "data-stream"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "664833272",
+      "submissionIds": [
+        "664833272"
+      ],
+      "timestamp": 1647924989,
+      "sha256": "e28c2d223aef890f7e6e3033af271e9068cc3ae03c44913e27a3c1adcf607627"
+    }
+  ]
+}

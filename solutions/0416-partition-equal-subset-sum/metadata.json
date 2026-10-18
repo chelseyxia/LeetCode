@@ -1,0 +1,37 @@
+{
+  "frontendId": "416",
+  "title": "Partition Equal Subset Sum",
+  "slug": "partition-equal-subset-sum",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Knapsack Problem",
+      "slug": "knapsack-problem"
+    },
+    {
+      "name": "0-1 Knapsack",
+      "slug": "0-1-knapsack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "630070292",
+      "submissionIds": [
+        "630070292"
+      ],
+      "timestamp": 1643442612,
+      "sha256": "d7a0c87f1af6a7751f7d2257849376b18ead8176b212f18c201a4754e5be6b1f"
+    }
+  ]
+}

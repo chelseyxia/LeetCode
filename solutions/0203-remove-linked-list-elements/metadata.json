@@ -1,0 +1,30 @@
+{
+  "frontendId": "203",
+  "title": "Remove Linked List Elements",
+  "slug": "remove-linked-list-elements",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "670106130",
+      "submissionIds": [
+        "670106130",
+        "669925365"
+      ],
+      "timestamp": 1648613429,
+      "sha256": "f3187a428fffd030e172074a428275c31e8f41144dd2ddc8c8b1ad6b46bf71d2"
+    }
+  ]
+}

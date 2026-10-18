@@ -1,0 +1,35 @@
+{
+  "frontendId": "328",
+  "title": "Odd Even Linked List",
+  "slug": "odd-even-linked-list",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613880657",
+      "submissionIds": [
+        "613880657"
+      ],
+      "timestamp": 1641428664,
+      "sha256": "bb1330658013d8d67381547fd4140db494d55826b3a35bc17ebea33dfb148264"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "670121934",
+      "submissionIds": [
+        "670121934",
+        "670121849"
+      ],
+      "timestamp": 1648615024,
+      "sha256": "2b6ec6b506a97315578f26a6d066cf0d778a8a323e65daaa44a61c875c347b8c"
+    }
+  ]
+}

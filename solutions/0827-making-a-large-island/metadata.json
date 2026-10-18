@@ -1,0 +1,41 @@
+{
+  "frontendId": "827",
+  "title": "Making A Large Island",
+  "slug": "making-a-large-island",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "602441791",
+      "submissionIds": [
+        "602441791"
+      ],
+      "timestamp": 1639612265,
+      "sha256": "66ac16388034784b088a8ca87599230bb15fe1d2f97e6eebe3932fb8c27a5f85"
+    }
+  ]
+}

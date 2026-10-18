@@ -1,0 +1,33 @@
+{
+  "frontendId": "73",
+  "title": "Set Matrix Zeroes",
+  "slug": "set-matrix-zeroes",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665298250",
+      "submissionIds": [
+        "665298250"
+      ],
+      "timestamp": 1647983501,
+      "sha256": "a3cd3f701378040b40b6923b942df062d9524262390ad8c4e6059e5ea6736813"
+    }
+  ]
+}

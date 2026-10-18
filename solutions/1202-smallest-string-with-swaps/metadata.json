@@ -1,0 +1,50 @@
+{
+  "frontendId": "1202",
+  "title": "Smallest String With Swaps",
+  "slug": "smallest-string-with-swaps",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "684938950",
+      "submissionIds": [
+        "684938950",
+        "684938777"
+      ],
+      "timestamp": 1650564205,
+      "sha256": "e78a574810e8aa22afb3937faf778e51da6b3d3045dd4315c45499fde65512f9"
+    }
+  ]
+}

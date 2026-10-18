@@ -1,0 +1,41 @@
+{
+  "frontendId": "588",
+  "title": "Design In-Memory File System",
+  "slug": "design-in-memory-file-system",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "609436939",
+      "submissionIds": [
+        "609436939"
+      ],
+      "timestamp": 1640821665,
+      "sha256": "83a873a93094022bdd1412edbecc4eb7ffdb610b6cdea4e227c7791ae5f51f2e"
+    }
+  ]
+}

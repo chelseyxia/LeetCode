@@ -1,0 +1,33 @@
+{
+  "frontendId": "445",
+  "title": "Add Two Numbers II",
+  "slug": "add-two-numbers-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539165221",
+      "submissionIds": [
+        "539165221"
+      ],
+      "timestamp": 1629081550,
+      "sha256": "17ae7e729fe5d85e841b43d241c8dccff76ee6c5310558bbf185e6ffb946c317"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "frontendId": "83",
+  "title": "Remove Duplicates from Sorted List",
+  "slug": "remove-duplicates-from-sorted-list",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    }
+  ],
+  "acceptedCountReported": 6,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "582568490",
+      "submissionIds": [
+        "582568490"
+      ],
+      "timestamp": 1636134288,
+      "sha256": "028c0a178d1b42162fda40fb3acfdb83f3c6fcb332bec6788612a7c1a2cf6ef4"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "640852544",
+      "submissionIds": [
+        "640852544"
+      ],
+      "timestamp": 1644794686,
+      "sha256": "b258a7448687b6ef72b794b920dd53f86dcef9d0caf7e62b64b96fb42499fe68"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "643662155",
+      "submissionIds": [
+        "643662155",
+        "640854758"
+      ],
+      "timestamp": 1645157160,
+      "sha256": "8bf73bcd7573a227107dd64e2dac8301b1324d11a83ae526b6f5d39a85d70921"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "643662692",
+      "submissionIds": [
+        "643662692"
+      ],
+      "timestamp": 1645157223,
+      "sha256": "eb3846f24dc7ad728efc3b2465aad01111f57c6682cd5eb26e848fbebbce5b2c"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "1636618416",
+      "submissionIds": [
+        "1636618416"
+      ],
+      "timestamp": 1747504664,
+      "sha256": "f93de6b37c9ab58b8b6521e1138873a10530cb64ea04b7e7193812390564ed02"
+    }
+  ]
+}

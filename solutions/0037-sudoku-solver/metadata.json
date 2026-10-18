@@ -1,0 +1,45 @@
+{
+  "frontendId": "37",
+  "title": "Sudoku Solver",
+  "slug": "sudoku-solver",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Algorithm X",
+      "slug": "algorithm-x"
+    },
+    {
+      "name": "Dancing Links",
+      "slug": "dancing-links"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "614711240",
+      "submissionIds": [
+        "614711240"
+      ],
+      "timestamp": 1641531804,
+      "sha256": "a258d9aa26772a68785c2795af5376473f098fba97fe6e53dbe763485763258d"
+    }
+  ]
+}

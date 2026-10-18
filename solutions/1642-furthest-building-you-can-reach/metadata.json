@@ -1,0 +1,35 @@
+{
+  "frontendId": "1642",
+  "title": "Furthest Building You Can Reach",
+  "slug": "furthest-building-you-can-reach",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "681125159",
+      "submissionIds": [
+        "681125159",
+        "681125127",
+        "680995080"
+      ],
+      "timestamp": 1650062917,
+      "sha256": "8393baf3524579fd5c9fd7c73d0000ddb353d1e6767df218a9a223d3169f8109"
+    }
+  ]
+}

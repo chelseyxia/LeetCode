@@ -1,0 +1,70 @@
+{
+  "frontendId": "11",
+  "title": "Container With Most Water",
+  "slug": "container-with-most-water",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "acceptedCountReported": 6,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "551035203",
+      "submissionIds": [
+        "551035203",
+        "551020041"
+      ],
+      "timestamp": 1631034189,
+      "sha256": "224320cfee3b799f5cddd07c29d3c27007dd2fc9750ee35725dc28281c915b34"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "652092535",
+      "submissionIds": [
+        "652092535"
+      ],
+      "timestamp": 1646246788,
+      "sha256": "d952adda9ba1be2aa28666506e26235811b38b9380cb7a8905c1778188cabf5a"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "652400761",
+      "submissionIds": [
+        "652400761"
+      ],
+      "timestamp": 1646286915,
+      "sha256": "9bc572227026938c39b949b7e474a2bf1ab441be08c9ac699647cdb8115127cb"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2000189244",
+      "submissionIds": [
+        "2000189244"
+      ],
+      "timestamp": 1778474785,
+      "sha256": "d0326e945f266cd6f5fcb9eea80872ab1083f10edfc6cb18df286ecb94a85f66"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "2000189811",
+      "submissionIds": [
+        "2000189811"
+      ],
+      "timestamp": 1778474838,
+      "sha256": "e58a5cd64e319baaf27d1ff9c2a1190ec74399add54c0ac6c1c56f2056730ab2"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "frontendId": "811",
+  "title": "Subdomain Visit Count",
+  "slug": "subdomain-visit-count",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608949422",
+      "submissionIds": [
+        "608949422"
+      ],
+      "timestamp": 1640754195,
+      "sha256": "6ba4df04a2ff4a28259f29aac106516905d4cf9650c42339223e6bf6813cc599"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "637374045",
+      "submissionIds": [
+        "637374045"
+      ],
+      "timestamp": 1644349021,
+      "sha256": "103f6c9b3670678954d758500700687a9199ec9fe0ec086c0afac68ab7d08fee"
+    }
+  ]
+}

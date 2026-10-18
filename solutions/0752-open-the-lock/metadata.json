@@ -1,0 +1,41 @@
+{
+  "frontendId": "752",
+  "title": "Open the Lock",
+  "slug": "open-the-lock",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Bidirectional Search",
+      "slug": "bidirectional-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2049399101",
+      "submissionIds": [
+        "2049399101"
+      ],
+      "timestamp": 1782688496,
+      "sha256": "ab686ae2d4238a6df3e57334d43acd119c782b1315c429f29aaf1ca272030057"
+    }
+  ]
+}

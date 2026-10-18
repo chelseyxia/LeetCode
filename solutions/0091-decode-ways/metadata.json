@@ -1,0 +1,38 @@
+{
+  "frontendId": "91",
+  "title": "Decode Ways",
+  "slug": "decode-ways",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "578749500",
+      "submissionIds": [
+        "578749500"
+      ],
+      "timestamp": 1635462201,
+      "sha256": "13a929354fabe764930a8d6aa14f144c4c21c88a1772b19a9c0b6e0eab75d8b4"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "626946257",
+      "submissionIds": [
+        "626946257"
+      ],
+      "timestamp": 1643048856,
+      "sha256": "3bf7101711a064311a58976aba426b26ce613be94613b6456213b541ab87bcac"
+    }
+  ]
+}

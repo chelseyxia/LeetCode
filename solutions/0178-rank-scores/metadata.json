@@ -1,0 +1,15 @@
+{
+  "frontendId": "178",
+  "title": "Rank Scores",
+  "slug": "rank-scores",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ],
+  "acceptedCountReported": 0,
+  "solutions": []
+}

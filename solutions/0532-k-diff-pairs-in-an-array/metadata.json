@@ -1,0 +1,41 @@
+{
+  "frontendId": "532",
+  "title": "K-diff Pairs in an Array",
+  "slug": "k-diff-pairs-in-an-array",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "631401428",
+      "submissionIds": [
+        "631401428"
+      ],
+      "timestamp": 1643607273,
+      "sha256": "1983f1fce8e9792fb8464422a2ed04c6e2f8fdbe2028104c9439a7ae2e2d22b9"
+    }
+  ]
+}

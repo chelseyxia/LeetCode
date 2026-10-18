@@ -1,0 +1,41 @@
+{
+  "frontendId": "706",
+  "title": "Design HashMap",
+  "slug": "design-hashmap",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Hash Function",
+      "slug": "hash-function"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "542620670",
+      "submissionIds": [
+        "542620670"
+      ],
+      "timestamp": 1629674899,
+      "sha256": "aaa2c1a2d11c76936fc26c9f39c6957e0186db81f24ce8817400be323ba06144"
+    }
+  ]
+}

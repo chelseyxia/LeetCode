@@ -1,0 +1,49 @@
+{
+  "frontendId": "653",
+  "title": "Two Sum IV - Input is a BST",
+  "slug": "two-sum-iv-input-is-a-bst",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604371434",
+      "submissionIds": [
+        "604371434"
+      ],
+      "timestamp": 1639985946,
+      "sha256": "5c0da9c5cdb2aab97cdfc641d626869319754e73775f8739281df133fef5b96e"
+    }
+  ]
+}

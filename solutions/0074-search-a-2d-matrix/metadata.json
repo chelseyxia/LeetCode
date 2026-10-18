@@ -1,0 +1,42 @@
+{
+  "frontendId": "74",
+  "title": "Search a 2D Matrix",
+  "slug": "search-a-2d-matrix",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "570111538",
+      "submissionIds": [
+        "570111538"
+      ],
+      "timestamp": 1634058018,
+      "sha256": "d4509dee64619239b968a216bf2a0101d37b4a86907dfbcdd4db7d0f85018d1d"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2014115184",
+      "submissionIds": [
+        "2014115184"
+      ],
+      "timestamp": 1779852171,
+      "sha256": "028367175b46e1ed9ecbe6f871145a4912e59baf818e945a1240caf51c6dff9c"
+    }
+  ]
+}

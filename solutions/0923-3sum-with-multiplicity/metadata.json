@@ -1,0 +1,41 @@
+{
+  "frontendId": "923",
+  "title": "3Sum With Multiplicity",
+  "slug": "3sum-with-multiplicity",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "643048723",
+      "submissionIds": [
+        "643048723"
+      ],
+      "timestamp": 1645075499,
+      "sha256": "54abeab81e8e2bd58072f60e9b6f0bd973a2d14806cb304a94aea1b79e5144e0"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "frontendId": "1219",
+  "title": "Path with Maximum Gold",
+  "slug": "path-with-maximum-gold",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2066892373",
+      "submissionIds": [
+        "2066892373"
+      ],
+      "timestamp": 1784005674,
+      "sha256": "b707a03045fceac65145969e78d3b52be1c1c1af42340f3603b6268e33ae0084"
+    }
+  ]
+}

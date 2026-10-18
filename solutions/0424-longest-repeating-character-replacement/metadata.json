@@ -1,0 +1,51 @@
+{
+  "frontendId": "424",
+  "title": "Longest Repeating Character Replacement",
+  "slug": "longest-repeating-character-replacement",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665848814",
+      "submissionIds": [
+        "665848814"
+      ],
+      "timestamp": 1648055906,
+      "sha256": "02ea6c923a6b840827758d333de23cd833d290682150697c0af5fa2b4b80e123"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "1994469619",
+      "submissionIds": [
+        "1994469619"
+      ],
+      "timestamp": 1777837596,
+      "sha256": "ccdf3740d075d2a8370b2f4c3b879f9550f98c1f51c480e5bf16094b309722ef"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "1994469775",
+      "submissionIds": [
+        "1994469775"
+      ],
+      "timestamp": 1777837615,
+      "sha256": "cfacd86d087216c093eb37637c6312dd3f925e73633ba2ae42df054eaa468ed4"
+    }
+  ]
+}

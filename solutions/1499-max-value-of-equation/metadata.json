@@ -1,0 +1,41 @@
+{
+  "frontendId": "1499",
+  "title": "Max Value of Equation",
+  "slug": "max-value-of-equation",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Monotonic Queue",
+      "slug": "monotonic-queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608777351",
+      "submissionIds": [
+        "608777351"
+      ],
+      "timestamp": 1640730168,
+      "sha256": "d05083668ba37517c6c93ebee6078faf735e6632e90d68e189c8508a94c045a4"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "frontendId": "1101",
+  "title": "The Earliest Moment When Everyone Become Friends",
+  "slug": "the-earliest-moment-when-everyone-become-friends",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "684566280",
+      "submissionIds": [
+        "684566280",
+        "684566095"
+      ],
+      "timestamp": 1650515758,
+      "sha256": "9dc2246a0db78cb75a4b53eb72540267921506c6c39004456804de7e4ff7294f"
+    }
+  ]
+}

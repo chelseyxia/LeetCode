@@ -1,0 +1,50 @@
+{
+  "frontendId": "295",
+  "title": "Find Median from Data Stream",
+  "slug": "find-median-from-data-stream",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Data Stream",
+      "slug": "data-stream"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "619266354",
+      "submissionIds": [
+        "619266354"
+      ],
+      "timestamp": 1642113047,
+      "sha256": "7e767b608af5b27aada3d0ab5d231a54e09d1488ee16c02893e33b47d30c7531"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2104902127",
+      "submissionIds": [
+        "2104902127"
+      ],
+      "timestamp": 1786592552,
+      "sha256": "a83b15aa2dab0a657bdffac2fd52c072f0054d25b0d13d1f9f13d513096e7f41"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "frontendId": "812",
+  "title": "Largest Triangle Area",
+  "slug": "largest-triangle-area",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Geometry",
+      "slug": "geometry"
+    },
+    {
+      "name": "Polygons",
+      "slug": "polygons"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1810028565",
+      "submissionIds": [
+        "1810028565"
+      ],
+      "timestamp": 1761282493,
+      "sha256": "2101d24db3bdce8b0dd305a3bb6b18d442d547042622cedc85937678d8293248"
+    }
+  ]
+}

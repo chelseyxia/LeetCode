@@ -1,0 +1,37 @@
+{
+  "frontendId": "1395",
+  "title": "Count Number of Teams",
+  "slug": "count-number-of-teams",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Binary Indexed Tree",
+      "slug": "binary-indexed-tree"
+    },
+    {
+      "name": "Segment Tree",
+      "slug": "segment-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539734510",
+      "submissionIds": [
+        "539734510"
+      ],
+      "timestamp": 1629178695,
+      "sha256": "7d98e7a5adc7bbcc5e47021ccb3bafdbf8d875c455571759c94c38d3a16a75df"
+    }
+  ]
+}

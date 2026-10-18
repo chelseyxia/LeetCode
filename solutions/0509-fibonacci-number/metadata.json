@@ -1,0 +1,46 @@
+{
+  "frontendId": "509",
+  "title": "Fibonacci Number",
+  "slug": "fibonacci-number",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    },
+    {
+      "name": "Memoization",
+      "slug": "memoization"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "588297736",
+      "submissionIds": [
+        "588297736"
+      ],
+      "timestamp": 1637106996,
+      "sha256": "f3144d03c027e0bf1297c37eab80d8c28f339bb419cd947ccb9acaa79b2acad4"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "626571303",
+      "submissionIds": [
+        "626571303"
+      ],
+      "timestamp": 1643004104,
+      "sha256": "388b529d43322e88590236b217a80b071e47ddea3975c29542d385aa7afbf5b0"
+    }
+  ]
+}

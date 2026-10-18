@@ -1,0 +1,73 @@
+{
+  "frontendId": "5",
+  "title": "Longest Palindromic Substring",
+  "slug": "longest-palindromic-substring",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Manacher",
+      "slug": "manacher"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "537746366",
+      "submissionIds": [
+        "537746366"
+      ],
+      "timestamp": 1628834336,
+      "sha256": "f8210380f508ddff76a1ab25b95bfd2dcc9d9920e06cdd826bfdd56701f8d906"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "547076686",
+      "submissionIds": [
+        "547076686"
+      ],
+      "timestamp": 1630388883,
+      "sha256": "382cd25fe07a3ed871813887b8c53d538e1c7513f126c0addfb9684489665754"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "582552494",
+      "submissionIds": [
+        "582552494"
+      ],
+      "timestamp": 1636131876,
+      "sha256": "d4a966a7d4aeb1885584a25bf71c166ad8c3446d70a58a508cd4698381254eec"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "651407806",
+      "submissionIds": [
+        "651407806"
+      ],
+      "timestamp": 1646160074,
+      "sha256": "c65b2ff2179266f3af0739263f8cbfe83f4ce71efa0184354feea77464e8d809"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "651427882",
+      "submissionIds": [
+        "651427882"
+      ],
+      "timestamp": 1646162448,
+      "sha256": "ab9b74d453c710f05c923db8cc5fa2d64ba69ba9b4afa3c751bcbd8e8fd31b8b"
+    }
+  ]
+}
