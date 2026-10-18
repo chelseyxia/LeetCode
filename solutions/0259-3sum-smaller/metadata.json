@@ -1,0 +1,37 @@
+{
+  "frontendId": "259",
+  "title": "3Sum Smaller",
+  "slug": "3sum-smaller",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "643020081",
+      "submissionIds": [
+        "643020081"
+      ],
+      "timestamp": 1645072594,
+      "sha256": "61249e786e1c856359a22296a6463094fba6a7397eefedbe9c81386713ca8392"
+    }
+  ]
+}

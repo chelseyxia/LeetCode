@@ -1,0 +1,33 @@
+{
+  "frontendId": "301",
+  "title": "Remove Invalid Parentheses",
+  "slug": "remove-invalid-parentheses",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "615376280",
+      "submissionIds": [
+        "615376280"
+      ],
+      "timestamp": 1641624931,
+      "sha256": "31173e6fad13914249ec0f9c06d4f87290b73f023ae6e3b3258a802739980f46"
+    }
+  ]
+}

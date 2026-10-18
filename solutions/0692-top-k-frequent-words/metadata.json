@@ -1,0 +1,80 @@
+{
+  "frontendId": "692",
+  "title": "Top K Frequent Words",
+  "slug": "top-k-frequent-words",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Bucket Sort",
+      "slug": "bucket-sort"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "545486373",
+      "submissionIds": [
+        "545486373"
+      ],
+      "timestamp": 1630136405,
+      "sha256": "0c232d93e79e8cfccb046a3dcd8a8890ff228e12544897ae4d73f2188ee6d07b"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "545658659",
+      "submissionIds": [
+        "545658659"
+      ],
+      "timestamp": 1630168220,
+      "sha256": "68306453c60757e45372525d3ee4326f92c14e273ea5f61f70816920e54f0cba"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "545673750",
+      "submissionIds": [
+        "545673750"
+      ],
+      "timestamp": 1630170467,
+      "sha256": "a56b367a2a374f52afa82e583cf87ac9507bad8874953d4de92a00a02f8d1d2a"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2109278297",
+      "submissionIds": [
+        "2109278297"
+      ],
+      "timestamp": 1786900726,
+      "sha256": "28eecbfa1e2004becfcdf6e90f6c57d17a1b5f122e6f816525dcb301dbb2ca94"
+    }
+  ]
+}

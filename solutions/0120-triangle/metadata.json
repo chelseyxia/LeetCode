@@ -1,0 +1,29 @@
+{
+  "frontendId": "120",
+  "title": "Triangle",
+  "slug": "triangle",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "587435488",
+      "submissionIds": [
+        "587435488"
+      ],
+      "timestamp": 1636960261,
+      "sha256": "cb5d4ff7330734f58babeae8b71d21f66d346a54a271d9842e9043dab89ee460"
+    }
+  ]
+}

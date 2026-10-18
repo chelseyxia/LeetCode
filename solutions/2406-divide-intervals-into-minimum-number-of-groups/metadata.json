@@ -1,0 +1,45 @@
+{
+  "frontendId": "2406",
+  "title": "Divide Intervals Into Minimum Number of Groups",
+  "slug": "divide-intervals-into-minimum-number-of-groups",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2065395135",
+      "submissionIds": [
+        "2065395135"
+      ],
+      "timestamp": 1783884517,
+      "sha256": "dd423efacea379561a2b367521233cad6736c86a4c5e565bdd42ba5c9844213c"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "frontendId": "184",
+  "title": "Department Highest Salary",
+  "slug": "department-highest-salary",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ],
+  "acceptedCountReported": 0,
+  "solutions": []
+}

@@ -1,0 +1,49 @@
+{
+  "frontendId": "272",
+  "title": "Closest Binary Search Tree Value II",
+  "slug": "closest-binary-search-tree-value-ii",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "616772315",
+      "submissionIds": [
+        "616772315"
+      ],
+      "timestamp": 1641795676,
+      "sha256": "5f4f22041b69f4990da1c8b95d375575788f78eac2f20d3835f93effc8b4f45e"
+    }
+  ]
+}

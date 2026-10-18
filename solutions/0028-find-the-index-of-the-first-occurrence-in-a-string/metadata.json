@@ -1,0 +1,46 @@
+{
+  "frontendId": "28",
+  "title": "Find the Index of the First Occurrence in a String",
+  "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "String Matching",
+      "slug": "string-matching"
+    },
+    {
+      "name": "Z Algorithm",
+      "slug": "z-algorithm"
+    },
+    {
+      "name": "Knuth–Morris–Pratt Algorithm",
+      "slug": "knuth-morris-pratt-algorithm"
+    },
+    {
+      "name": "Boyer–Moore String-Search Algorithm",
+      "slug": "boyer-moore-string-search-algorithm"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "551301242",
+      "submissionIds": [
+        "551301242",
+        "551301088"
+      ],
+      "timestamp": 1631076567,
+      "sha256": "3436a6cdc565b635ce9caceab04ee2f836b1dafe90eca900623ca8931d796326"
+    }
+  ]
+}

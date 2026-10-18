@@ -1,0 +1,60 @@
+{
+  "frontendId": "953",
+  "title": "Verifying an Alien Dictionary",
+  "slug": "verifying-an-alien-dictionary",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538243734",
+      "submissionIds": [
+        "538243734"
+      ],
+      "timestamp": 1628922669,
+      "sha256": "251f8e8263f5067c81ee5848e61c7c4637bbf32cf4e7ab95067247486f68c521"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "544640292",
+      "submissionIds": [
+        "544640292"
+      ],
+      "timestamp": 1629994622,
+      "sha256": "54c52516f896be8c35d9317ccb27cfb3d5e899094ff946dd46f9ae2573db9d94"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "544642564",
+      "submissionIds": [
+        "544642564"
+      ],
+      "timestamp": 1629994923,
+      "sha256": "4638f1d4c5d9c7ddd816550cef2dae2462c14d5acdea497f7fe47d8e5c36229d"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "631876500",
+      "submissionIds": [
+        "631876500"
+      ],
+      "timestamp": 1643670149,
+      "sha256": "c9a5747ab92108cce785d9f8c88ca1e36a5aa5869fd97dea63a3ef8913cf8e9e"
+    }
+  ]
+}

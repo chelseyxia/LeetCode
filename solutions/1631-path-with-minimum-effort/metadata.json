@@ -1,0 +1,53 @@
+{
+  "frontendId": "1631",
+  "title": "Path With Minimum Effort",
+  "slug": "path-with-minimum-effort",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Dijkstra's Algorithm",
+      "slug": "dijkstra"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2108329790",
+      "submissionIds": [
+        "2108329790"
+      ],
+      "timestamp": 1786843284,
+      "sha256": "da3f78546ac81d6a45603c83050af4f7edd41d3626caadf90c558bf6a5a10b41"
+    }
+  ]
+}

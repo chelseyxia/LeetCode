@@ -1,0 +1,33 @@
+{
+  "frontendId": "780",
+  "title": "Reaching Points",
+  "slug": "reaching-points",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Euclidean Algorithm",
+      "slug": "euclidean-algorithm"
+    },
+    {
+      "name": "Greatest Common Divisor",
+      "slug": "greatest-common-divisor"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "632598423",
+      "submissionIds": [
+        "632598423"
+      ],
+      "timestamp": 1643762123,
+      "sha256": "8441e4044a100bcdc3c5b39642474097bb501736911155a26272a711b961db55"
+    }
+  ]
+}

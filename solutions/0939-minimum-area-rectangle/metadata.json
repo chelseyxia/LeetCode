@@ -1,0 +1,41 @@
+{
+  "frontendId": "939",
+  "title": "Minimum Area Rectangle",
+  "slug": "minimum-area-rectangle",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Geometry",
+      "slug": "geometry"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "619462079",
+      "submissionIds": [
+        "619462079"
+      ],
+      "timestamp": 1642137755,
+      "sha256": "4b89a0d5d5004f9c9fd3b82f2013fd1a5cf96d7a370b09b5b7ed7c21566bdb65"
+    }
+  ]
+}

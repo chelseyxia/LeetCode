@@ -1,0 +1,34 @@
+{
+  "frontendId": "276",
+  "title": "Paint Fence",
+  "slug": "paint-fence",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "591332392",
+      "submissionIds": [
+        "591332392"
+      ],
+      "timestamp": 1637643590,
+      "sha256": "1490f79b9b4648b186bd3f9469b9987111b9be84ab8d870384d77f3718087b8f"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "591335350",
+      "submissionIds": [
+        "591335350"
+      ],
+      "timestamp": 1637643967,
+      "sha256": "83fb3cba1cedcb8155eccd6d663700c5fcfa78e7140b988f447f7663780729a7"
+    }
+  ]
+}

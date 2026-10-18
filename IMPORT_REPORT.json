@@ -1,0 +1,100 @@
+{
+  "batchFiles": 30,
+  "solvedQuestions": 592,
+  "acceptedJavaSubmissionsReported": 1144,
+  "uniqueJavaSolutions": 1050,
+  "questionsWithJava": 575,
+  "questionsWithoutJava": [
+    {
+      "id": "175",
+      "slug": "combine-two-tables",
+      "title": "Combine Two Tables"
+    },
+    {
+      "id": "176",
+      "slug": "second-highest-salary",
+      "title": "Second Highest Salary"
+    },
+    {
+      "id": "177",
+      "slug": "nth-highest-salary",
+      "title": "Nth Highest Salary"
+    },
+    {
+      "id": "178",
+      "slug": "rank-scores",
+      "title": "Rank Scores"
+    },
+    {
+      "id": "180",
+      "slug": "consecutive-numbers",
+      "title": "Consecutive Numbers"
+    },
+    {
+      "id": "181",
+      "slug": "employees-earning-more-than-their-managers",
+      "title": "Employees Earning More Than Their Managers"
+    },
+    {
+      "id": "184",
+      "slug": "department-highest-salary",
+      "title": "Department Highest Salary"
+    },
+    {
+      "id": "185",
+      "slug": "department-top-three-salaries",
+      "title": "Department Top Three Salaries"
+    },
+    {
+      "id": "193",
+      "slug": "valid-phone-numbers",
+      "title": "Valid Phone Numbers"
+    },
+    {
+      "id": "289",
+      "slug": "game-of-life",
+      "title": "Game of Life"
+    },
+    {
+      "id": "370",
+      "slug": "range-addition",
+      "title": "Range Addition"
+    },
+    {
+      "id": "610",
+      "slug": "triangle-judgement",
+      "title": "Triangle Judgement"
+    },
+    {
+      "id": "723",
+      "slug": "candy-crush",
+      "title": "Candy Crush"
+    },
+    {
+      "id": "935",
+      "slug": "knight-dialer",
+      "title": "Knight Dialer"
+    },
+    {
+      "id": "1341",
+      "slug": "movie-rating",
+      "title": "Movie Rating"
+    },
+    {
+      "id": "1757",
+      "slug": "recyclable-and-low-fat-products",
+      "title": "Recyclable and Low Fat Products"
+    },
+    {
+      "id": "2667",
+      "slug": "create-hello-world-function",
+      "title": "Create Hello World Function"
+    }
+  ],
+  "difficultyCounts": {
+    "MEDIUM": 354,
+    "EASY": 161,
+    "HARD": 77
+  },
+  "duplicateSolutionsAcrossBatches": 0
+}

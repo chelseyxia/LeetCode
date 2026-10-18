@@ -1,0 +1,81 @@
+{
+  "frontendId": "1349",
+  "title": "Maximum Students Taking Exam",
+  "slug": "maximum-students-taking-exam",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Bitmask",
+      "slug": "bitmask"
+    },
+    {
+      "name": "Maximum Flow",
+      "slug": "maximum-flow"
+    },
+    {
+      "name": "Maximum Matching",
+      "slug": "maximum-matching"
+    },
+    {
+      "name": "Bipartite Graph",
+      "slug": "bipartite-graph"
+    },
+    {
+      "name": "Edmonds–Karp Algorithm",
+      "slug": "edmonds-karp-algorithm"
+    },
+    {
+      "name": "MPM Algorithm",
+      "slug": "mpm-algorithm"
+    },
+    {
+      "name": "Push-Relabel Algorithm",
+      "slug": "push-relabel-algorithm"
+    },
+    {
+      "name": "Minimum Cut",
+      "slug": "minimum-cut"
+    },
+    {
+      "name": "Matching (Graph)",
+      "slug": "matching-graph"
+    },
+    {
+      "name": "Flow Network",
+      "slug": "flow-network"
+    },
+    {
+      "name": "Dinic's Algorithm",
+      "slug": "dinics-algorithm"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "634145552",
+      "submissionIds": [
+        "634145552"
+      ],
+      "timestamp": 1643951771,
+      "sha256": "624992ee8094cdb7cf1f84350560f799a8cde951bf71eb90ad217f78c2831e49"
+    }
+  ]
+}

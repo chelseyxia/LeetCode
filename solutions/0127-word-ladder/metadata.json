@@ -1,0 +1,65 @@
+{
+  "frontendId": "127",
+  "title": "Word Ladder",
+  "slug": "word-ladder",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Bidirectional Search",
+      "slug": "bidirectional-search"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "605094445",
+      "submissionIds": [
+        "605094445"
+      ],
+      "timestamp": 1640109713,
+      "sha256": "d5a80cbea0858be91a4a4ffa136436b7aa529c9d032922cc6f1aef6bc61d141f"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "727903071",
+      "submissionIds": [
+        "727903071",
+        "727827858"
+      ],
+      "timestamp": 1655843333,
+      "sha256": "6e5e009ca6c417df4f5cc840c69535b193bc0ea529703ecdf90ad9ef883c1ba1"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2049406643",
+      "submissionIds": [
+        "2049406643"
+      ],
+      "timestamp": 1782690271,
+      "sha256": "15ac189cf1f05be162847c35e7338ab04fe9da45677913ce510524cb58cbe3dc"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2049406998",
+      "submissionIds": [
+        "2049406998"
+      ],
+      "timestamp": 1782690349,
+      "sha256": "cd5b2dc23944da93f79285ce6f1c4903cef92750f9c3b53ec9c951a5c8dc06e5"
+    }
+  ]
+}

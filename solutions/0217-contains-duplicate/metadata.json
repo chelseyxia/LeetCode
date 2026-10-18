@@ -1,0 +1,33 @@
+{
+  "frontendId": "217",
+  "title": "Contains Duplicate",
+  "slug": "contains-duplicate",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608964432",
+      "submissionIds": [
+        "608964432"
+      ],
+      "timestamp": 1640755989,
+      "sha256": "f7df77068838f385e81dfddcb75df6917a865f16ac3307011a94848bfe920f3f"
+    }
+  ]
+}

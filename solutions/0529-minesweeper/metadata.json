@@ -1,0 +1,37 @@
+{
+  "frontendId": "529",
+  "title": "Minesweeper",
+  "slug": "minesweeper",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "602063667",
+      "submissionIds": [
+        "602063667"
+      ],
+      "timestamp": 1639543507,
+      "sha256": "775c4ecb1fd794b49e3389a3a9a039722f44b36107916460477a318d4b5f93c6"
+    }
+  ]
+}

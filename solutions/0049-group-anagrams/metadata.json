@@ -1,0 +1,56 @@
+{
+  "frontendId": "49",
+  "title": "Group Anagrams",
+  "slug": "group-anagrams",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "551342666",
+      "submissionIds": [
+        "551342666",
+        "551342512"
+      ],
+      "timestamp": 1631082269,
+      "sha256": "b4682e8ca4fcc84c224f8b999c51cde19270380f1efeebb17f3801eb18efcf66"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "641744178",
+      "submissionIds": [
+        "641744178"
+      ],
+      "timestamp": 1644909491,
+      "sha256": "9488469b87e88d9b8dcc8c2c42174ec1b5ff6a45a13f2f10d6c1967274e2d0c4"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "666510877",
+      "submissionIds": [
+        "666510877"
+      ],
+      "timestamp": 1648140745,
+      "sha256": "d1097bb6794dc2139489a429c0b8f4d7ed946ec6182103912ab2feb346be14c4"
+    }
+  ]
+}

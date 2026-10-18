@@ -1,0 +1,38 @@
+{
+  "frontendId": "24",
+  "title": "Swap Nodes in Pairs",
+  "slug": "swap-nodes-in-pairs",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "563034345",
+      "submissionIds": [
+        "563034345"
+      ],
+      "timestamp": 1632935209,
+      "sha256": "701ad6a20972f52153062e51b4ad41cd2c400d4c6249d270b7d4ec5a821a6d73"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "563034524",
+      "submissionIds": [
+        "563034524"
+      ],
+      "timestamp": 1632935234,
+      "sha256": "cc5d9e0dd130dbe24034288a4603c78999768526a0345e483d12ae156147545e"
+    }
+  ]
+}

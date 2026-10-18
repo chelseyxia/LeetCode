@@ -1,0 +1,50 @@
+{
+  "frontendId": "380",
+  "title": "Insert Delete GetRandom O(1)",
+  "slug": "insert-delete-getrandom-o1",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Randomized",
+      "slug": "randomized"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538473276",
+      "submissionIds": [
+        "538473276"
+      ],
+      "timestamp": 1628964148,
+      "sha256": "460974faa29902e47b8f0e6acdbd0cdb11acc367dcb6cfa76902ed7d67dced6b"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "547889369",
+      "submissionIds": [
+        "547889369"
+      ],
+      "timestamp": 1630514282,
+      "sha256": "37b8e4cd20022629b75a593f3da4558c323bc92736f68c4e5ebe3d9243a233d1"
+    }
+  ]
+}

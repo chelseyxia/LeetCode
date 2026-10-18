@@ -1,0 +1,25 @@
+{
+  "frontendId": "8",
+  "title": "String to Integer (atoi)",
+  "slug": "string-to-integer-atoi",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "569557010",
+      "submissionIds": [
+        "569557010"
+      ],
+      "timestamp": 1633976652,
+      "sha256": "88831897511eec08880c4716e0f095f353ec9145f012969bf5fc993119ea9ac6"
+    }
+  ]
+}

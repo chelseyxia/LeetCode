@@ -1,0 +1,37 @@
+{
+  "frontendId": "1197",
+  "title": "Minimum Knight Moves",
+  "slug": "minimum-knight-moves",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Heuristic Search",
+      "slug": "heuristic-search"
+    },
+    {
+      "name": "Bidirectional Search",
+      "slug": "bidirectional-search"
+    },
+    {
+      "name": "A* Search",
+      "slug": "a-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "605609397",
+      "submissionIds": [
+        "605609397"
+      ],
+      "timestamp": 1640197908,
+      "sha256": "ddbd58c146a63b20fce5ca2868e22e8daa3a199657c43e5a3f4751b5c6895a21"
+    }
+  ]
+}

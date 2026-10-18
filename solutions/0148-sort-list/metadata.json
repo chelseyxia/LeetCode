@@ -1,0 +1,41 @@
+{
+  "frontendId": "148",
+  "title": "Sort List",
+  "slug": "sort-list",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Merge Sort",
+      "slug": "merge-sort"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613870016",
+      "submissionIds": [
+        "613870016"
+      ],
+      "timestamp": 1641427214,
+      "sha256": "3f53e89e9ce7a52bd7729b06e3d267e5a521d183edf139945740c5395cc46dca"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "frontendId": "426",
+  "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+  "slug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "Doubly-Linked List",
+      "slug": "doubly-linked-list"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "602906098",
+      "submissionIds": [
+        "602906098"
+      ],
+      "timestamp": 1639699198,
+      "sha256": "5f4450468b440121d3f92bc50419878f45b4c943f8b1ef4cc7529fc0dd95d599"
+    }
+  ]
+}

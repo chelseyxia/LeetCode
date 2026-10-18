@@ -1,0 +1,43 @@
+{
+  "frontendId": "53",
+  "title": "Maximum Subarray",
+  "slug": "maximum-subarray",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538230960",
+      "submissionIds": [
+        "538230960"
+      ],
+      "timestamp": 1628920607,
+      "sha256": "82b3499834d907afd97c1d03e44945e0c25764207e45228e5d2709eed44b43c7"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "582060186",
+      "submissionIds": [
+        "582060186",
+        "555679457"
+      ],
+      "timestamp": 1636045048,
+      "sha256": "0b36ed907269ec35113eed35f202e6a5409c6c8ad7ba53bba404f589e70a36e5"
+    }
+  ]
+}

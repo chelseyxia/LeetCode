@@ -1,0 +1,41 @@
+{
+  "frontendId": "720",
+  "title": "Longest Word in Dictionary",
+  "slug": "longest-word-in-dictionary",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603747716",
+      "submissionIds": [
+        "603747716"
+      ],
+      "timestamp": 1639872688,
+      "sha256": "5620f4841554c8c808dbd9f62671c07c28874d91235efae80c5a6d415877a602"
+    }
+  ]
+}

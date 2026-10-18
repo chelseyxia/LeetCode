@@ -1,0 +1,37 @@
+{
+  "frontendId": "113",
+  "title": "Path Sum II",
+  "slug": "path-sum-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "601617248",
+      "submissionIds": [
+        "601617248"
+      ],
+      "timestamp": 1639464742,
+      "sha256": "e6a01a30205bff9ce20da0b2bf7f938e1942c8556288c91d88485018b04de920"
+    }
+  ]
+}

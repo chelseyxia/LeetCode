@@ -1,0 +1,45 @@
+{
+  "frontendId": "886",
+  "title": "Possible Bipartition",
+  "slug": "possible-bipartition",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Graph Coloring",
+      "slug": "graph-coloring"
+    },
+    {
+      "name": "Bipartite Graph",
+      "slug": "bipartite-graph"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "633294561",
+      "submissionIds": [
+        "633294561"
+      ],
+      "timestamp": 1643847735,
+      "sha256": "8310fac9ea5a5616d70a39cc54c01bc2e89ad489f5175997c77d9731f5408db2"
+    }
+  ]
+}

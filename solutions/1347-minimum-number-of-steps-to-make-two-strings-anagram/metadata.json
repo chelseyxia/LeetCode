@@ -1,0 +1,42 @@
+{
+  "frontendId": "1347",
+  "title": "Minimum Number of Steps to Make Two Strings Anagram",
+  "slug": "minimum-number-of-steps-to-make-two-strings-anagram",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "633434096",
+      "submissionIds": [
+        "633434096"
+      ],
+      "timestamp": 1643864227,
+      "sha256": "d3ef6356b8118535dd776f6d5162368b9bf8b06c3ef709c88bbd6c54599ad4d0"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "633437831",
+      "submissionIds": [
+        "633437831"
+      ],
+      "timestamp": 1643864587,
+      "sha256": "72480b667265885b876bf0bb295e3a6b39de802c16214131bc7ce9589e620858"
+    }
+  ]
+}

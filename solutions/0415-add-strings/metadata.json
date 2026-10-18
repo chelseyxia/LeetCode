@@ -1,0 +1,33 @@
+{
+  "frontendId": "415",
+  "title": "Add Strings",
+  "slug": "add-strings",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "612711079",
+      "submissionIds": [
+        "612711079"
+      ],
+      "timestamp": 1641278747,
+      "sha256": "220725b9bb9144bc9acd7142cfe81023ba261cee285691146d75954074bbdc86"
+    }
+  ]
+}

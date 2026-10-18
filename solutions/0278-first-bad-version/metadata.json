@@ -1,0 +1,38 @@
+{
+  "frontendId": "278",
+  "title": "First Bad Version",
+  "slug": "first-bad-version",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Interactive",
+      "slug": "interactive"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "612629224",
+      "submissionIds": [
+        "612629224"
+      ],
+      "timestamp": 1641270822,
+      "sha256": "342835be4410ff19d8c174372a0c693bd7b141f323ab9fc062dd836e660a1025"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2011221164",
+      "submissionIds": [
+        "2011221164"
+      ],
+      "timestamp": 1779584172,
+      "sha256": "d2d11b8907616463b28e6808475fd0b678dec8b1dbab85efc54c489c04738846"
+    }
+  ]
+}

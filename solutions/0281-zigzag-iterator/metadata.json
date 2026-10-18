@@ -1,0 +1,37 @@
+{
+  "frontendId": "281",
+  "title": "Zigzag Iterator",
+  "slug": "zigzag-iterator",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Iterator",
+      "slug": "iterator"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "602836953",
+      "submissionIds": [
+        "602836953"
+      ],
+      "timestamp": 1639684513,
+      "sha256": "a961746c136fbd42bf4d4ade89ebeca23d834d70761a2042108fd2624b9bc998"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "frontendId": "1493",
+  "title": "Longest Subarray of 1's After Deleting One Element",
+  "slug": "longest-subarray-of-1s-after-deleting-one-element",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2059931664",
+      "submissionIds": [
+        "2059931664"
+      ],
+      "timestamp": 1783481647,
+      "sha256": "8eab5c297d6399f9df47ed3dcd823d1da8bba6fa24742128940293d42865ae25"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "frontendId": "1944",
+  "title": "Number of Visible People in a Queue",
+  "slug": "number-of-visible-people-in-a-queue",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2082535858",
+      "submissionIds": [
+        "2082535858"
+      ],
+      "timestamp": 1785095866,
+      "sha256": "b1d97fd3333d21ec235e4e384caa4c8216f02fd6bf9c08ee8b3d975b1027950e"
+    }
+  ]
+}

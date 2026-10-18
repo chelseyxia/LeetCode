@@ -1,0 +1,42 @@
+{
+  "frontendId": "340",
+  "title": "Longest Substring with At Most K Distinct Characters",
+  "slug": "longest-substring-with-at-most-k-distinct-characters",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "606717477",
+      "submissionIds": [
+        "606717477"
+      ],
+      "timestamp": 1640399318,
+      "sha256": "6913583f5c9b00f3ba1b3da1c3ac8dbfbc3fd250ec323daaf3f1506970e7d7cd"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "1994372605",
+      "submissionIds": [
+        "1994372605"
+      ],
+      "timestamp": 1777829305,
+      "sha256": "ae6bfaf8c3a74fcb656390add6931d251777ea0fe47c47de1035d230a4b5bfb0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "frontendId": "27",
+  "title": "Remove Element",
+  "slug": "remove-element",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "581090842",
+      "submissionIds": [
+        "581090842"
+      ],
+      "timestamp": 1635877949,
+      "sha256": "f25df3ec2bebff0b43eabb7c190e828b4432877fc699a665506d83c5cfd6d6b9"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2005931415",
+      "submissionIds": [
+        "2005931415"
+      ],
+      "timestamp": 1779062671,
+      "sha256": "1a87d4e34678b1f84cce9770b7f99fad605bb968126fbf4933f963d0a371f393"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "frontendId": "176",
+  "title": "Second Highest Salary",
+  "slug": "second-highest-salary",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ],
+  "acceptedCountReported": 0,
+  "solutions": []
+}

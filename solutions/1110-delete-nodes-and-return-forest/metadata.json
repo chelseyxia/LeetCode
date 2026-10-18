@@ -1,0 +1,41 @@
+{
+  "frontendId": "1110",
+  "title": "Delete Nodes And Return Forest",
+  "slug": "delete-nodes-and-return-forest",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "616602528",
+      "submissionIds": [
+        "616602528"
+      ],
+      "timestamp": 1641776192,
+      "sha256": "036c3dbfe76c12ad1628610d92f1eb8564fd47e2f28bbb79a0a1b5a9d783ef85"
+    }
+  ]
+}

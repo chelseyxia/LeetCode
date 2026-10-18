@@ -1,0 +1,37 @@
+{
+  "frontendId": "1152",
+  "title": "Analyze User Website Visit Pattern",
+  "slug": "analyze-user-website-visit-pattern",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610134284",
+      "submissionIds": [
+        "610134284"
+      ],
+      "timestamp": 1640917780,
+      "sha256": "9cc91d6e44f34d3d5193c37305fb8e32feb729210a5e997f2207939489050f04"
+    }
+  ]
+}

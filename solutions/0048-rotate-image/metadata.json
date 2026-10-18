@@ -1,0 +1,34 @@
+{
+  "frontendId": "48",
+  "title": "Rotate Image",
+  "slug": "rotate-image",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "551328988",
+      "submissionIds": [
+        "551328988",
+        "551317258"
+      ],
+      "timestamp": 1631080373,
+      "sha256": "6057ca01f942deb7c32a0a13140be0505d1d885a387e8bac73c8f4f3ec83f4f1"
+    }
+  ]
+}

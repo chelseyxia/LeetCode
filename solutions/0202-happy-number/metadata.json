@@ -1,0 +1,73 @@
+{
+  "frontendId": "202",
+  "title": "Happy Number",
+  "slug": "happy-number",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Floyd's Cycle Finding Algorithm",
+      "slug": "floyds-cycle-finding-algorithm"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610496953",
+      "submissionIds": [
+        "610496953"
+      ],
+      "timestamp": 1640979149,
+      "sha256": "51ac827940b21d184ea22eb9cef138fe039f4ec2269cd40fe9246c20894de5ef"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "626608924",
+      "submissionIds": [
+        "626608924"
+      ],
+      "timestamp": 1643007804,
+      "sha256": "2f85cc1a341d95001de13d2212530065e548bed3def6b10c8031aa25e54cf5c0"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "637252741",
+      "submissionIds": [
+        "637252741"
+      ],
+      "timestamp": 1644336894,
+      "sha256": "2f0ff75cfef2b45b38057b218c80e31ff0358d519e1844da521f764e3c5fd669"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "637274380",
+      "submissionIds": [
+        "637274380"
+      ],
+      "timestamp": 1644339079,
+      "sha256": "7fb20cd4f5fa20b3406ceb35ac444887130ae60642b19ff9f045c0d7058e0d89"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "637274579",
+      "submissionIds": [
+        "637274579"
+      ],
+      "timestamp": 1644339103,
+      "sha256": "9ee52d6e3486923d4f41d1a52063fada94d8a541124ec56b356316e97a6f1f4e"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "frontendId": "662",
+  "title": "Maximum Width of Binary Tree",
+  "slug": "maximum-width-of-binary-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603422644",
+      "submissionIds": [
+        "603422644"
+      ],
+      "timestamp": 1639803940,
+      "sha256": "b51e4b21a3d5925a15f6be8fd8467b5a2402cadc9b8e3ee9093cbbcb4e29ce10"
+    }
+  ]
+}

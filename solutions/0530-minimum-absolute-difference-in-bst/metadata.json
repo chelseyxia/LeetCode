@@ -1,0 +1,41 @@
+{
+  "frontendId": "530",
+  "title": "Minimum Absolute Difference in BST",
+  "slug": "minimum-absolute-difference-in-bst",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604591724",
+      "submissionIds": [
+        "604591724"
+      ],
+      "timestamp": 1640027344,
+      "sha256": "05842307ebc6b4d82dfcde2e2b62f80ff02bd3c16b5b02caaaf6a3bbff519a70"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "frontendId": "142",
+  "title": "Linked List Cycle II",
+  "slug": "linked-list-cycle-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Floyd's Cycle Finding Algorithm",
+      "slug": "floyds-cycle-finding-algorithm"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "606704644",
+      "submissionIds": [
+        "606704644"
+      ],
+      "timestamp": 1640396359,
+      "sha256": "1448d26bfcdfee8080a11a569312704d7ba4e595b83c2fc287d23c553d448087"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "643788672",
+      "submissionIds": [
+        "643788672"
+      ],
+      "timestamp": 1645170646,
+      "sha256": "fdb84c0239fa043d4eb7265b55cb099a52628b31fa68a483445bbaf83fc42ddc"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "669946125",
+      "submissionIds": [
+        "669946125"
+      ],
+      "timestamp": 1648592438,
+      "sha256": "b94226dc4b5154d19df44ac1fbc83c84ddbf68e97d53311929984022878a13b9"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2007812661",
+      "submissionIds": [
+        "2007812661"
+      ],
+      "timestamp": 1779253211,
+      "sha256": "f2418aa8246cb048651b8bc70fc26111ac381ea38df47a5ca5e286374afe7cb1"
+    }
+  ]
+}

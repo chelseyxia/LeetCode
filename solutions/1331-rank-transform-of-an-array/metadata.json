@@ -1,0 +1,33 @@
+{
+  "frontendId": "1331",
+  "title": "Rank Transform of an Array",
+  "slug": "rank-transform-of-an-array",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "609355579",
+      "submissionIds": [
+        "609355579"
+      ],
+      "timestamp": 1640811288,
+      "sha256": "ddf97147e380877a7892ab642acf6a939b036159b679572d4c7cb77b4876016a"
+    }
+  ]
+}

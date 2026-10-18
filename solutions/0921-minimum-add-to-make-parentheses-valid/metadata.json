@@ -1,0 +1,37 @@
+{
+  "frontendId": "921",
+  "title": "Minimum Add to Make Parentheses Valid",
+  "slug": "minimum-add-to-make-parentheses-valid",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Bracket Sequences",
+      "slug": "bracket-sequences"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607703695",
+      "submissionIds": [
+        "607703695"
+      ],
+      "timestamp": 1640571223,
+      "sha256": "85c5d86aa768f0a55560c838e21ea2f49186198e2d87fd6eaf6b817a643e3781"
+    }
+  ]
+}

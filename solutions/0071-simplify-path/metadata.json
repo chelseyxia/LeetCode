@@ -1,0 +1,29 @@
+{
+  "frontendId": "71",
+  "title": "Simplify Path",
+  "slug": "simplify-path",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607556989",
+      "submissionIds": [
+        "607556989"
+      ],
+      "timestamp": 1640546646,
+      "sha256": "b823bfa82f2afbf58c58b94c4846f3a467566f5e1c91332e95d0984e4bb072ef"
+    }
+  ]
+}

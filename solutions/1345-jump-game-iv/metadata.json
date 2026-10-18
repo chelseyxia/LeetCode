@@ -1,0 +1,42 @@
+{
+  "frontendId": "1345",
+  "title": "Jump Game IV",
+  "slug": "jump-game-iv",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "636010561",
+      "submissionIds": [
+        "636010561"
+      ],
+      "timestamp": 1644187679,
+      "sha256": "1786aeab6f103151331287fefa8302f7e4228d39c348b4ffc2222019bda85e62"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2068195781",
+      "submissionIds": [
+        "2068195781"
+      ],
+      "timestamp": 1784095881,
+      "sha256": "c4b7f812fb53d49ec2eb504cdad9b4fc27e6c7aa9c759967c8ba2e5b2cf5f171"
+    }
+  ]
+}

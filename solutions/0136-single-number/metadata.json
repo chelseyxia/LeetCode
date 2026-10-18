@@ -1,0 +1,67 @@
+{
+  "frontendId": "136",
+  "title": "Single Number",
+  "slug": "single-number",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ],
+  "acceptedCountReported": 7,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "569513702",
+      "submissionIds": [
+        "569513702"
+      ],
+      "timestamp": 1633971350,
+      "sha256": "f31820c6d6c42b73f0da49071a578ad92ffb0334c4297a5e8fbe7bc46a954134"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "634225058",
+      "submissionIds": [
+        "634225058"
+      ],
+      "timestamp": 1643959690,
+      "sha256": "a50ebf4acddb5cce70e257ed1f58663be43513c6bc1fb37da1f15a312bab1359"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "636885090",
+      "submissionIds": [
+        "636885090",
+        "634226692"
+      ],
+      "timestamp": 1644292811,
+      "sha256": "585f6b392520c4041a0b3b9b7c174cb447c5a78b28b5b7d0ab159a311722dbfe"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "636888572",
+      "submissionIds": [
+        "636888572",
+        "569521338"
+      ],
+      "timestamp": 1644293123,
+      "sha256": "59683c2ff1c241b4c9640efc7821ce7f617b697b7b61249f3dbda006090763e3"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "637694524",
+      "submissionIds": [
+        "637694524"
+      ],
+      "timestamp": 1644387098,
+      "sha256": "c889c2961f585d0b2ca86481c35b92baea504a744c874e667aeba8fb0f27eba1"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "frontendId": "355",
+  "title": "Design Twitter",
+  "slug": "design-twitter",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "639543114",
+      "submissionIds": [
+        "639543114"
+      ],
+      "timestamp": 1644621746,
+      "sha256": "ff617bc61564ce88fd607b9f5ec8c03d2e2f1d932ef31fe7e872b5892d48d040"
+    }
+  ]
+}

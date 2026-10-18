@@ -1,0 +1,42 @@
+{
+  "frontendId": "62",
+  "title": "Unique Paths",
+  "slug": "unique-paths",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Combinatorics",
+      "slug": "combinatorics"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "585141264",
+      "submissionIds": [
+        "585141264"
+      ],
+      "timestamp": 1636570423,
+      "sha256": "debd7eee6e804a45b4c0c39272a68f27ebe11717271c241025d756acff54d173"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "665181988",
+      "submissionIds": [
+        "665181988"
+      ],
+      "timestamp": 1647970169,
+      "sha256": "51d5516a7062a466454d7a3b2a0670bd4286adc88e1a4e0af22fadec9d294e4e"
+    }
+  ]
+}

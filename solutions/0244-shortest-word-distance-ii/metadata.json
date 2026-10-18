@@ -1,0 +1,41 @@
+{
+  "frontendId": "244",
+  "title": "Shortest Word Distance II",
+  "slug": "shortest-word-distance-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "609548596",
+      "submissionIds": [
+        "609548596"
+      ],
+      "timestamp": 1640836131,
+      "sha256": "cf2fc12411781b60ef0ce74f10f007bfddda29ad5f92eea9ca63c8055aaee416"
+    }
+  ]
+}

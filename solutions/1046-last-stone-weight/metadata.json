@@ -1,0 +1,48 @@
+{
+  "frontendId": "1046",
+  "title": "Last Stone Weight",
+  "slug": "last-stone-weight",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "680651766",
+      "submissionIds": [
+        "680651766",
+        "680651260"
+      ],
+      "timestamp": 1649998683,
+      "sha256": "5d8ed14ddb079af1990c93480f34023b3538c3e5a9249f54802ccc2e543d4d1b"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2097446471",
+      "submissionIds": [
+        "2097446471"
+      ],
+      "timestamp": 1786076746,
+      "sha256": "fbc8afb954a190c1b45f27465e794c68bf35644a87a52311bdbc8e13fc73220d"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2097455594",
+      "submissionIds": [
+        "2097455594"
+      ],
+      "timestamp": 1786077292,
+      "sha256": "23efaf23f090072fe344841393aec1af2313a515b30786daa3d8cf3a677bbc91"
+    }
+  ]
+}

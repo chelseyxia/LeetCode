@@ -1,0 +1,45 @@
+{
+  "frontendId": "1268",
+  "title": "Search Suggestions System",
+  "slug": "search-suggestions-system",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "617223254",
+      "submissionIds": [
+        "617223254"
+      ],
+      "timestamp": 1641854566,
+      "sha256": "f52863ad8447563a14babcf2e61d261864a4103aca337c9a73661f5e864ea622"
+    }
+  ]
+}

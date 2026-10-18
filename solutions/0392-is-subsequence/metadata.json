@@ -1,0 +1,43 @@
+{
+  "frontendId": "392",
+  "title": "Is Subsequence",
+  "slug": "is-subsequence",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "588196592",
+      "submissionIds": [
+        "588196592"
+      ],
+      "timestamp": 1637089317,
+      "sha256": "8b0bf57f25b97b5ad43be6f8d1b878b5b3471252c16f898080cf5bffe31c7b16"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "588199490",
+      "submissionIds": [
+        "588199490",
+        "588198648"
+      ],
+      "timestamp": 1637089755,
+      "sha256": "9fed5b013930fba40f3aef87bc7a4e0a5c449a29fe6a1606f95936d814bcb89a"
+    }
+  ]
+}

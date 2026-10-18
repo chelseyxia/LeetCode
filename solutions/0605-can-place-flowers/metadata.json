@@ -1,0 +1,29 @@
+{
+  "frontendId": "605",
+  "title": "Can Place Flowers",
+  "slug": "can-place-flowers",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613025403",
+      "submissionIds": [
+        "613025403"
+      ],
+      "timestamp": 1641319840,
+      "sha256": "9b142bc4419f51ffc70c1d1f1bf623bb2cee75098168579bc38f4ddcdc973630"
+    }
+  ]
+}

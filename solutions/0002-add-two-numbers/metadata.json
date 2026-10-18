@@ -1,0 +1,51 @@
+{
+  "frontendId": "2",
+  "title": "Add Two Numbers",
+  "slug": "add-two-numbers",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "544376664",
+      "submissionIds": [
+        "544376664"
+      ],
+      "timestamp": 1629953865,
+      "sha256": "6f7623ddc2ff2d9c130ec02a67a40e6d9373f6cd6f879fd65d0e3607f570773e"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "552198379",
+      "submissionIds": [
+        "552198379"
+      ],
+      "timestamp": 1631213007,
+      "sha256": "ed63d87f8ba64c8fca2693f82ac70a04446c0afe7104ea39029d454dbd8adfc5"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "735609766",
+      "submissionIds": [
+        "735609766"
+      ],
+      "timestamp": 1656652946,
+      "sha256": "2e196b6a1e8f65d95add69397400a9d78987dd5f57f7c20365c000406365a0ee"
+    }
+  ]
+}

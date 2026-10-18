@@ -1,0 +1,46 @@
+{
+  "frontendId": "1162",
+  "title": "As Far from Land as Possible",
+  "slug": "as-far-from-land-as-possible",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "647968520",
+      "submissionIds": [
+        "647968520"
+      ],
+      "timestamp": 1645688497,
+      "sha256": "c29b21c2153286b76e84f391adc8f5b3f71b3b610cf0595a1af9634a67d5745d"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2056197915",
+      "submissionIds": [
+        "2056197915"
+      ],
+      "timestamp": 1783192880,
+      "sha256": "6c7a6b178b2e1e3b25751fea466449ba239dde4da6605a08a0a065a221c2df1f"
+    }
+  ]
+}

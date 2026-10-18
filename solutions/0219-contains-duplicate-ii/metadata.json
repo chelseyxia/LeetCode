@@ -1,0 +1,42 @@
+{
+  "frontendId": "219",
+  "title": "Contains Duplicate II",
+  "slug": "contains-duplicate-ii",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622050649",
+      "submissionIds": [
+        "622050649"
+      ],
+      "timestamp": 1642461720,
+      "sha256": "5eb0d773d50b3811be3f9a85bae8514f955030b15991964dd466e922327ff793"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "622051835",
+      "submissionIds": [
+        "622051835"
+      ],
+      "timestamp": 1642461855,
+      "sha256": "d0d9349aeba9018fd8b98a1844883c6a481fc9cf0df0ca908076385eca47fe02"
+    }
+  ]
+}

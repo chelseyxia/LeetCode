@@ -1,0 +1,51 @@
+{
+  "frontendId": "503",
+  "title": "Next Greater Element II",
+  "slug": "next-greater-element-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "630055537",
+      "submissionIds": [
+        "630055537"
+      ],
+      "timestamp": 1643440746,
+      "sha256": "d50d59cf361b16561d145ac3567c4870266ad71c953bf99be59cd7d70c58c86c"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2070667822",
+      "submissionIds": [
+        "2070667822"
+      ],
+      "timestamp": 1784266119,
+      "sha256": "bdadf92619bc12ebe6fdaa305c8cf420212a3bbc9f0e4128fc4573fb0738bb39"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2070674072",
+      "submissionIds": [
+        "2070674072"
+      ],
+      "timestamp": 1784266430,
+      "sha256": "edcd1adfb1726bdb26f6cb764cec4369210e4fad95fb19e558d5902ab3181d30"
+    }
+  ]
+}

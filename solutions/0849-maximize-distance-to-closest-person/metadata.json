@@ -1,0 +1,26 @@
+{
+  "frontendId": "849",
+  "title": "Maximize Distance to Closest Person",
+  "slug": "maximize-distance-to-closest-person",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "724827130",
+      "submissionIds": [
+        "724827130",
+        "724560451"
+      ],
+      "timestamp": 1655521050,
+      "sha256": "aa57ecf8ce18d191c5e62688d0ad725a197a769fcb9c4bfc3dc39dc2fc185f3d"
+    }
+  ]
+}

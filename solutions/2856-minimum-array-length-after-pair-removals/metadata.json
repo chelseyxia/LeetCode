@@ -1,0 +1,45 @@
+{
+  "frontendId": "2856",
+  "title": "Minimum Array Length After Pair Removals",
+  "slug": "minimum-array-length-after-pair-removals",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2149329349",
+      "submissionIds": [
+        "2149329349"
+      ],
+      "timestamp": 1790053471,
+      "sha256": "e7af090f0cd0c167c974ba543251b2d4c5580bd478d77086f901a243682095e1"
+    }
+  ]
+}

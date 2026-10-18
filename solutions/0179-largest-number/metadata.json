@@ -1,0 +1,37 @@
+{
+  "frontendId": "179",
+  "title": "Largest Number",
+  "slug": "largest-number",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "642362651",
+      "submissionIds": [
+        "642362651"
+      ],
+      "timestamp": 1644988500,
+      "sha256": "ca22ef96dac017f90e3bf8c50124956d800e4c51cce637343e1352df5bc03bae"
+    }
+  ]
+}

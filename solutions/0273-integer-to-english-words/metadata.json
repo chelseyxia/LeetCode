@@ -1,0 +1,33 @@
+{
+  "frontendId": "273",
+  "title": "Integer to English Words",
+  "slug": "integer-to-english-words",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "612700380",
+      "submissionIds": [
+        "612700380"
+      ],
+      "timestamp": 1641277690,
+      "sha256": "d57c699560605c472be0d3b95d5c8e6b2496be3804878683c35f6136b99ba7bf"
+    }
+  ]
+}

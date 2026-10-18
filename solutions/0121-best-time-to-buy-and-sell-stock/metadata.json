@@ -1,0 +1,57 @@
+{
+  "frontendId": "121",
+  "title": "Best Time to Buy and Sell Stock",
+  "slug": "best-time-to-buy-and-sell-stock",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "544390789",
+      "submissionIds": [
+        "544390789"
+      ],
+      "timestamp": 1629955641,
+      "sha256": "4dcdb0bfc0066e437f68a23beb2b3ff51602deed60017610b9f4072b0ecdbdc6"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "582060126",
+      "submissionIds": [
+        "582060126",
+        "555588755"
+      ],
+      "timestamp": 1636045036,
+      "sha256": "ea66ff6e83b15391c32e5e05211ddede601d11f42883cad945007e8c8b0c9a96"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "634749040",
+      "submissionIds": [
+        "634749040"
+      ],
+      "timestamp": 1644035166,
+      "sha256": "7ab61594ce0de84d98e7bd044582b7ec3f4ab5d4bd43eb634e148579924269f5"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "637766172",
+      "submissionIds": [
+        "637766172"
+      ],
+      "timestamp": 1644394397,
+      "sha256": "c3e4823d63b1d5d26a00a0862e993e7ed2928ce83d53da00766d11d888cf4563"
+    }
+  ]
+}

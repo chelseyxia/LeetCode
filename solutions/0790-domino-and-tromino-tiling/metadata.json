@@ -1,0 +1,34 @@
+{
+  "frontendId": "790",
+  "title": "Domino and Tromino Tiling",
+  "slug": "domino-and-tromino-tiling",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "633530254",
+      "submissionIds": [
+        "633530254"
+      ],
+      "timestamp": 1643873397,
+      "sha256": "901fcae6377c0aaf1c1394a8f8d261ef3f1d02e91e43038b9dabd6ec2c104b96"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "633533009",
+      "submissionIds": [
+        "633533009"
+      ],
+      "timestamp": 1643873700,
+      "sha256": "66f61de017a4fe4bcab58430ff3ac1a2350754f1459ee73299a86d9d4ff115f9"
+    }
+  ]
+}

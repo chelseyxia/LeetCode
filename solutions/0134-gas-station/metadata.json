@@ -1,0 +1,29 @@
+{
+  "frontendId": "134",
+  "title": "Gas Station",
+  "slug": "gas-station",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "578111674",
+      "submissionIds": [
+        "578111674"
+      ],
+      "timestamp": 1635354772,
+      "sha256": "bc4d6cf442f927fa54439ffe5169027060c557bb450bf2dbabaedaef9c624fa3"
+    }
+  ]
+}

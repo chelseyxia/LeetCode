@@ -1,0 +1,89 @@
+{
+  "frontendId": "347",
+  "title": "Top K Frequent Elements",
+  "slug": "top-k-frequent-elements",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Bucket Sort",
+      "slug": "bucket-sort"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    },
+    {
+      "name": "Quickselect",
+      "slug": "quickselect"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "554472810",
+      "submissionIds": [
+        "554472810"
+      ],
+      "timestamp": 1631578130,
+      "sha256": "9069696f1bbb273b59832469b7b012cb400fd0972edbac3e4c312384b37b41d1"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "554473614",
+      "submissionIds": [
+        "554473614"
+      ],
+      "timestamp": 1631578282,
+      "sha256": "f45d143873db0be644961a7142db7dfaeb3ad953a5dda455cd6ba5dff47cf784"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "554476186",
+      "submissionIds": [
+        "554476186"
+      ],
+      "timestamp": 1631578736,
+      "sha256": "a4b05ddeeb8b9798c3cdcffdf219ac56b7a60d77657f558c55201ecb3add9d8a"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "680629231",
+      "submissionIds": [
+        "680629231"
+      ],
+      "timestamp": 1649995944,
+      "sha256": "84bef9ce64031ff38e1b7951715163a81df8bf53d313b8076b353592a72811c7"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "2100831610",
+      "submissionIds": [
+        "2100831610"
+      ],
+      "timestamp": 1786307863,
+      "sha256": "916259ec6a7f9ad80cff5d6b456f8f4366f952a284801067698f514dcac539df"
+    }
+  ]
+}

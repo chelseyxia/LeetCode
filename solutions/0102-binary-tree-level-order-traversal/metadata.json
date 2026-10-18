@@ -1,0 +1,61 @@
+{
+  "frontendId": "102",
+  "title": "Binary Tree Level Order Traversal",
+  "slug": "binary-tree-level-order-traversal",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "552779421",
+      "submissionIds": [
+        "552779421",
+        "552705412"
+      ],
+      "timestamp": 1631307466,
+      "sha256": "d3216d8228e2d088018d56ed79237a8d05dba036f005f39bd1b11a62eda7d976"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "643744011",
+      "submissionIds": [
+        "643744011"
+      ],
+      "timestamp": 1645165687,
+      "sha256": "12516b29a57974a3588e6909bac7b492074d087d85da421a32befbee31881f71"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "665483834",
+      "submissionIds": [
+        "665483834"
+      ],
+      "timestamp": 1648008535,
+      "sha256": "3e226fde679f15e81600efcdb53a56e2ab2a5d92285f1488b16e40e3733b685c"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2041394840",
+      "submissionIds": [
+        "2041394840"
+      ],
+      "timestamp": 1782073859,
+      "sha256": "664ad396f6744806ffddc7242443c40845e28b9737e76615565fa12a36cbdf73"
+    }
+  ]
+}

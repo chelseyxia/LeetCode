@@ -1,0 +1,37 @@
+{
+  "frontendId": "934",
+  "title": "Shortest Bridge",
+  "slug": "shortest-bridge",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "605381007",
+      "submissionIds": [
+        "605381007"
+      ],
+      "timestamp": 1640155799,
+      "sha256": "ed2a35331a71dfef1b1f416bb8e0d2c511d4f7e1c2a2dadbaa8791dfc6386d42"
+    }
+  ]
+}

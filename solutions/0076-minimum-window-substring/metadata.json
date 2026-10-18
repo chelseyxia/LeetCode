@@ -1,0 +1,52 @@
+{
+  "frontendId": "76",
+  "title": "Minimum Window Substring",
+  "slug": "minimum-window-substring",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "606765668",
+      "submissionIds": [
+        "606765668"
+      ],
+      "timestamp": 1640409057,
+      "sha256": "3571111f593072f3304271231362d450ff292c1f8b94bf62b5683350086fcce1"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "724198409",
+      "submissionIds": [
+        "724198409",
+        "724177564"
+      ],
+      "timestamp": 1655444862,
+      "sha256": "64727adc8accc167f8302ecc76a1da4a202fb51c82ed39a3affa7de6889d4f66"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "1999199124",
+      "submissionIds": [
+        "1999199124"
+      ],
+      "timestamp": 1778356567,
+      "sha256": "2fb000223720fa02c8d621e2afd3dc9a7e348c74f52907343709c0602a9a0cd0"
+    }
+  ]
+}

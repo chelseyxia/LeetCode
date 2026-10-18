@@ -1,0 +1,41 @@
+{
+  "frontendId": "349",
+  "title": "Intersection of Two Arrays",
+  "slug": "intersection-of-two-arrays",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610143541",
+      "submissionIds": [
+        "610143541"
+      ],
+      "timestamp": 1640919133,
+      "sha256": "c2963659c8ea5cb8e097c6b76f2ab629a5269c05cc4b05ebaf6d35501c7e4bf0"
+    }
+  ]
+}

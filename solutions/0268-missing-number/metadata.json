@@ -1,0 +1,45 @@
+{
+  "frontendId": "268",
+  "title": "Missing Number",
+  "slug": "missing-number",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "551833731",
+      "submissionIds": [
+        "551833731"
+      ],
+      "timestamp": 1631156870,
+      "sha256": "732af8274d1e7ddd8874a81a6d22e32b176e1fde6d469f1b143fa3bc8ff95db3"
+    }
+  ]
+}

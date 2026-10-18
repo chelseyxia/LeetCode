@@ -1,0 +1,45 @@
+{
+  "frontendId": "173",
+  "title": "Binary Search Tree Iterator",
+  "slug": "binary-search-tree-iterator",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "Iterator",
+      "slug": "iterator"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "566908207",
+      "submissionIds": [
+        "566908207"
+      ],
+      "timestamp": 1633542962,
+      "sha256": "7252fca418cd8b4d63ffc1e8894847f0a6a864ffb8eb0df2b6ee5fc258f959ef"
+    }
+  ]
+}

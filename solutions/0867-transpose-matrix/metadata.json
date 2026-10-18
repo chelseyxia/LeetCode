@@ -1,0 +1,33 @@
+{
+  "frontendId": "867",
+  "title": "Transpose Matrix",
+  "slug": "transpose-matrix",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1815630149",
+      "submissionIds": [
+        "1815630149"
+      ],
+      "timestamp": 1761799821,
+      "sha256": "860ed7ba2a96ef751ddab9bb13e61a03d71406a63dc68969628106815c4963e7"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "frontendId": "716",
+  "title": "Max Stack",
+  "slug": "max-stack",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Doubly-Linked List",
+      "slug": "doubly-linked-list"
+    },
+    {
+      "name": "Ordered Set",
+      "slug": "ordered-set"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "542980280",
+      "submissionIds": [
+        "542980280"
+      ],
+      "timestamp": 1629736560,
+      "sha256": "1db8159d4637658960eb95b74f3940c4e54a0daea865ebba92426efab9d02001"
+    }
+  ]
+}

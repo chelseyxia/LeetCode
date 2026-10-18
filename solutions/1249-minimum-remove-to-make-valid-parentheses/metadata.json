@@ -1,0 +1,38 @@
+{
+  "frontendId": "1249",
+  "title": "Minimum Remove to Make Valid Parentheses",
+  "slug": "minimum-remove-to-make-valid-parentheses",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538195113",
+      "submissionIds": [
+        "538195113"
+      ],
+      "timestamp": 1628914348,
+      "sha256": "ea29902e3f54e769eee62b949de1cfa7daf33e976b1062650026acf67fae1de3"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "578657353",
+      "submissionIds": [
+        "578657353"
+      ],
+      "timestamp": 1635446096,
+      "sha256": "17067ea18817c3570277a92015c55e34e5e057cc6981ddec62f27762b0a17e02"
+    }
+  ]
+}

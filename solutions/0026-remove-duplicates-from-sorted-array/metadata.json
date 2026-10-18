@@ -1,0 +1,38 @@
+{
+  "frontendId": "26",
+  "title": "Remove Duplicates from Sorted Array",
+  "slug": "remove-duplicates-from-sorted-array",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539979055",
+      "submissionIds": [
+        "539979055"
+      ],
+      "timestamp": 1629219793,
+      "sha256": "ce70af77c61ae5a3ef2f88ee2e347021d342cb7ce9323afe13247cd319809873"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2005916429",
+      "submissionIds": [
+        "2005916429"
+      ],
+      "timestamp": 1779058943,
+      "sha256": "2a5fea1662e48eecea34d21f431d49243b31d1f803c89f01ebb9d7f700109a87"
+    }
+  ]
+}

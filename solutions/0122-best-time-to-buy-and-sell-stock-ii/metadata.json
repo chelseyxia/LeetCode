@@ -1,0 +1,42 @@
+{
+  "frontendId": "122",
+  "title": "Best Time to Buy and Sell Stock II",
+  "slug": "best-time-to-buy-and-sell-stock-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "542739131",
+      "submissionIds": [
+        "542739131"
+      ],
+      "timestamp": 1629695411,
+      "sha256": "abd6d01414706823433202c496fa2898cb14bdf1925137601590a265756e42f4"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "542741067",
+      "submissionIds": [
+        "542741067"
+      ],
+      "timestamp": 1629695721,
+      "sha256": "259a485557e3a0bb1b32ac0ad21d1c1ee71c3c47b541a9104f671f5d551ae7a3"
+    }
+  ]
+}

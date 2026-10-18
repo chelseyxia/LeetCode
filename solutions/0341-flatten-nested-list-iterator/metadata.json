@@ -1,0 +1,45 @@
+{
+  "frontendId": "341",
+  "title": "Flatten Nested List Iterator",
+  "slug": "flatten-nested-list-iterator",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Iterator",
+      "slug": "iterator"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "602825872",
+      "submissionIds": [
+        "602825872"
+      ],
+      "timestamp": 1639682561,
+      "sha256": "5401fc773fa002723ac648e8a9c0ed5d4a55816792212bc8580faeb556bca72e"
+    }
+  ]
+}

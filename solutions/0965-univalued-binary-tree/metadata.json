@@ -1,0 +1,37 @@
+{
+  "frontendId": "965",
+  "title": "Univalued Binary Tree",
+  "slug": "univalued-binary-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604800846",
+      "submissionIds": [
+        "604800846"
+      ],
+      "timestamp": 1640061717,
+      "sha256": "8d1556e94bf5ef77332b1fc13bf73689fd0bec611ea95b5859b8bf870203b10e"
+    }
+  ]
+}

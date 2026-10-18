@@ -1,0 +1,74 @@
+{
+  "frontendId": "22",
+  "title": "Generate Parentheses",
+  "slug": "generate-parentheses",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Bracket Sequences",
+      "slug": "bracket-sequences"
+    }
+  ],
+  "acceptedCountReported": 6,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539433729",
+      "submissionIds": [
+        "539433729"
+      ],
+      "timestamp": 1629129265,
+      "sha256": "ff51368349eb9a51be4ea79ec8db8c6b40b208b0f366f9091c4c169b612c6c27"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "554297433",
+      "submissionIds": [
+        "554297433",
+        "554288454"
+      ],
+      "timestamp": 1631552694,
+      "sha256": "98db00980f7baf858f033f6d6d98ab494b751ea0bc7df2795c052d7f0b4aa2b5"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "632008638",
+      "submissionIds": [
+        "632008638"
+      ],
+      "timestamp": 1643689078,
+      "sha256": "da11b938ac9c494e66226860d4b19717113f5d877950cae22ac1876dd8cdae8c"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "643654764",
+      "submissionIds": [
+        "643654764"
+      ],
+      "timestamp": 1645156333,
+      "sha256": "0228c44bdd60b7668c353ad33bec7ba9b5ae7f34f57ca72dc4e5f399fa83156a"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "2028112805",
+      "submissionIds": [
+        "2028112805"
+      ],
+      "timestamp": 1781063212,
+      "sha256": "accd58f78dbc5204dc44c26eb1f13d4d3975f5211cf7de4ca2840221b2621980"
+    }
+  ]
+}

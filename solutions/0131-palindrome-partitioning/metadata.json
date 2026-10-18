@@ -1,0 +1,42 @@
+{
+  "frontendId": "131",
+  "title": "Palindrome Partitioning",
+  "slug": "palindrome-partitioning",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613767236",
+      "submissionIds": [
+        "613767236"
+      ],
+      "timestamp": 1641413635,
+      "sha256": "b64189ddac056f4a15b79654ef486798d83115b6004810cf153cd5a20d3fbfe2"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2032113653",
+      "submissionIds": [
+        "2032113653"
+      ],
+      "timestamp": 1781377774,
+      "sha256": "05cb971609bf43a6dfe2383dab4bd9d39920e25e6f9bb3b95fc4d68d48bb91ca"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "frontendId": "125",
+  "title": "Valid Palindrome",
+  "slug": "valid-palindrome",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539228591",
+      "submissionIds": [
+        "539228591"
+      ],
+      "timestamp": 1629092080,
+      "sha256": "26f3acac107538b3c367cebc8709a3b24742db4c0064482dfdd6206b0eab64dc"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2006028466",
+      "submissionIds": [
+        "2006028466"
+      ],
+      "timestamp": 1779077895,
+      "sha256": "4d02fe6f3ed13c7fe83c2dd92388e448fda5ae0ec62ccf24930f710b2735558d"
+    }
+  ]
+}

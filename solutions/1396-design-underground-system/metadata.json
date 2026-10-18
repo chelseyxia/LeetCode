@@ -1,0 +1,42 @@
+{
+  "frontendId": "1396",
+  "title": "Design Underground System",
+  "slug": "design-underground-system",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "609320752",
+      "submissionIds": [
+        "609320752"
+      ],
+      "timestamp": 1640807169,
+      "sha256": "2d759113e6c9e0e0f479a208c7ce4b762ff98f3839e0b7d52c4589e0b09728a1"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "609334354",
+      "submissionIds": [
+        "609334354"
+      ],
+      "timestamp": 1640808762,
+      "sha256": "0d0913187ed7576aca64ac90de04adb0457354d799d84d92cfc117a1f11f95c0"
+    }
+  ]
+}

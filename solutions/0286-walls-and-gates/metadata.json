@@ -1,0 +1,51 @@
+{
+  "frontendId": "286",
+  "title": "Walls and Gates",
+  "slug": "walls-and-gates",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "642220065",
+      "submissionIds": [
+        "642220065"
+      ],
+      "timestamp": 1644971831,
+      "sha256": "26d8df306741bb9b8493c31e823b6ac66b2ade67245883c0ffd676827de5c619"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2041531452",
+      "submissionIds": [
+        "2041531452"
+      ],
+      "timestamp": 1782097254,
+      "sha256": "8c1a3ac24026e6d63b0af12ad43d6568ee8655c8f06448e6ce3245c2ea742f9c"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2041533222",
+      "submissionIds": [
+        "2041533222"
+      ],
+      "timestamp": 1782097449,
+      "sha256": "65284c87d7bfa5d0b2fc4a7f838d1d1631a5b9d0243907224bba8e2886698512"
+    }
+  ]
+}

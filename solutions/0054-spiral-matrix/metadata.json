@@ -1,0 +1,33 @@
+{
+  "frontendId": "54",
+  "title": "Spiral Matrix",
+  "slug": "spiral-matrix",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538491027",
+      "submissionIds": [
+        "538491027"
+      ],
+      "timestamp": 1628966769,
+      "sha256": "fcb17676588df0f713dbaf116e86a946137bbecf086ca7bb78ecc2d2796a4b64"
+    }
+  ]
+}

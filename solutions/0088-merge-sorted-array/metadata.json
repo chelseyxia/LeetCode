@@ -1,0 +1,51 @@
+{
+  "frontendId": "88",
+  "title": "Merge Sorted Array",
+  "slug": "merge-sorted-array",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538683920",
+      "submissionIds": [
+        "538683920"
+      ],
+      "timestamp": 1628999338,
+      "sha256": "fd8b21b40ebd1ad28f30b552b5b686f086ef071248a3247776f6ada6d6b27ca9"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "544703655",
+      "submissionIds": [
+        "544703655"
+      ],
+      "timestamp": 1630002498,
+      "sha256": "a6974a1221b0deab70c05d8febfc82fed78c3755bfe45c3142dc2be50861ab90"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "666017296",
+      "submissionIds": [
+        "666017296"
+      ],
+      "timestamp": 1648076566,
+      "sha256": "386d378ffdc8b5849965e2170d5eebc2aa3f5d0fa53da188449f80d9fecd4bf9"
+    }
+  ]
+}

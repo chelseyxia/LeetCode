@@ -1,0 +1,29 @@
+{
+  "frontendId": "256",
+  "title": "Paint House",
+  "slug": "paint-house",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "587762647",
+      "submissionIds": [
+        "587762647"
+      ],
+      "timestamp": 1637017721,
+      "sha256": "83fc46ed9905395ace4a646987998f8233d654a9c00fcab734ecbab3d7a949e4"
+    }
+  ]
+}

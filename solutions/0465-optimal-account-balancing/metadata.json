@@ -1,0 +1,41 @@
+{
+  "frontendId": "465",
+  "title": "Optimal Account Balancing",
+  "slug": "optimal-account-balancing",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Bitmask",
+      "slug": "bitmask"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "614764890",
+      "submissionIds": [
+        "614764890"
+      ],
+      "timestamp": 1641537282,
+      "sha256": "bae1ed917062a7969a1d1dfde0c1aa955d405d85ae6dbd12c39160ac71b9e55f"
+    }
+  ]
+}

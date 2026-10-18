@@ -1,0 +1,37 @@
+{
+  "frontendId": "993",
+  "title": "Cousins in Binary Tree",
+  "slug": "cousins-in-binary-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604238851",
+      "submissionIds": [
+        "604238851"
+      ],
+      "timestamp": 1639964033,
+      "sha256": "16738d41fb6df1bbd837cd89bdad5db8484cad592aae7752568e1ebe8d2b0438"
+    }
+  ]
+}

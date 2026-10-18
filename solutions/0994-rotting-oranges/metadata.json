@@ -1,0 +1,70 @@
+{
+  "frontendId": "994",
+  "title": "Rotting Oranges",
+  "slug": "rotting-oranges",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 6,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "545420830",
+      "submissionIds": [
+        "545420830"
+      ],
+      "timestamp": 1630125557,
+      "sha256": "8dcb25dc80345193ae19ab5c0b16e83cfff70d8dc0778cda3b5d4c82e9e3bf7b"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "721010728",
+      "submissionIds": [
+        "721010728",
+        "721008490"
+      ],
+      "timestamp": 1655100761,
+      "sha256": "4d2de75fbb22fc1b49beff1ccb8ce9c7b8cb5f0b9ecf704b1011eb8fee90e038"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2041455956",
+      "submissionIds": [
+        "2041455956"
+      ],
+      "timestamp": 1782084969,
+      "sha256": "1e0a598018c100f59ed8abb2353240af949d0b991a1efcc6e8996d1f0ebdc6af"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2041456102",
+      "submissionIds": [
+        "2041456102"
+      ],
+      "timestamp": 1782085000,
+      "sha256": "604c10d8d6f8bdea1df3db49bc2d33edff6dc659afc83f204556f7b4cb41e187"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "2041456314",
+      "submissionIds": [
+        "2041456314"
+      ],
+      "timestamp": 1782085059,
+      "sha256": "7610876e011dfa9ebe620aadf2e7f06252878e6332f808d3b736c2f0a49b3d1c"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "frontendId": "917",
+  "title": "Reverse Only Letters",
+  "slug": "reverse-only-letters",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "549174602",
+      "submissionIds": [
+        "549174602"
+      ],
+      "timestamp": 1630730494,
+      "sha256": "ac43cf272e46ad470df17107108626b524b5c07916609f6a25ca9e4aad584d1b"
+    }
+  ]
+}

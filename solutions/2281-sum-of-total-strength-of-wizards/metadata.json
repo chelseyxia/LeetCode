@@ -1,0 +1,37 @@
+{
+  "frontendId": "2281",
+  "title": "Sum of Total Strength of Wizards",
+  "slug": "sum-of-total-strength-of-wizards",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "755163660",
+      "submissionIds": [
+        "755163660"
+      ],
+      "timestamp": 1658641875,
+      "sha256": "963274596a7c31d7b36d9c9efe66d454e63c63aa76312ac1221b290d75c21f1d"
+    }
+  ]
+}

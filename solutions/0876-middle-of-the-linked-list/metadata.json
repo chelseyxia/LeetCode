@@ -1,0 +1,29 @@
+{
+  "frontendId": "876",
+  "title": "Middle of the Linked List",
+  "slug": "middle-of-the-linked-list",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608342669",
+      "submissionIds": [
+        "608342669"
+      ],
+      "timestamp": 1640666375,
+      "sha256": "4e66a1df5969d1500612f9dc11be98a4c8957cd5fe83a39deac27555822c5d84"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "frontendId": "676",
+  "title": "Implement Magic Dictionary",
+  "slug": "implement-magic-dictionary",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603896302",
+      "submissionIds": [
+        "603896302"
+      ],
+      "timestamp": 1639894726,
+      "sha256": "7cd3eeae2b01de2c7fe2c6de1f1388a97a7f2aa5850c22c7336a1a517d174010"
+    }
+  ]
+}

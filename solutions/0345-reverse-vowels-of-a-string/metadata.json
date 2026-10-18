@@ -1,0 +1,29 @@
+{
+  "frontendId": "345",
+  "title": "Reverse Vowels of a String",
+  "slug": "reverse-vowels-of-a-string",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "606387248",
+      "submissionIds": [
+        "606387248"
+      ],
+      "timestamp": 1640331792,
+      "sha256": "1bec2a8366c299b1324196c959db4688201081be5137cbce9e3257b79d5fa244"
+    }
+  ]
+}

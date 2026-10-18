@@ -1,0 +1,38 @@
+{
+  "frontendId": "35",
+  "title": "Search Insert Position",
+  "slug": "search-insert-position",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "567916436",
+      "submissionIds": [
+        "567916436"
+      ],
+      "timestamp": 1633710971,
+      "sha256": "10d838a313a0cfe91141c52398d2fa13cb361be027ae1228664793512c785b78"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2009556244",
+      "submissionIds": [
+        "2009556244"
+      ],
+      "timestamp": 1779424712,
+      "sha256": "ec2b1fedfc02650001a8c9dd3b44e2a5b274f2ae22394eda2ffb42ad05032968"
+    }
+  ]
+}

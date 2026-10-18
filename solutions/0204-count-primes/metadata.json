@@ -1,0 +1,67 @@
+{
+  "frontendId": "204",
+  "title": "Count Primes",
+  "slug": "count-primes",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Enumeration",
+      "slug": "enumeration"
+    },
+    {
+      "name": "Number Theory",
+      "slug": "number-theory"
+    },
+    {
+      "name": "Primality Test",
+      "slug": "primality-test"
+    },
+    {
+      "name": "Sieve Theory",
+      "slug": "sieve-theory"
+    },
+    {
+      "name": "Prime Number Sieve",
+      "slug": "prime-number-sieve"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "634478671",
+      "submissionIds": [
+        "634478671"
+      ],
+      "timestamp": 1643995413,
+      "sha256": "03a52868d0e9c86dcefc8cb9bd1dcc3de8653e06caa3c3cf386451eff152b00f"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "636896606",
+      "submissionIds": [
+        "636896606"
+      ],
+      "timestamp": 1644293875,
+      "sha256": "1d2887499e9d29a62ce82735d3e16dc098198159e74d594330c087941d4f5e0f"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "637702639",
+      "submissionIds": [
+        "637702639"
+      ],
+      "timestamp": 1644387854,
+      "sha256": "52143310f772230d3b91c33beb18696a27cde1092bfeda8df4d5bcfdfa4c1754"
+    }
+  ]
+}

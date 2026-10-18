@@ -1,0 +1,41 @@
+{
+  "frontendId": "705",
+  "title": "Design HashSet",
+  "slug": "design-hashset",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Hash Function",
+      "slug": "hash-function"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "542712669",
+      "submissionIds": [
+        "542712669"
+      ],
+      "timestamp": 1629691215,
+      "sha256": "e610062811caa5db1d6f643f8757c41c4d6a0993c928027fd72cfe151fa3bc4c"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "frontendId": "636",
+  "title": "Exclusive Time of Functions",
+  "slug": "exclusive-time-of-functions",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622706680",
+      "submissionIds": [
+        "622706680"
+      ],
+      "timestamp": 1642533129,
+      "sha256": "841346b95a8583f3887b24adb14072dea5dd1cacafc8a1f5b829a087ebcff4e4"
+    }
+  ]
+}

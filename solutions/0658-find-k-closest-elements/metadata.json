@@ -1,0 +1,90 @@
+{
+  "frontendId": "658",
+  "title": "Find K Closest Elements",
+  "slug": "find-k-closest-elements",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 6,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "619320604",
+      "submissionIds": [
+        "619320604"
+      ],
+      "timestamp": 1642121087,
+      "sha256": "59e55d3145b6cf41e6c59b9d066f1ffcb6ff879113450d8eea8fb8ab98304c39"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2121430385",
+      "submissionIds": [
+        "2121430385"
+      ],
+      "timestamp": 1787801816,
+      "sha256": "d5ca4bbe5ad341d1e845cc9829d5afa2280d8a61ce6a9fcd59f9461791c3d0ad"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2121430547",
+      "submissionIds": [
+        "2121430547"
+      ],
+      "timestamp": 1787801836,
+      "sha256": "6da5fca8eec05f394cddfd11fab31184abf6ee3724d4dc0ef7de7827be65250c"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2121431839",
+      "submissionIds": [
+        "2121431839"
+      ],
+      "timestamp": 1787801970,
+      "sha256": "f44fc412fd1cfb8399d1083c931934a04d88a8982bfe3ceaba7ba79a58f583c4"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "2121438493",
+      "submissionIds": [
+        "2121438493"
+      ],
+      "timestamp": 1787802598,
+      "sha256": "14cd23d9185f071f6693b9c556e2651545446fc6add535b510a3a3774955e9c4"
+    },
+    {
+      "file": "solution-6.java",
+      "submissionId": "2121439433",
+      "submissionIds": [
+        "2121439433"
+      ],
+      "timestamp": 1787802681,
+      "sha256": "f7e05efe5ad8e9321208d9e5a90a0ef74692671ed87e9bb6547494570a772576"
+    }
+  ]
+}

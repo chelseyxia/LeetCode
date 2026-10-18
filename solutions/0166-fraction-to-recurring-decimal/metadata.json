@@ -1,0 +1,33 @@
+{
+  "frontendId": "166",
+  "title": "Fraction to Recurring Decimal",
+  "slug": "fraction-to-recurring-decimal",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "617976139",
+      "submissionIds": [
+        "617976139"
+      ],
+      "timestamp": 1641949421,
+      "sha256": "06cf35919417cdfdec9a32a922b30d95afd580e729e7e46c855a1cf43ae705b5"
+    }
+  ]
+}

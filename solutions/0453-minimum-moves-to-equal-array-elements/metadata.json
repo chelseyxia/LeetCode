@@ -1,0 +1,38 @@
+{
+  "frontendId": "453",
+  "title": "Minimum Moves to Equal Array Elements",
+  "slug": "minimum-moves-to-equal-array-elements",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "620771476",
+      "submissionIds": [
+        "620771476"
+      ],
+      "timestamp": 1642310267,
+      "sha256": "0438c9f097378dec03a4aa229c54f3b75627228febc7ac0d69cba29b5f9eb6d3"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "620774111",
+      "submissionIds": [
+        "620774111"
+      ],
+      "timestamp": 1642310562,
+      "sha256": "0e6d2b48fba9a3d8648313e13ef3227dbd5bb08869c563929ea962ff9ada5536"
+    }
+  ]
+}

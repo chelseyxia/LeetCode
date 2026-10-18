@@ -1,0 +1,42 @@
+{
+  "frontendId": "1636",
+  "title": "Sort Array by Increasing Frequency",
+  "slug": "sort-array-by-increasing-frequency",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610148362",
+      "submissionIds": [
+        "610148362"
+      ],
+      "timestamp": 1640919789,
+      "sha256": "d598211edf0677fb7e45d7da1c22d301a42e8c60cc254a514525fdfa046055ef"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "610152577",
+      "submissionIds": [
+        "610152577"
+      ],
+      "timestamp": 1640920381,
+      "sha256": "eab34304b3884ae3e78227e8676b80048dbb426e4403607051864f4d0f527fea"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "frontendId": "1762",
+  "title": "Buildings With an Ocean View",
+  "slug": "buildings-with-an-ocean-view",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607827553",
+      "submissionIds": [
+        "607827553"
+      ],
+      "timestamp": 1640588860,
+      "sha256": "ca22da93ea343bde11afaa5366a1c1423be08b7984b796b0c7b0949cc084472c"
+    }
+  ]
+}

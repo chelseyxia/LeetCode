@@ -1,0 +1,37 @@
+{
+  "frontendId": "208",
+  "title": "Implement Trie (Prefix Tree)",
+  "slug": "implement-trie-prefix-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "609931778",
+      "submissionIds": [
+        "609931778"
+      ],
+      "timestamp": 1640890311,
+      "sha256": "93bf7ca9eb5ee8c146d424b6c3290f5b4087fd0931c0cb02211310c20606f33c"
+    }
+  ]
+}

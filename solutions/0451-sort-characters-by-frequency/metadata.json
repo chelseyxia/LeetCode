@@ -1,0 +1,54 @@
+{
+  "frontendId": "451",
+  "title": "Sort Characters By Frequency",
+  "slug": "sort-characters-by-frequency",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Bucket Sort",
+      "slug": "bucket-sort"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2100840049",
+      "submissionIds": [
+        "2100840049"
+      ],
+      "timestamp": 1786308928,
+      "sha256": "1b9bfede6511e2714515f5a1f688e2cd9b66b33b66e3abd9094e70558781f352"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2100842161",
+      "submissionIds": [
+        "2100842161"
+      ],
+      "timestamp": 1786309210,
+      "sha256": "1418e0e21f48755fbef4b67bacf329c2ae3c0facbd5c2ac29605ceb94789d1ee"
+    }
+  ]
+}

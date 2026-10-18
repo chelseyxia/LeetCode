@@ -1,0 +1,37 @@
+{
+  "frontendId": "871",
+  "title": "Minimum Number of Refueling Stops",
+  "slug": "minimum-number-of-refueling-stops",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613382589",
+      "submissionIds": [
+        "613382589"
+      ],
+      "timestamp": 1641362119,
+      "sha256": "9dc7a163297d778f932d857f8ff43efa977da45de8dee354bcce3b4c79a60225"
+    }
+  ]
+}

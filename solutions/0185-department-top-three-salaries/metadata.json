@@ -1,0 +1,15 @@
+{
+  "frontendId": "185",
+  "title": "Department Top Three Salaries",
+  "slug": "department-top-three-salaries",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ],
+  "acceptedCountReported": 0,
+  "solutions": []
+}

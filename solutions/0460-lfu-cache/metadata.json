@@ -1,0 +1,37 @@
+{
+  "frontendId": "460",
+  "title": "LFU Cache",
+  "slug": "lfu-cache",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Doubly-Linked List",
+      "slug": "doubly-linked-list"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "609621076",
+      "submissionIds": [
+        "609621076"
+      ],
+      "timestamp": 1640844359,
+      "sha256": "3ced8cb1b6240fd41c9de3c248338110fcf76d2949785f058a2b380f580dd7ca"
+    }
+  ]
+}

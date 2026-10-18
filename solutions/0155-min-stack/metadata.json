@@ -1,0 +1,30 @@
+{
+  "frontendId": "155",
+  "title": "Min Stack",
+  "slug": "min-stack",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "555593136",
+      "submissionIds": [
+        "555593136",
+        "542967115"
+      ],
+      "timestamp": 1631746321,
+      "sha256": "2e3ece3966253c09f3cf8feb2a5c06ada281460bda19f2988fe4ee9949242d2b"
+    }
+  ]
+}

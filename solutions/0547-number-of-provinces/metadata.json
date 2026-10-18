@@ -1,0 +1,47 @@
+{
+  "frontendId": "547",
+  "title": "Number of Provinces",
+  "slug": "number-of-provinces",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "546491408",
+      "submissionIds": [
+        "546491408"
+      ],
+      "timestamp": 1630300241,
+      "sha256": "134aa04f8dcc0571138ddb282875752ac42e61775c559680ecd6dd61c50788e0"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "683764858",
+      "submissionIds": [
+        "683764858",
+        "683764691"
+      ],
+      "timestamp": 1650410516,
+      "sha256": "226b3ab4b9cd06d92845346a1b9925fa06c2fe2b2b4f656201c1259c2d753d98"
+    }
+  ]
+}

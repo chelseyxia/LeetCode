@@ -1,0 +1,25 @@
+{
+  "frontendId": "708",
+  "title": "Insert into a Sorted Circular Linked List",
+  "slug": "insert-into-a-sorted-circular-linked-list",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622835680",
+      "submissionIds": [
+        "622835680"
+      ],
+      "timestamp": 1642549490,
+      "sha256": "e85d6d16c2387c5a58ae6f3476a48d39a093bd11f79342bcb85edf021d3229a2"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "frontendId": "257",
+  "title": "Binary Tree Paths",
+  "slug": "binary-tree-paths",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "566876937",
+      "submissionIds": [
+        "566876937"
+      ],
+      "timestamp": 1633538883,
+      "sha256": "911710f0ca747df9f5051945ae4bf0216a883f82242837d942eef5ed30ff2704"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "566886269",
+      "submissionIds": [
+        "566886269"
+      ],
+      "timestamp": 1633540141,
+      "sha256": "905d4917c95c154b5d9b41cc98424c5bca008b13334e1cfcaadbece8a7731cf0"
+    }
+  ]
+}

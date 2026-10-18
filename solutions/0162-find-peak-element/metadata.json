@@ -1,0 +1,65 @@
+{
+  "frontendId": "162",
+  "title": "Find Peak Element",
+  "slug": "find-peak-element",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "623029624",
+      "submissionIds": [
+        "623029624"
+      ],
+      "timestamp": 1642571432,
+      "sha256": "3454870e26fcc46137091ad26a128e9a9f46c46c5630fdfcfde13a44ecbd7a40"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "623031312",
+      "submissionIds": [
+        "623031312"
+      ],
+      "timestamp": 1642571586,
+      "sha256": "6b63b74f1f4177630050c5bead621d1262dff4cb711fda8171250fcdfb5552be"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "640837531",
+      "submissionIds": [
+        "640837531"
+      ],
+      "timestamp": 1644792623,
+      "sha256": "fa153f49493651cff377858e21090a3d37de1b92bc2f2961203324c7443b780e"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "643443365",
+      "submissionIds": [
+        "643443365"
+      ],
+      "timestamp": 1645125958,
+      "sha256": "d7894235d44446978c75dd510d9cc30609a0e36cbcad7b346e5b63048028ac2f"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "2014132743",
+      "submissionIds": [
+        "2014132743"
+      ],
+      "timestamp": 1779853875,
+      "sha256": "4386929fccf09f7c8f59d5d19c7d516e606debfc41442f5737a93b5ec6f2ee54"
+    }
+  ]
+}

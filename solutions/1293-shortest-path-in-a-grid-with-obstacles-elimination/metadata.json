@@ -1,0 +1,33 @@
+{
+  "frontendId": "1293",
+  "title": "Shortest Path in a Grid with Obstacles Elimination",
+  "slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "605712019",
+      "submissionIds": [
+        "605712019"
+      ],
+      "timestamp": 1640214814,
+      "sha256": "b2363b292bc7e6aff6680056e9a9c5ee9b5ec6164889352511052afc5176dcbb"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "frontendId": "423",
+  "title": "Reconstruct Original Digits from English",
+  "slug": "reconstruct-original-digits-from-english",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608927699",
+      "submissionIds": [
+        "608927699"
+      ],
+      "timestamp": 1640751448,
+      "sha256": "d1a15f134497bbb2efe33b28751c2ea1e3f1fb112d40313ac6422c3b5cbd789f"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "626918489",
+      "submissionIds": [
+        "626918489"
+      ],
+      "timestamp": 1643046279,
+      "sha256": "5b4992bea1c2f83fd573272ef40d19e7508bc7eaf2cfd7408494add779f03145"
+    }
+  ]
+}

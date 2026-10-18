@@ -1,0 +1,60 @@
+{
+  "frontendId": "986",
+  "title": "Interval List Intersections",
+  "slug": "interval-list-intersections",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sweep Line",
+      "slug": "sweep-line"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622804255",
+      "submissionIds": [
+        "622804255"
+      ],
+      "timestamp": 1642545041,
+      "sha256": "9b9abd7d7b80764d6cc6126e00d4d95cf1db3f3a2b9bf4a68b00912b636b1630"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "643113737",
+      "submissionIds": [
+        "643113737"
+      ],
+      "timestamp": 1645082100,
+      "sha256": "3f343469ddac083980f594a04ceae41da297a212298032ce60ab9365f5aa9544"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "1989901604",
+      "submissionIds": [
+        "1989901604"
+      ],
+      "timestamp": 1777350424,
+      "sha256": "39bb2a1a345b46258fca967c82020f2ac653025e6d8477ba8a644d538c4ceec0"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "1989903407",
+      "submissionIds": [
+        "1989903407"
+      ],
+      "timestamp": 1777350611,
+      "sha256": "a86afa626e882f12035f1c65f0d05eeef0face36de593f101d06014457a79040"
+    }
+  ]
+}

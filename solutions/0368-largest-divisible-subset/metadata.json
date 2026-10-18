@@ -1,0 +1,37 @@
+{
+  "frontendId": "368",
+  "title": "Largest Divisible Subset",
+  "slug": "largest-divisible-subset",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "643426929",
+      "submissionIds": [
+        "643426929"
+      ],
+      "timestamp": 1645124024,
+      "sha256": "b4278718c6f1a2994fd3ca686204bd690a4dd09d7bb3db54c23772788f0cf2ab"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "frontendId": "231",
+  "title": "Power of Two",
+  "slug": "power-of-two",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1809886480",
+      "submissionIds": [
+        "1809886480"
+      ],
+      "timestamp": 1761264693,
+      "sha256": "a1cb0deee9b9cb02d79f37f43a742c8dd930c01736e1caedb1a9ce8d7346f2f4"
+    }
+  ]
+}

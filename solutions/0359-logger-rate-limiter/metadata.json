@@ -1,0 +1,33 @@
+{
+  "frontendId": "359",
+  "title": "Logger Rate Limiter",
+  "slug": "logger-rate-limiter",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Data Stream",
+      "slug": "data-stream"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610594540",
+      "submissionIds": [
+        "610594540"
+      ],
+      "timestamp": 1640996217,
+      "sha256": "e9ad7614546c77c6aa73a5c11fc129bdcaa1ae551337e6ddbd9f554f9859803b"
+    }
+  ]
+}

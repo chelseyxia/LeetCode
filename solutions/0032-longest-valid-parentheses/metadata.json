@@ -1,0 +1,64 @@
+{
+  "frontendId": "32",
+  "title": "Longest Valid Parentheses",
+  "slug": "longest-valid-parentheses",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Bracket Sequences",
+      "slug": "bracket-sequences"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "589683246",
+      "submissionIds": [
+        "589683246"
+      ],
+      "timestamp": 1637347785,
+      "sha256": "f637edc8082fd3390f880855d7ee2a17be93bec404470303d4f9521014ab3886"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "589683347",
+      "submissionIds": [
+        "589683347"
+      ],
+      "timestamp": 1637347801,
+      "sha256": "f98e252eb75bfc493b41a1aa0a08c135ebdbff236f3f775af0e0195bf89ab23b"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "589683401",
+      "submissionIds": [
+        "589683401"
+      ],
+      "timestamp": 1637347809,
+      "sha256": "484f40c72a30a782e28ea610b4138c2f11aa37787ccbe9deb11c0d213d9c8eac"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "589689522",
+      "submissionIds": [
+        "589689522"
+      ],
+      "timestamp": 1637348865,
+      "sha256": "c1af01592699cc0a2938a9a1dee31b09702fa0152d146e80e8e5a4883253d51b"
+    }
+  ]
+}

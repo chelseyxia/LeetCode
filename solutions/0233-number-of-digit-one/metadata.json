@@ -1,0 +1,33 @@
+{
+  "frontendId": "233",
+  "title": "Number of Digit One",
+  "slug": "number-of-digit-one",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "621463915",
+      "submissionIds": [
+        "621463915"
+      ],
+      "timestamp": 1642394276,
+      "sha256": "320ac27c50e11787d302ba8450a5299249d1b0f476193df09698c558463ab2bd"
+    }
+  ]
+}

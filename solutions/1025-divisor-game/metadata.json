@@ -1,0 +1,41 @@
+{
+  "frontendId": "1025",
+  "title": "Divisor Game",
+  "slug": "divisor-game",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Brainteaser",
+      "slug": "brainteaser"
+    },
+    {
+      "name": "Game Theory",
+      "slug": "game-theory"
+    },
+    {
+      "name": "Impartial Game",
+      "slug": "impartial-game"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "591345134",
+      "submissionIds": [
+        "591345134"
+      ],
+      "timestamp": 1637645258,
+      "sha256": "4b65fdc9be07058972a2c72f2c88f039ffd5a61b7a9bd164f8ad5ac951e592c9"
+    }
+  ]
+}

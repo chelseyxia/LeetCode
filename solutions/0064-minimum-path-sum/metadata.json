@@ -1,0 +1,69 @@
+{
+  "frontendId": "64",
+  "title": "Minimum Path Sum",
+  "slug": "minimum-path-sum",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "585864071",
+      "submissionIds": [
+        "585864071"
+      ],
+      "timestamp": 1636691506,
+      "sha256": "afb446abe17d629e6ba07d2eb9fb1e4357dbeb6058d389a421e1285e1d3bba63"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "637668415",
+      "submissionIds": [
+        "637668415"
+      ],
+      "timestamp": 1644384692,
+      "sha256": "80f357d68a09bd8648033c144f6512dd0ae23e623b7057a35ce68be246f5dafd"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "637671092",
+      "submissionIds": [
+        "637671092"
+      ],
+      "timestamp": 1644384944,
+      "sha256": "6c30951de51b0e705e3411d99bf77fc3c09e48384a13b724fa4d1f69702406f0"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "643544134",
+      "submissionIds": [
+        "643544134"
+      ],
+      "timestamp": 1645140701,
+      "sha256": "03c70e841d1aa567ffe8b87e60e7a8b15c65989d7332d1393206f63f75e8b4e8"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "665235387",
+      "submissionIds": [
+        "665235387"
+      ],
+      "timestamp": 1647975552,
+      "sha256": "080628b90467ca5d534ce57a587f68c178cd247e3bf72c5ea628664fe017a6a8"
+    }
+  ]
+}

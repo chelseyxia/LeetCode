@@ -1,0 +1,85 @@
+{
+  "frontendId": "198",
+  "title": "House Robber",
+  "slug": "house-robber",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 9,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "582080080",
+      "submissionIds": [
+        "582080080",
+        "582077293"
+      ],
+      "timestamp": 1636048342,
+      "sha256": "f0353223f883eb44aad08ba3000042265f1af6e202c54785349bac56b776f121"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "582082388",
+      "submissionIds": [
+        "582082388"
+      ],
+      "timestamp": 1636048699,
+      "sha256": "f6614000b8848e7ba2b656eb48ef2b9d9ba1ace96a5b4f66bfd0d662d3f54272"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "582086232",
+      "submissionIds": [
+        "582086232",
+        "582086050"
+      ],
+      "timestamp": 1636049311,
+      "sha256": "17639d66639bcde7ad33d994a3a637e94240f1e02765b7500939f4ba2cae893c"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "641392648",
+      "submissionIds": [
+        "641392648"
+      ],
+      "timestamp": 1644865670,
+      "sha256": "64ad4e5891cd1ed4135369a69dfb4262409faeb75f7c9037635bcb314a9a908a"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "2142239629",
+      "submissionIds": [
+        "2142239629"
+      ],
+      "timestamp": 1789450678,
+      "sha256": "61928a25a6298beb585315abd3a5825a59e5d71a6e382bfe5ece9bd9a50b467b"
+    },
+    {
+      "file": "solution-6.java",
+      "submissionId": "2144309432",
+      "submissionIds": [
+        "2144309432"
+      ],
+      "timestamp": 1789620471,
+      "sha256": "53daa752d75c778f1e3233ffc172e3a442142ed706d3902ffe865516abe93710"
+    },
+    {
+      "file": "solution-7.java",
+      "submissionId": "2145309108",
+      "submissionIds": [
+        "2145309108"
+      ],
+      "timestamp": 1789703037,
+      "sha256": "dace3425cab8d56af94b629552051a7614f55d3bb0d494d7a1b6a8b7d7d7243b"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "frontendId": "67",
+  "title": "Add Binary",
+  "slug": "add-binary",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539206542",
+      "submissionIds": [
+        "539206542"
+      ],
+      "timestamp": 1629088570,
+      "sha256": "4c74cf91287d1158acb2fe31ca8a6411981c9185809340057d1dcb4441177fca"
+    }
+  ]
+}

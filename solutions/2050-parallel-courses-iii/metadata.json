@@ -1,0 +1,41 @@
+{
+  "frontendId": "2050",
+  "title": "Parallel Courses III",
+  "slug": "parallel-courses-iii",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Topological Sort",
+      "slug": "topological-sort"
+    },
+    {
+      "name": "Directed Acyclic Graph",
+      "slug": "directed-acyclic-graph"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2065445089",
+      "submissionIds": [
+        "2065445089"
+      ],
+      "timestamp": 1783890076,
+      "sha256": "a1199009403e0fea3f91c7c33232cda2c8d4efb9a57f492738473cdc8779a6ea"
+    }
+  ]
+}

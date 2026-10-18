@@ -1,0 +1,54 @@
+{
+  "frontendId": "616",
+  "title": "Add Bold Tag in String",
+  "slug": "add-bold-tag-in-string",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    },
+    {
+      "name": "String Matching",
+      "slug": "string-matching"
+    },
+    {
+      "name": "Aho–Corasick Algorithm",
+      "slug": "aho-corasick-algorithm"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "623086746",
+      "submissionIds": [
+        "623086746"
+      ],
+      "timestamp": 1642576818,
+      "sha256": "3661a9e22d6d6a802a0f268634bc1dccd1f840295e61fc00beb4cd35617904d9"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "623091957",
+      "submissionIds": [
+        "623091957"
+      ],
+      "timestamp": 1642577333,
+      "sha256": "2c0ca72392d972f00417b42073d43e02c03ba8a2ccd76222e3f6e3f525916c89"
+    }
+  ]
+}

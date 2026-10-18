@@ -1,0 +1,56 @@
+{
+  "frontendId": "746",
+  "title": "Min Cost Climbing Stairs",
+  "slug": "min-cost-climbing-stairs",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "587932502",
+      "submissionIds": [
+        "587932502"
+      ],
+      "timestamp": 1637043221,
+      "sha256": "56df6195736a5d5fab42caced28b215cf75a8d3f5bac19a6c02edc6b55f39959"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2142142516",
+      "submissionIds": [
+        "2142142516"
+      ],
+      "timestamp": 1789443742,
+      "sha256": "8f9b53d83e86a2ddad219a578ac60c2532dd9fb13a2c23c4ecfde214f8c1de14"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2142145141",
+      "submissionIds": [
+        "2142145141"
+      ],
+      "timestamp": 1789443974,
+      "sha256": "abea9263d55572b10268e91b20f061e84e2e003d24c785d71b5afcf6c56d370e"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2142157938",
+      "submissionIds": [
+        "2142157938"
+      ],
+      "timestamp": 1789445072,
+      "sha256": "04a155a53e87aa84c61efd1a9de28982e197ca4b632a27a5ca6469514c8bb0eb"
+    }
+  ]
+}

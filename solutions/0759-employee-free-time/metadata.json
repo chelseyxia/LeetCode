@@ -1,0 +1,37 @@
+{
+  "frontendId": "759",
+  "title": "Employee Free Time",
+  "slug": "employee-free-time",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Sweep Line",
+      "slug": "sweep-line"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "619278036",
+      "submissionIds": [
+        "619278036"
+      ],
+      "timestamp": 1642114776,
+      "sha256": "d10654206cf45123add068d278940d223b3a7e31f9554076b662d7566aaccead"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "frontendId": "353",
+  "title": "Design Snake Game",
+  "slug": "design-snake-game",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "548011712",
+      "submissionIds": [
+        "548011712"
+      ],
+      "timestamp": 1630530302,
+      "sha256": "8f914db69e838875f4992c4539fab3fa8c5f161e88d80ab3642f342277f4b303"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "633503744",
+      "submissionIds": [
+        "633503744"
+      ],
+      "timestamp": 1643870756,
+      "sha256": "367c3c18368c067a006b7b4ccd2c0e3f867207ec8a974d92356e496d69e0ac2e"
+    }
+  ]
+}

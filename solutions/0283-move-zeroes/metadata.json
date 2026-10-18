@@ -1,0 +1,56 @@
+{
+  "frontendId": "283",
+  "title": "Move Zeroes",
+  "slug": "move-zeroes",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539222029",
+      "submissionIds": [
+        "539222029"
+      ],
+      "timestamp": 1629091041,
+      "sha256": "526c37bd6dac1e3347c126945708d5e483c2d05eb397bb4fd7a7d6313f13acb9"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "634744226",
+      "submissionIds": [
+        "634744226"
+      ],
+      "timestamp": 1644034485,
+      "sha256": "d495de13096afbdaac11ac2e91e2446ca46b39cf37b4cfaf9d6cbc2707c0057b"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "637763899",
+      "submissionIds": [
+        "637763899"
+      ],
+      "timestamp": 1644394107,
+      "sha256": "9ab314c05e7bb9b12e7f1ced3bc451c2517d1a1a3e36a3e9fbc682a83cf2457b"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2005929336",
+      "submissionIds": [
+        "2005929336"
+      ],
+      "timestamp": 1779062152,
+      "sha256": "4ac4c154fa9cd6d98524299cdfeb975003aa7fae2b5076d616d77d993e2b6783"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "frontendId": "312",
+  "title": "Burst Balloons",
+  "slug": "burst-balloons",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610605026",
+      "submissionIds": [
+        "610605026"
+      ],
+      "timestamp": 1640998309,
+      "sha256": "f447a60d439326207b5d9e5510aabd531dbb5531399592ce849a42f8726dc84a"
+    }
+  ]
+}

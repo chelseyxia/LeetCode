@@ -1,0 +1,43 @@
+{
+  "frontendId": "43",
+  "title": "Multiply Strings",
+  "slug": "multiply-strings",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618493670",
+      "submissionIds": [
+        "618493670"
+      ],
+      "timestamp": 1642013665,
+      "sha256": "ad166bdc59dab242733db70bd04bd5eee2bb1ba450202b529a374020f9825e8c"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "735611897",
+      "submissionIds": [
+        "735611897",
+        "735581692"
+      ],
+      "timestamp": 1656653152,
+      "sha256": "7480f107d2134e5e64f4bcc8d05081895893f3cd7dd5e16cd5f9c5ed2e17efad"
+    }
+  ]
+}

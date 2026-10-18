@@ -1,0 +1,64 @@
+{
+  "frontendId": "199",
+  "title": "Binary Tree Right Side View",
+  "slug": "binary-tree-right-side-view",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "601846318",
+      "submissionIds": [
+        "601846318"
+      ],
+      "timestamp": 1639505765,
+      "sha256": "5f409b3beb8a9bbc7e8dbdcbcdfb5d91b2e68c57b7d2fc5c283a9358b9e3c435"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "601877623",
+      "submissionIds": [
+        "601877623"
+      ],
+      "timestamp": 1639510465,
+      "sha256": "a06b258c6e85f39cfdb1cb15bb71b203b93b76f9a322ce6948e2ef742ab85a27"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "643754428",
+      "submissionIds": [
+        "643754428"
+      ],
+      "timestamp": 1645166769,
+      "sha256": "f71249f0dbda51fae77ab90905f58c21cfbdbc1dadf3eac4c4f5401559b0dabd"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2041428930",
+      "submissionIds": [
+        "2041428930"
+      ],
+      "timestamp": 1782079247,
+      "sha256": "28b6025456118e15758c03d73e400736bac2bb32fd196076effc7f8d5071bddc"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "frontendId": "103",
+  "title": "Binary Tree Zigzag Level Order Traversal",
+  "slug": "binary-tree-zigzag-level-order-traversal",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "552810242",
+      "submissionIds": [
+        "552810242",
+        "552809200"
+      ],
+      "timestamp": 1631313400,
+      "sha256": "ff01941fbc4365b710532aad53a2e997e680f7f48989d200b66315c71f5baf69"
+    }
+  ]
+}

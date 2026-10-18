@@ -1,0 +1,47 @@
+{
+  "frontendId": "261",
+  "title": "Graph Valid Tree",
+  "slug": "graph-valid-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665903140",
+      "submissionIds": [
+        "665903140"
+      ],
+      "timestamp": 1648061259,
+      "sha256": "029d9ac1f17a2fab2293565916d06366425ce82ef0444a29d5cc78fc44a1f9e0"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "683728786",
+      "submissionIds": [
+        "683728786",
+        "683728296"
+      ],
+      "timestamp": 1650404568,
+      "sha256": "1fd7ec202d21ec50636a8e43ae1ec7f5cc82faa6bbff5639c0338475e6051d11"
+    }
+  ]
+}

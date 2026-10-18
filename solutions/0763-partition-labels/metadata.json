@@ -1,0 +1,46 @@
+{
+  "frontendId": "763",
+  "title": "Partition Labels",
+  "slug": "partition-labels",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "544893998",
+      "submissionIds": [
+        "544893998"
+      ],
+      "timestamp": 1630034198,
+      "sha256": "a71611abb554ddfd68f785e05c2f1a828fc6c5913aa5f46f4c0a5bca36ad6680"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "544897601",
+      "submissionIds": [
+        "544897601"
+      ],
+      "timestamp": 1630034714,
+      "sha256": "cfe18b1b068e7ff2c5cf18a648da0f8100e7f23f72c06548698cdfb65f66f340"
+    }
+  ]
+}

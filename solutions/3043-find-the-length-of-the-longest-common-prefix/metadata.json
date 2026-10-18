@@ -1,0 +1,37 @@
+{
+  "frontendId": "3043",
+  "title": "Find the Length of the Longest Common Prefix",
+  "slug": "find-the-length-of-the-longest-common-prefix",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1803045086",
+      "submissionIds": [
+        "1803045086"
+      ],
+      "timestamp": 1760591300,
+      "sha256": "e8a2d8b5dc252303df9b39cc8242dc6a93dc6cb71bb6371e8465cf587a173e93"
+    }
+  ]
+}

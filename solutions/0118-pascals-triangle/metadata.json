@@ -1,0 +1,29 @@
+{
+  "frontendId": "118",
+  "title": "Pascal's Triangle",
+  "slug": "pascals-triangle",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "584632738",
+      "submissionIds": [
+        "584632738"
+      ],
+      "timestamp": 1636486702,
+      "sha256": "319e94bb3fd2b6cc87f84072af051b18325e5264ae22cd8161f959d01983499f"
+    }
+  ]
+}

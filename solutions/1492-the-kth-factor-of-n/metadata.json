@@ -1,0 +1,33 @@
+{
+  "frontendId": "1492",
+  "title": "The kth Factor of n",
+  "slug": "the-kth-factor-of-n",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Number Theory",
+      "slug": "number-theory"
+    },
+    {
+      "name": "Prime Factorization",
+      "slug": "prime-factorization"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "620779812",
+      "submissionIds": [
+        "620779812"
+      ],
+      "timestamp": 1642311221,
+      "sha256": "4582dba2e5bd0fb80bc5990d53dfb6bfb77a6f89d5cc659a63a3fe0f5cefd9f7"
+    }
+  ]
+}

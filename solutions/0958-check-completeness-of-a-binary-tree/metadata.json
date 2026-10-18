@@ -1,0 +1,33 @@
+{
+  "frontendId": "958",
+  "title": "Check Completeness of a Binary Tree",
+  "slug": "check-completeness-of-a-binary-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "623049710",
+      "submissionIds": [
+        "623049710"
+      ],
+      "timestamp": 1642573322,
+      "sha256": "47597c384afa770de334c302028bd65ddbb7fbe4021c929e3034c24a16708768"
+    }
+  ]
+}

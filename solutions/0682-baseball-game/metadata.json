@@ -1,0 +1,42 @@
+{
+  "frontendId": "682",
+  "title": "Baseball Game",
+  "slug": "baseball-game",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539704862",
+      "submissionIds": [
+        "539704862"
+      ],
+      "timestamp": 1629174385,
+      "sha256": "d7d7c1bfff4c9653f2fb53601487c9f3cd85c1734e9d33b0aefd78e510721d3c"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "555597665",
+      "submissionIds": [
+        "555597665"
+      ],
+      "timestamp": 1631747157,
+      "sha256": "849ff2fc89361066061ad19888eeb76d2191fdd12319d735a4935bff1292ec6c"
+    }
+  ]
+}

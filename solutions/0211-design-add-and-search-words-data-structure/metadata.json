@@ -1,0 +1,37 @@
+{
+  "frontendId": "211",
+  "title": "Design Add and Search Words Data Structure",
+  "slug": "design-add-and-search-words-data-structure",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622794310",
+      "submissionIds": [
+        "622794310"
+      ],
+      "timestamp": 1642543708,
+      "sha256": "ecc4f7c4ea59654080db9984a984028629b863d56f6166bf1f461e8c7de7b293"
+    }
+  ]
+}

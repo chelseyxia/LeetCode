@@ -1,0 +1,41 @@
+{
+  "frontendId": "1570",
+  "title": "Dot Product of Two Sparse Vectors",
+  "slug": "dot-product-of-two-sparse-vectors",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Linear Algebra",
+      "slug": "linear-algebra"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "609480898",
+      "submissionIds": [
+        "609480898"
+      ],
+      "timestamp": 1640827487,
+      "sha256": "9bbf99946d13e48e6a47fad0a508a9d0fc219b78e6f17c5194d99b7a8ae0ee2d"
+    }
+  ]
+}

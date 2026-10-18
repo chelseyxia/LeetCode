@@ -1,0 +1,37 @@
+{
+  "frontendId": "518",
+  "title": "Coin Change II",
+  "slug": "coin-change-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Knapsack Problem",
+      "slug": "knapsack-problem"
+    },
+    {
+      "name": "Complete Knapsack",
+      "slug": "complete-knapsack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "642375031",
+      "submissionIds": [
+        "642375031"
+      ],
+      "timestamp": 1644989661,
+      "sha256": "d6c8af763c8df5612104e35f467089a5d728afbc3daebc9f2b73f0c3dd0f88f5"
+    }
+  ]
+}

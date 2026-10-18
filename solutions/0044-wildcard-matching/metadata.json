@@ -1,0 +1,37 @@
+{
+  "frontendId": "44",
+  "title": "Wildcard Matching",
+  "slug": "wildcard-matching",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613420052",
+      "submissionIds": [
+        "613420052"
+      ],
+      "timestamp": 1641366062,
+      "sha256": "ef99c2d4e3dd32cc6a417bf5a77453a7d5833d2d5182c68553bc79214af72a03"
+    }
+  ]
+}

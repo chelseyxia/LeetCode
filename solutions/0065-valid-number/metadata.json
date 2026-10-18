@@ -1,0 +1,25 @@
+{
+  "frontendId": "65",
+  "title": "Valid Number",
+  "slug": "valid-number",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618621408",
+      "submissionIds": [
+        "618621408"
+      ],
+      "timestamp": 1642030136,
+      "sha256": "4dd0124582d78536c46f313aac059f02f3ff1893503f3c4a9e2711627d2707ed"
+    }
+  ]
+}

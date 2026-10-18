@@ -1,0 +1,25 @@
+{
+  "frontendId": "58",
+  "title": "Length of Last Word",
+  "slug": "length-of-last-word",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "582562575",
+      "submissionIds": [
+        "582562575"
+      ],
+      "timestamp": 1636133397,
+      "sha256": "e3a8b40385d073debe529d97669fdc57148387aceafdf9e6ee2d018640e91b34"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "frontendId": "456",
+  "title": "132 Pattern",
+  "slug": "132-pattern",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    },
+    {
+      "name": "Ordered Set",
+      "slug": "ordered-set"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2092149347",
+      "submissionIds": [
+        "2092149347"
+      ],
+      "timestamp": 1785735780,
+      "sha256": "feb1361dd65465f2d9d9597bcf349e8ca309b34ebcd11df7b6819e2c74b40701"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "frontendId": "766",
+  "title": "Toeplitz Matrix",
+  "slug": "toeplitz-matrix",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622843343",
+      "submissionIds": [
+        "622843343"
+      ],
+      "timestamp": 1642550611,
+      "sha256": "35228eab782af122ac526f7a39858a7f5bb8241cf7f12e0d68e84d2c7ce2c76f"
+    }
+  ]
+}

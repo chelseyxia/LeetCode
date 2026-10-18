@@ -1,0 +1,37 @@
+{
+  "frontendId": "979",
+  "title": "Distribute Coins in Binary Tree",
+  "slug": "distribute-coins-in-binary-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "DP on Trees",
+      "slug": "dp-on-trees"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603254041",
+      "submissionIds": [
+        "603254041"
+      ],
+      "timestamp": 1639766498,
+      "sha256": "ded5ecc5ba5c2e93a4216278d9a4be0c6b6ba3ce3515e54468d7543e6b9cb624"
+    }
+  ]
+}

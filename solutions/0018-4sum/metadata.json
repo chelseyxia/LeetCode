@@ -1,0 +1,42 @@
+{
+  "frontendId": "18",
+  "title": "4Sum",
+  "slug": "4sum",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "560082109",
+      "submissionIds": [
+        "560082109"
+      ],
+      "timestamp": 1632457590,
+      "sha256": "2bb0f3a20a17535e9481c62e819b908042cc21c2a750d7bb4309d9c2dc438e1e"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2007764784",
+      "submissionIds": [
+        "2007764784"
+      ],
+      "timestamp": 1779248964,
+      "sha256": "50d407e84879d459a561162e2c84c96802ef927da30b38340de232de5393a88e"
+    }
+  ]
+}

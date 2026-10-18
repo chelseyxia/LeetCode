@@ -1,0 +1,15 @@
+{
+  "frontendId": "193",
+  "title": "Valid Phone Numbers",
+  "slug": "valid-phone-numbers",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Shell",
+      "slug": "shell"
+    }
+  ],
+  "acceptedCountReported": 0,
+  "solutions": []
+}

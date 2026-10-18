@@ -1,0 +1,29 @@
+{
+  "frontendId": "541",
+  "title": "Reverse String II",
+  "slug": "reverse-string-ii",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "549165068",
+      "submissionIds": [
+        "549165068"
+      ],
+      "timestamp": 1630728740,
+      "sha256": "f8f1b9d50cdfd46aecca9c7bce6521114641167e067bafba4f94b149e2b3f2a4"
+    }
+  ]
+}

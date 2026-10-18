@@ -1,0 +1,33 @@
+{
+  "frontendId": "633",
+  "title": "Sum of Square Numbers",
+  "slug": "sum-of-square-numbers",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "606364816",
+      "submissionIds": [
+        "606364816"
+      ],
+      "timestamp": 1640328239,
+      "sha256": "505d3858abb000f163de850ac470b767cf62e143a4f115c823b96242a3b8d8c2"
+    }
+  ]
+}

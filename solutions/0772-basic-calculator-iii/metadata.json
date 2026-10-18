@@ -1,0 +1,37 @@
+{
+  "frontendId": "772",
+  "title": "Basic Calculator III",
+  "slug": "basic-calculator-iii",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607306356",
+      "submissionIds": [
+        "607306356"
+      ],
+      "timestamp": 1640501243,
+      "sha256": "f9d7aac04edf0a36daf28db1907153c6de89be02d6b523e9e587c998ecc57496"
+    }
+  ]
+}

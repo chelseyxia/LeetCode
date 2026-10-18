@@ -1,0 +1,99 @@
+{
+  "frontendId": "253",
+  "title": "Meeting Rooms II",
+  "slug": "meeting-rooms-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 7,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538176789",
+      "submissionIds": [
+        "538176789"
+      ],
+      "timestamp": 1628910890,
+      "sha256": "c3e156df080df455914f147a6bc78d57d60afe3f20caaf650b9c377e122a2847"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "546755121",
+      "submissionIds": [
+        "546755121"
+      ],
+      "timestamp": 1630340997,
+      "sha256": "3dd25c9518dbff70478b0d540c579597201418fbbe6c3bf5d6026ddffd1d966d"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "632034521",
+      "submissionIds": [
+        "632034521"
+      ],
+      "timestamp": 1643691845,
+      "sha256": "c0028f79c0ade90eae0b16cb276747eb909e823a321c9fb16705655716ad6c8b"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "664461342",
+      "submissionIds": [
+        "664461342"
+      ],
+      "timestamp": 1647879819,
+      "sha256": "aedebe9cd90a34e14fc8e81bb7bbef8eb9cecd48c22aa214201b61bf320a04cb"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "724520328",
+      "submissionIds": [
+        "724520328"
+      ],
+      "timestamp": 1655481642,
+      "sha256": "f68947137e6c1c786e9bc7e5ab93cecc304fae3eebe3186f65f98ffc3aefef0d"
+    },
+    {
+      "file": "solution-6.java",
+      "submissionId": "1986723908",
+      "submissionIds": [
+        "1986723908"
+      ],
+      "timestamp": 1777009184,
+      "sha256": "d8bc14d5f6217f69098083166c1fe704469b8301a25abca37ad00e0d7733c99d"
+    },
+    {
+      "file": "solution-7.java",
+      "submissionId": "2125428121",
+      "submissionIds": [
+        "2125428121"
+      ],
+      "timestamp": 1788117983,
+      "sha256": "d6c2bb30b69110ede0a49bc9733ac753fa906dceb67ec6f2deb6f61486f78619"
+    }
+  ]
+}

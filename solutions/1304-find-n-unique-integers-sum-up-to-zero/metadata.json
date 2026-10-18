@@ -1,0 +1,29 @@
+{
+  "frontendId": "1304",
+  "title": "Find N Unique Integers Sum up to Zero",
+  "slug": "find-n-unique-integers-sum-up-to-zero",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1809998310",
+      "submissionIds": [
+        "1809998310"
+      ],
+      "timestamp": 1761279788,
+      "sha256": "664e69815a0fd484f0ea52611b91d24dd0a74c6abf7f309404d5416f9a2d3a15"
+    }
+  ]
+}

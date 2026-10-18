@@ -1,0 +1,29 @@
+{
+  "frontendId": "1646",
+  "title": "Get Maximum in Generated Array",
+  "slug": "get-maximum-in-generated-array",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "591356786",
+      "submissionIds": [
+        "591356786"
+      ],
+      "timestamp": 1637646822,
+      "sha256": "57faceef222ac845f8b408cefa05cf5f1f5c9d62810fd7a057a0a35ced3e2ade"
+    }
+  ]
+}

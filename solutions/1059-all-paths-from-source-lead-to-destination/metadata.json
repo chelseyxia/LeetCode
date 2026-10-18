@@ -1,0 +1,38 @@
+{
+  "frontendId": "1059",
+  "title": "All Paths from Source Lead to Destination",
+  "slug": "all-paths-from-source-lead-to-destination",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Topological Sort",
+      "slug": "topological-sort"
+    },
+    {
+      "name": "Kosaraju's Algorithm",
+      "slug": "kosarajus-algorithm"
+    },
+    {
+      "name": "Tarjan's SCC Algorithm",
+      "slug": "tarjans-scc-algorithm"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "705947059",
+      "submissionIds": [
+        "705947059",
+        "705942406"
+      ],
+      "timestamp": 1653367472,
+      "sha256": "13d00385cc21db1e073b85ed05ac68d543a69c32c65bc8a150b75381c629938c"
+    }
+  ]
+}

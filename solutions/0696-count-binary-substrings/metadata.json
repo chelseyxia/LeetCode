@@ -1,0 +1,56 @@
+{
+  "frontendId": "696",
+  "title": "Count Binary Substrings",
+  "slug": "count-binary-substrings",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "612649254",
+      "submissionIds": [
+        "612649254"
+      ],
+      "timestamp": 1641272810,
+      "sha256": "14152f916a0617e4b7cf4a2043aaf9b0fc7bbd84961a4a10ba0326a4b966e365"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "612651739",
+      "submissionIds": [
+        "612651739"
+      ],
+      "timestamp": 1641273045,
+      "sha256": "427fa7864cd7ef1ace216cbc1a5234186b780458a43499acb0fa345b85afaa98"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "626594838",
+      "submissionIds": [
+        "626594838"
+      ],
+      "timestamp": 1643006381,
+      "sha256": "8563b62caa5d00c25645f18526bd8a2ebf0c7506b9b9ae4eb1681d42573a3426"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "633104504",
+      "submissionIds": [
+        "633104504"
+      ],
+      "timestamp": 1643823913,
+      "sha256": "7754937b803a2d9953197189f15123e94137d182f1931d45933fb4a3f125a1e0"
+    }
+  ]
+}

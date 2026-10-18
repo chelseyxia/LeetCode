@@ -1,0 +1,41 @@
+{
+  "frontendId": "523",
+  "title": "Continuous Subarray Sum",
+  "slug": "continuous-subarray-sum",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    },
+    {
+      "name": "Pigeonhole Principle",
+      "slug": "pigeonhole-principle"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "621346974",
+      "submissionIds": [
+        "621346974"
+      ],
+      "timestamp": 1642380929,
+      "sha256": "c810eaa400fd476be52ae774794538c3ccc1cb7ee49963dc5e564888c4c4e719"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "frontendId": "234",
+  "title": "Palindrome Linked List",
+  "slug": "palindrome-linked-list",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "606779910",
+      "submissionIds": [
+        "606779910"
+      ],
+      "timestamp": 1640411577,
+      "sha256": "26411251326f0bd1a05f4900b59654eb42e3bb4097e0524bcbe579736e3dbab6"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "643673766",
+      "submissionIds": [
+        "643673766"
+      ],
+      "timestamp": 1645158422,
+      "sha256": "948094a75dac6de8b108a370eb4ddebd6b89bc69c79e9c7a93c74d2a48add266"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "670141298",
+      "submissionIds": [
+        "670141298"
+      ],
+      "timestamp": 1648616966,
+      "sha256": "472b4860c5748d67fa89a892f5bb8883f8a6e02583df4bb870b1505c2cb97608"
+    }
+  ]
+}

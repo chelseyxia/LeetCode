@@ -1,0 +1,33 @@
+{
+  "frontendId": "1730",
+  "title": "Shortest Path to Get Food",
+  "slug": "shortest-path-to-get-food",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "605735989",
+      "submissionIds": [
+        "605735989"
+      ],
+      "timestamp": 1640219227,
+      "sha256": "c4b1b6aa487f8c4bf87bf2fc5ecd30f157c42ce9b5225cd5dce801e4e9e3d8ce"
+    }
+  ]
+}

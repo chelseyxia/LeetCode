@@ -1,0 +1,34 @@
+{
+  "frontendId": "12",
+  "title": "Integer to Roman",
+  "slug": "integer-to-roman",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "551184408",
+      "submissionIds": [
+        "551184408",
+        "551182684"
+      ],
+      "timestamp": 1631057732,
+      "sha256": "575ee76cf2dc1db12252ee5518a9c7a8c41de116f8dc6322a33afd2fb4dcf95a"
+    }
+  ]
+}

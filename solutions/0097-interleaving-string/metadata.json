@@ -1,0 +1,29 @@
+{
+  "frontendId": "97",
+  "title": "Interleaving String",
+  "slug": "interleaving-string",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "587663006",
+      "submissionIds": [
+        "587663006"
+      ],
+      "timestamp": 1637001655,
+      "sha256": "67e47deccf97c79c780b36731091aaa8823878114451218486eeae94016eb36e"
+    }
+  ]
+}

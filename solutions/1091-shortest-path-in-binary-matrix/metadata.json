@@ -1,0 +1,60 @@
+{
+  "frontendId": "1091",
+  "title": "Shortest Path in Binary Matrix",
+  "slug": "shortest-path-in-binary-matrix",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "605415256",
+      "submissionIds": [
+        "605415256"
+      ],
+      "timestamp": 1640161433,
+      "sha256": "f9265a7617287e32ad6c14a420ef07e7adfa0d6e9b53513a7ef66958a034ec92"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "720577946",
+      "submissionIds": [
+        "720577946"
+      ],
+      "timestamp": 1655051967,
+      "sha256": "752c21ebb6bf2e410dffa6ef80530d6ded58246454b7ef48da830b8b4685f09e"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "720578354",
+      "submissionIds": [
+        "720578354"
+      ],
+      "timestamp": 1655052009,
+      "sha256": "e64633abe7a16b33a962dbc0f2945a915699db5e3e731ba43ff690519b9e4334"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2041567309",
+      "submissionIds": [
+        "2041567309"
+      ],
+      "timestamp": 1782100409,
+      "sha256": "9bf3b531308257b8399d2c1f11b0920d7e96e28b341cc8a0eaa327e3dcedeea7"
+    }
+  ]
+}

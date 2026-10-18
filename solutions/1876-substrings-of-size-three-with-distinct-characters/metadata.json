@@ -1,0 +1,37 @@
+{
+  "frontendId": "1876",
+  "title": "Substrings of Size Three with Distinct Characters",
+  "slug": "substrings-of-size-three-with-distinct-characters",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "537752770",
+      "submissionIds": [
+        "537752770"
+      ],
+      "timestamp": 1628835188,
+      "sha256": "e37f5ef9d0a6581eb4253dec59cf0d16fc33bb6b2e736c49f3e0550099513ca2"
+    }
+  ]
+}

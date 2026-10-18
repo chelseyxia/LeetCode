@@ -1,0 +1,25 @@
+{
+  "frontendId": "896",
+  "title": "Monotonic Array",
+  "slug": "monotonic-array",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622854612",
+      "submissionIds": [
+        "622854612"
+      ],
+      "timestamp": 1642552193,
+      "sha256": "8f9c2a1558b50b0cb5d485ae2dcbd918ed275abf9b607af98434f029fc11b073"
+    }
+  ]
+}

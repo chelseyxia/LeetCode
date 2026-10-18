@@ -1,0 +1,29 @@
+{
+  "frontendId": "738",
+  "title": "Monotone Increasing Digits",
+  "slug": "monotone-increasing-digits",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "642117899",
+      "submissionIds": [
+        "642117899"
+      ],
+      "timestamp": 1644956848,
+      "sha256": "28acaf4a325d54bbd2f7325dfaa9d0a486ea60c48b2f2caa2130a8bc1627a819"
+    }
+  ]
+}

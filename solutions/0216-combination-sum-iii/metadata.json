@@ -1,0 +1,38 @@
+{
+  "frontendId": "216",
+  "title": "Combination Sum III",
+  "slug": "combination-sum-iii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "615338478",
+      "submissionIds": [
+        "615338478"
+      ],
+      "timestamp": 1641620122,
+      "sha256": "09b369ea2f269d8c95b4fe44b7b95dd5d16ef64e7eeb501469ab920bf57d9ff8"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2029257692",
+      "submissionIds": [
+        "2029257692"
+      ],
+      "timestamp": 1781152355,
+      "sha256": "f37f0622039e26c21303cd9145e32498a7f97b82fe25d3c057deb4819ec07f56"
+    }
+  ]
+}

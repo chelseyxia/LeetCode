@@ -1,0 +1,62 @@
+{
+  "frontendId": "912",
+  "title": "Sort an Array",
+  "slug": "sort-an-array",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Merge Sort",
+      "slug": "merge-sort"
+    },
+    {
+      "name": "Bucket Sort",
+      "slug": "bucket-sort"
+    },
+    {
+      "name": "Radix Sort",
+      "slug": "radix-sort"
+    },
+    {
+      "name": "Counting Sort",
+      "slug": "counting-sort"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "619477080",
+      "submissionIds": [
+        "619477080"
+      ],
+      "timestamp": 1642139222,
+      "sha256": "ffdbc706cd519c993f9a5350f9c44f738e6fff3587a23870a4ad2809bc27b873"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "619503692",
+      "submissionIds": [
+        "619503692"
+      ],
+      "timestamp": 1642141906,
+      "sha256": "e7c1351d2e110d05278b9bcffde59c75c4010489612ff053c9847c7759edfbe3"
+    }
+  ]
+}

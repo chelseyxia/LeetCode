@@ -1,0 +1,45 @@
+{
+  "frontendId": "767",
+  "title": "Reorganize String",
+  "slug": "reorganize-string",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2109367142",
+      "submissionIds": [
+        "2109367142"
+      ],
+      "timestamp": 1786904850,
+      "sha256": "33896f88c42255de216405aa5fc4e499255e01b52130f7295c875e3a0c044dbc"
+    }
+  ]
+}

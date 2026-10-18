@@ -1,0 +1,29 @@
+{
+  "frontendId": "1539",
+  "title": "Kth Missing Positive Number",
+  "slug": "kth-missing-positive-number",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "615381087",
+      "submissionIds": [
+        "615381087"
+      ],
+      "timestamp": 1641625527,
+      "sha256": "8620cc14c257a85144d6844ce62d99abb4b58bc608d29c4b4723850a1d5085bb"
+    }
+  ]
+}

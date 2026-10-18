@@ -1,0 +1,41 @@
+{
+  "frontendId": "378",
+  "title": "Kth Smallest Element in a Sorted Matrix",
+  "slug": "kth-smallest-element-in-a-sorted-matrix",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "680955392",
+      "submissionIds": [
+        "680955392"
+      ],
+      "timestamp": 1650040202,
+      "sha256": "ed3e6523d964e3424004050be0dd1a6759ac45d835ca07d0c01d1a9b8a2ce205"
+    }
+  ]
+}

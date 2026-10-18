@@ -1,0 +1,38 @@
+{
+  "frontendId": "153",
+  "title": "Find Minimum in Rotated Sorted Array",
+  "slug": "find-minimum-in-rotated-sorted-array",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665565751",
+      "submissionIds": [
+        "665565751"
+      ],
+      "timestamp": 1648017375,
+      "sha256": "d7a18b9aea5e2f7e44f8ba6172b6baab78b490be9929cff994b2f397185e5f87"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2012091948",
+      "submissionIds": [
+        "2012091948"
+      ],
+      "timestamp": 1779663129,
+      "sha256": "a86d23be71471a5e309c3df091f61b45b898c792bae9c3cdf57ab48c9a5cc526"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "frontendId": "1679",
+  "title": "Max Number of K-Sum Pairs",
+  "slug": "max-number-of-k-sum-pairs",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2059937534",
+      "submissionIds": [
+        "2059937534"
+      ],
+      "timestamp": 1783482187,
+      "sha256": "b745d955535d5153148f107e391017e5b4ef160cc39c934254add43e76adf0a5"
+    }
+  ]
+}

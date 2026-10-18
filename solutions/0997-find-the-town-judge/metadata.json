@@ -1,0 +1,34 @@
+{
+  "frontendId": "997",
+  "title": "Find the Town Judge",
+  "slug": "find-the-town-judge",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "611867701",
+      "submissionIds": [
+        "611867701",
+        "548756605"
+      ],
+      "timestamp": 1641181156,
+      "sha256": "ac3f23802d4bcb0f2d1270910e901a1cfce707e1e82e42d68d69dd454e8d6280"
+    }
+  ]
+}

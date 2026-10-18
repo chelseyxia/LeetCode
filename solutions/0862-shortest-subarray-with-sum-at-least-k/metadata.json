@@ -1,0 +1,58 @@
+{
+  "frontendId": "862",
+  "title": "Shortest Subarray with Sum at Least K",
+  "slug": "shortest-subarray-with-sum-at-least-k",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    },
+    {
+      "name": "Monotonic Queue",
+      "slug": "monotonic-queue"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "608716430",
+      "submissionIds": [
+        "608716430"
+      ],
+      "timestamp": 1640721820,
+      "sha256": "85d87cd4bc9f62cc8ecd48316168da33baea6b02f8feeb1778e5cdcc393bac73"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2091923132",
+      "submissionIds": [
+        "2091923132"
+      ],
+      "timestamp": 1785712214,
+      "sha256": "8459381071ae371e61d9ff38e09d2cba839a637bf630be7b2ce0ac977726f8f5"
+    }
+  ]
+}

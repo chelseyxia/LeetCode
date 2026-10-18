@@ -1,0 +1,41 @@
+{
+  "frontendId": "494",
+  "title": "Target Sum",
+  "slug": "target-sum",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Knapsack Problem",
+      "slug": "knapsack-problem"
+    },
+    {
+      "name": "0-1 Knapsack",
+      "slug": "0-1-knapsack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "636635569",
+      "submissionIds": [
+        "636635569"
+      ],
+      "timestamp": 1644261974,
+      "sha256": "ef90f1b190954fc77afb701592f5402c031c07f94b7995b4f60261e16b7807db"
+    }
+  ]
+}

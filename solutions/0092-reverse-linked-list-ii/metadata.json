@@ -1,0 +1,25 @@
+{
+  "frontendId": "92",
+  "title": "Reverse Linked List II",
+  "slug": "reverse-linked-list-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "666146400",
+      "submissionIds": [
+        "666146400"
+      ],
+      "timestamp": 1648093794,
+      "sha256": "f9703d141757cd549305ef1edfb252c09f5a828646c098a858613eee18d02fdc"
+    }
+  ]
+}

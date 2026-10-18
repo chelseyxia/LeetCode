@@ -1,0 +1,29 @@
+{
+  "frontendId": "1200",
+  "title": "Minimum Absolute Difference",
+  "slug": "minimum-absolute-difference",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "642093030",
+      "submissionIds": [
+        "642093030"
+      ],
+      "timestamp": 1644953776,
+      "sha256": "0620fb3c6e04940f2e26b2d4922d66ebb72f90075b652aae6904600dec4fbd81"
+    }
+  ]
+}

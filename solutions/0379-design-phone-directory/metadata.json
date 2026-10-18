@@ -1,0 +1,41 @@
+{
+  "frontendId": "379",
+  "title": "Design Phone Directory",
+  "slug": "design-phone-directory",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665989399",
+      "submissionIds": [
+        "665989399"
+      ],
+      "timestamp": 1648072279,
+      "sha256": "906b6b9d3864c86b04f7b76d1239ec2ceafa953b9669e47c4191a9e33ea0d931"
+    }
+  ]
+}

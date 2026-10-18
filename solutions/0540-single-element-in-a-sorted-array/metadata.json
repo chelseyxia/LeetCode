@@ -1,0 +1,38 @@
+{
+  "frontendId": "540",
+  "title": "Single Element in a Sorted Array",
+  "slug": "single-element-in-a-sorted-array",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "629201470",
+      "submissionIds": [
+        "629201470"
+      ],
+      "timestamp": 1643320181,
+      "sha256": "98881ba53034b163aef221b7308ce4beb25977a7b269d3d2a1dc15049ed373b5"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "629205272",
+      "submissionIds": [
+        "629205272"
+      ],
+      "timestamp": 1643320746,
+      "sha256": "8a42e946d17be58c93c189c45eb716b306a100b5c60a27ce3646f535783bda3e"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "frontendId": "284",
+  "title": "Peeking Iterator",
+  "slug": "peeking-iterator",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Iterator",
+      "slug": "iterator"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "602794063",
+      "submissionIds": [
+        "602794063"
+      ],
+      "timestamp": 1639677310,
+      "sha256": "7795fb3978731f2441c4754dc7ac486ac78ec28773d2042da66e880ee58b84a5"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "602795962",
+      "submissionIds": [
+        "602795962"
+      ],
+      "timestamp": 1639677615,
+      "sha256": "e91e4ee5a26e78bfdb30ab3e92d036f58c255734c96fd9d1a30ddc69d7eb7291"
+    }
+  ]
+}

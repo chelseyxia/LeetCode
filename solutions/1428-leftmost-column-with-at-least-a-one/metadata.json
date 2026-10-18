@@ -1,0 +1,37 @@
+{
+  "frontendId": "1428",
+  "title": "Leftmost Column with at Least a One",
+  "slug": "leftmost-column-with-at-least-a-one",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Interactive",
+      "slug": "interactive"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622691245",
+      "submissionIds": [
+        "622691245"
+      ],
+      "timestamp": 1642531506,
+      "sha256": "d4a2d327b5a3d5f013a84e5123daf3f71fe9cbb2c33d9dcfc5f3e6883007635e"
+    }
+  ]
+}

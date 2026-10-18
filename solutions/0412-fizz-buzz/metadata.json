@@ -1,0 +1,42 @@
+{
+  "frontendId": "412",
+  "title": "Fizz Buzz",
+  "slug": "fizz-buzz",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538689856",
+      "submissionIds": [
+        "538689856"
+      ],
+      "timestamp": 1628999946,
+      "sha256": "fa805c77e321e1a7b0f843688e54c24962e6ca7ac6f9c7eaaf07e7f33fe25d0e"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "666013896",
+      "submissionIds": [
+        "666013896"
+      ],
+      "timestamp": 1648076022,
+      "sha256": "244c5ee2c1f1b53cdf4825ab8d1ee939c59ac6f7ec1e110c8adc0b7e0c92ebfe"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "frontendId": "101",
+  "title": "Symmetric Tree",
+  "slug": "symmetric-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "548665804",
+      "submissionIds": [
+        "548665804"
+      ],
+      "timestamp": 1630637378,
+      "sha256": "1f7c77aaabc831841b39bf1b480a3e07538f90f40ebf1e6b654d83c6eaed210a"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "552697751",
+      "submissionIds": [
+        "552697751"
+      ],
+      "timestamp": 1631295372,
+      "sha256": "db35926cd89ac14e18d32e08ab88027ea870dd180ad21f3a308ea16cbdca8aab"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "556021381",
+      "submissionIds": [
+        "556021381"
+      ],
+      "timestamp": 1631813189,
+      "sha256": "a3f54b657dfda38aee6a9f5f7075ef6799445f6d2e3194bfb740b57303e6c6c3"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "frontendId": "909",
+  "title": "Snakes and Ladders",
+  "slug": "snakes-and-ladders",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604866039",
+      "submissionIds": [
+        "604866039"
+      ],
+      "timestamp": 1640070252,
+      "sha256": "b3df047ae142629e7dab95f37d968cd0b16dec185fbca85f130b694b2b96bc59"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2046393794",
+      "submissionIds": [
+        "2046393794"
+      ],
+      "timestamp": 1782449337,
+      "sha256": "45a7ea4803de2c41f6020138b1291e11f9655e0c2830f52cd0229189865fed3a"
+    }
+  ]
+}

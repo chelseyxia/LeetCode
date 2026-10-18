@@ -1,0 +1,29 @@
+{
+  "frontendId": "25",
+  "title": "Reverse Nodes in k-Group",
+  "slug": "reverse-nodes-in-k-group",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613997740",
+      "submissionIds": [
+        "613997740"
+      ],
+      "timestamp": 1641442294,
+      "sha256": "adf4822971f98bbdd0519790369c378291b0be6549d8497a9c6a8cda70e2588e"
+    }
+  ]
+}

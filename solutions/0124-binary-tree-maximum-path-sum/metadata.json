@@ -1,0 +1,42 @@
+{
+  "frontendId": "124",
+  "title": "Binary Tree Maximum Path Sum",
+  "slug": "binary-tree-maximum-path-sum",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    },
+    {
+      "name": "DP on Trees",
+      "slug": "dp-on-trees"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "553310916",
+      "submissionIds": [
+        "553310916",
+        "553309876"
+      ],
+      "timestamp": 1631399399,
+      "sha256": "021ad5d7c0c106bea92aeccd87ed324b22132df261dfae7a2f28b7e3782ef4c7"
+    }
+  ]
+}

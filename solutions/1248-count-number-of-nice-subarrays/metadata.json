@@ -1,0 +1,50 @@
+{
+  "frontendId": "1248",
+  "title": "Count Number of Nice Subarrays",
+  "slug": "count-number-of-nice-subarrays",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622064023",
+      "submissionIds": [
+        "622064023"
+      ],
+      "timestamp": 1642463247,
+      "sha256": "0d4f87e61aaa81c4bebfea73ab9d6749b1efae54b842f1c32e3723f0f9c7d41f"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "1997087264",
+      "submissionIds": [
+        "1997087264"
+      ],
+      "timestamp": 1778130194,
+      "sha256": "2f2fb4b0a047d139cd64f2332ff72f5accdda5da1b8db3e4fbdcc709c953685a"
+    }
+  ]
+}

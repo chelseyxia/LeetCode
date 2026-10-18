@@ -1,0 +1,41 @@
+{
+  "frontendId": "270",
+  "title": "Closest Binary Search Tree Value",
+  "slug": "closest-binary-search-tree-value",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "616764125",
+      "submissionIds": [
+        "616764125"
+      ],
+      "timestamp": 1641794807,
+      "sha256": "179710c112ef3ed9a52769dd45e1ce628038840524a922246e2c364994f10aff"
+    }
+  ]
+}

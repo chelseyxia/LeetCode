@@ -1,0 +1,53 @@
+{
+  "frontendId": "57",
+  "title": "Insert Interval",
+  "slug": "insert-interval",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "727071869",
+      "submissionIds": [
+        "727071869",
+        "664156030"
+      ],
+      "timestamp": 1655759275,
+      "sha256": "ca705aa2c95524f7c2d4a6cb89d7c05781607982c97b88400e935a80e675b6af"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "727106153",
+      "submissionIds": [
+        "727106153"
+      ],
+      "timestamp": 1655762858,
+      "sha256": "f54433f095179c6041b62eb8660f7d32f088f85df635996dd56b2c6ce210ad0a"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "1988836996",
+      "submissionIds": [
+        "1988836996"
+      ],
+      "timestamp": 1777225824,
+      "sha256": "638b7f6812609c436b8f43640c6daec4407b3e8cc0886a711ddb17515fcabab7"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "1988861383",
+      "submissionIds": [
+        "1988861383"
+      ],
+      "timestamp": 1777227743,
+      "sha256": "fbe32b52a2bdc932f5da2d42ff61bc41bbb63a1ab79593f4fe60e961f1d9afe4"
+    }
+  ]
+}

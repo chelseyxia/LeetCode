@@ -1,0 +1,42 @@
+{
+  "frontendId": "90",
+  "title": "Subsets II",
+  "slug": "subsets-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "615211313",
+      "submissionIds": [
+        "615211313"
+      ],
+      "timestamp": 1641600612,
+      "sha256": "c4ae6cbb91d2f9114f153a93b75b1ff0f8cddca9af0485fd6e7ebc2ab2434190"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2029197308",
+      "submissionIds": [
+        "2029197308"
+      ],
+      "timestamp": 1781147124,
+      "sha256": "782e1e777b419da094e9411a95c862e21b4aa3e63e9bace834e35bfcc1b13433"
+    }
+  ]
+}

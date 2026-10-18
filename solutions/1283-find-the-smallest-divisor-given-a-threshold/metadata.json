@@ -1,0 +1,29 @@
+{
+  "frontendId": "1283",
+  "title": "Find the Smallest Divisor Given a Threshold",
+  "slug": "find-the-smallest-divisor-given-a-threshold",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "642309759",
+      "submissionIds": [
+        "642309759"
+      ],
+      "timestamp": 1644983161,
+      "sha256": "0e42caff3b2af07c503f90b62c94b73b79c6b7ef7332e0b4c3e0bde229afb630"
+    }
+  ]
+}

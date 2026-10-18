@@ -1,0 +1,33 @@
+{
+  "frontendId": "174",
+  "title": "Dungeon Game",
+  "slug": "dungeon-game",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "624506934",
+      "submissionIds": [
+        "624506934"
+      ],
+      "timestamp": 1642751696,
+      "sha256": "4c6b63222a803db09b4d753f572d4f35cf4bb83896d0fdd605d142c07d3e190c"
+    }
+  ]
+}

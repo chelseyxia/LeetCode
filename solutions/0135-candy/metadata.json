@@ -1,0 +1,38 @@
+{
+  "frontendId": "135",
+  "title": "Candy",
+  "slug": "candy",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1818278437",
+      "submissionIds": [
+        "1818278437"
+      ],
+      "timestamp": 1762055819,
+      "sha256": "c1c59183775d18f4effe45647c3c7e0b00ba4aaaa10fc5f026adce4c156c193d"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "1818287441",
+      "submissionIds": [
+        "1818287441"
+      ],
+      "timestamp": 1762056344,
+      "sha256": "8906669da56739a65205f9d698644b2b917ca4f70d7c4278054aaf641ff9dc81"
+    }
+  ]
+}

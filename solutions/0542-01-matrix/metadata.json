@@ -1,0 +1,37 @@
+{
+  "frontendId": "542",
+  "title": "01 Matrix",
+  "slug": "01-matrix",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2041477877",
+      "submissionIds": [
+        "2041477877"
+      ],
+      "timestamp": 1782089318,
+      "sha256": "9e3111461767dbd3b884a58023ce941f0995aeb057b46521165ff77df4ecd59d"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "frontendId": "1010",
+  "title": "Pairs of Songs With Total Durations Divisible by 60",
+  "slug": "pairs-of-songs-with-total-durations-divisible-by-60",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "546215701",
+      "submissionIds": [
+        "546215701"
+      ],
+      "timestamp": 1630258328,
+      "sha256": "8cf609d02399fa00148e9bd0dafc36566fbbb044f562b2e03f944749b2b910e4"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "666532326",
+      "submissionIds": [
+        "666532326"
+      ],
+      "timestamp": 1648142861,
+      "sha256": "77837c0159c2a914c9dc4ca32572c7f4240d1837630c659dc628908afd58bd7f"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "frontendId": "1856",
+  "title": "Maximum Subarray Min-Product",
+  "slug": "maximum-subarray-min-product",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    },
+    {
+      "name": "Cartesian Tree",
+      "slug": "cartesian-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2084155018",
+      "submissionIds": [
+        "2084155018"
+      ],
+      "timestamp": 1785212248,
+      "sha256": "7e05b54b7b3dbd66f3d483d0067f88dd6f7296ee6ad4f1fd8a9810e5bf91b776"
+    }
+  ]
+}

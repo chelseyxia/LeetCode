@@ -1,0 +1,41 @@
+{
+  "frontendId": "1198",
+  "title": "Find Smallest Common Element in All Rows",
+  "slug": "find-smallest-common-element-in-all-rows",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "631909701",
+      "submissionIds": [
+        "631909701"
+      ],
+      "timestamp": 1643675612,
+      "sha256": "fffaab17a877ca46d99119680c369d56de405a2beaaf0a2bdf718ccab598edca"
+    }
+  ]
+}

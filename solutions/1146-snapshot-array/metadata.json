@@ -1,0 +1,41 @@
+{
+  "frontendId": "1146",
+  "title": "Snapshot Array",
+  "slug": "snapshot-array",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Persistent Data Structure",
+      "slug": "persistent-data-structure"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "630028564",
+      "submissionIds": [
+        "630028564"
+      ],
+      "timestamp": 1643437581,
+      "sha256": "930e0b91bf49bec87291c8d31a7a692f82069c8ff307c81d9b39436ceb4d417f"
+    }
+  ]
+}

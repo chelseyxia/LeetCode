@@ -1,0 +1,64 @@
+{
+  "frontendId": "733",
+  "title": "Flood Fill",
+  "slug": "flood-fill",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "547644476",
+      "submissionIds": [
+        "547644476"
+      ],
+      "timestamp": 1630475583,
+      "sha256": "857cdcf6b5d7a93817ab61993790709aff2e98f478c83a287568d861c1470f16"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "768719491",
+      "submissionIds": [
+        "768719491"
+      ],
+      "timestamp": 1659988178,
+      "sha256": "c66bcbc98b965cc0a7dade4574412fb81d4a5686b3fe3250ad0df0796908b5d9"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "768720294",
+      "submissionIds": [
+        "768720294"
+      ],
+      "timestamp": 1659988246,
+      "sha256": "c5a3c8e0f33a44a6f91df51fb793960dd607b3e33306a20358d75b659bef79eb"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2034683320",
+      "submissionIds": [
+        "2034683320"
+      ],
+      "timestamp": 1781587779,
+      "sha256": "4aed6c285f53cd1d8d598a419e27842e0bc6b9f3ef4ee4fb8ab8787c59364994"
+    }
+  ]
+}

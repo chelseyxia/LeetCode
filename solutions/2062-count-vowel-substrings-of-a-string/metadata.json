@@ -1,0 +1,38 @@
+{
+  "frontendId": "2062",
+  "title": "Count Vowel Substrings of a String",
+  "slug": "count-vowel-substrings-of-a-string",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2150522841",
+      "submissionIds": [
+        "2150522841"
+      ],
+      "timestamp": 1790143468,
+      "sha256": "ff01cb5b3bba6c58184b498632a1a47ff563866701f03437f958dcdb8c211d6f"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2150524966",
+      "submissionIds": [
+        "2150524966"
+      ],
+      "timestamp": 1790143575,
+      "sha256": "1c29ba35b70e8e50ee5e570e6e68fc766fffd20026c9127fc45a694b620a6509"
+    }
+  ]
+}

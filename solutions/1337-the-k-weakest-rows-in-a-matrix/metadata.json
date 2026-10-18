@@ -1,0 +1,42 @@
+{
+  "frontendId": "1337",
+  "title": "The K Weakest Rows in a Matrix",
+  "slug": "the-k-weakest-rows-in-a-matrix",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "680951000",
+      "submissionIds": [
+        "680951000",
+        "680950367"
+      ],
+      "timestamp": 1650039671,
+      "sha256": "5cc9e241f330e705c52d3c30b71e0fac0f5b2bba62e97136e7e2e602666f206a"
+    }
+  ]
+}

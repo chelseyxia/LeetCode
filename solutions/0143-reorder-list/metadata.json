@@ -1,0 +1,37 @@
+{
+  "frontendId": "143",
+  "title": "Reorder List",
+  "slug": "reorder-list",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613841873",
+      "submissionIds": [
+        "613841873"
+      ],
+      "timestamp": 1641423319,
+      "sha256": "eecc87eed86ed94867db6a707c0f3a2858b208c2386456e4108d0eb69569023c"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "frontendId": "947",
+  "title": "Most Stones Removed with Same Row or Column",
+  "slug": "most-stones-removed-with-same-row-or-column",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Bipartite Graph",
+      "slug": "bipartite-graph"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "729656257",
+      "submissionIds": [
+        "729656257"
+      ],
+      "timestamp": 1656022404,
+      "sha256": "80e80ae30efe11af1f6a7cd0b74abeb866a8ffb1b86ce9e29c29748fe0772212"
+    }
+  ]
+}

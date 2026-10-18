@@ -1,0 +1,37 @@
+{
+  "frontendId": "1235",
+  "title": "Maximum Profit in Job Scheduling",
+  "slug": "maximum-profit-in-job-scheduling",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "590841203",
+      "submissionIds": [
+        "590841203"
+      ],
+      "timestamp": 1637559759,
+      "sha256": "50214c1cae794b39e89817928d745362587b3e85e5a8254ee9367e913885b972"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "frontendId": "482",
+  "title": "License Key Formatting",
+  "slug": "license-key-formatting",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "723402404",
+      "submissionIds": [
+        "723402404"
+      ],
+      "timestamp": 1655356453,
+      "sha256": "8f79555f1c6608ae820ca677d36c151b9bfb5c35b2c71518398b0c59b97cae26"
+    }
+  ]
+}

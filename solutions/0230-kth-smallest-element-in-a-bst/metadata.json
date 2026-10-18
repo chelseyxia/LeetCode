@@ -1,0 +1,37 @@
+{
+  "frontendId": "230",
+  "title": "Kth Smallest Element in a BST",
+  "slug": "kth-smallest-element-in-a-bst",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "665885666",
+      "submissionIds": [
+        "665885666"
+      ],
+      "timestamp": 1648059501,
+      "sha256": "2dfd790bb70e171a6c471be9770fa9f06a2505a1d9a5ef71455a6827a8fc849c"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "frontendId": "410",
+  "title": "Split Array Largest Sum",
+  "slug": "split-array-largest-sum",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613710506",
+      "submissionIds": [
+        "613710506"
+      ],
+      "timestamp": 1641406959,
+      "sha256": "5ce60686c8aa9eb82235afaef49d0c3258fd644b2ef6da7c1004ff106c35c65b"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2013067749",
+      "submissionIds": [
+        "2013067749"
+      ],
+      "timestamp": 1779752061,
+      "sha256": "91f2ad5be430eeac34e39eff0f18a5e439fda8d40abbed7fc446eb6574dd8f06"
+    }
+  ]
+}

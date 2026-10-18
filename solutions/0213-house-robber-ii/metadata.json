@@ -1,0 +1,29 @@
+{
+  "frontendId": "213",
+  "title": "House Robber II",
+  "slug": "house-robber-ii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2145390221",
+      "submissionIds": [
+        "2145390221"
+      ],
+      "timestamp": 1789709004,
+      "sha256": "17b75a65db9ecba1203a08cf5cf863be3c051fa32c004ace2016b48d03601bfa"
+    }
+  ]
+}

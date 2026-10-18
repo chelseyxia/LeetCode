@@ -1,0 +1,59 @@
+{
+  "frontendId": "1584",
+  "title": "Min Cost to Connect All Points",
+  "slug": "min-cost-to-connect-all-points",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Minimum Spanning Tree",
+      "slug": "minimum-spanning-tree"
+    },
+    {
+      "name": "Prim's Algorithm",
+      "slug": "prims-algorithm"
+    },
+    {
+      "name": "Kruskal's Algorithm",
+      "slug": "kruskals-algorithm"
+    },
+    {
+      "name": "Borůvka's Algorithm",
+      "slug": "boruvkas-algorithm"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "721591364",
+      "submissionIds": [
+        "721591364",
+        "721591260"
+      ],
+      "timestamp": 1655160208,
+      "sha256": "e606a2f47c40e7f937a28654ebb38cb0f8c01c03cc5dbe4907fb75d476147bf3"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "721781122",
+      "submissionIds": [
+        "721781122"
+      ],
+      "timestamp": 1655182445,
+      "sha256": "446c722078ae7f592464671939f839267491a214239f8ac7ccfa9e6213c49c8f"
+    }
+  ]
+}

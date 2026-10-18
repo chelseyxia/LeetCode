@@ -1,0 +1,42 @@
+{
+  "frontendId": "317",
+  "title": "Shortest Distance from All Buildings",
+  "slug": "shortest-distance-from-all-buildings",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "605696650",
+      "submissionIds": [
+        "605696650"
+      ],
+      "timestamp": 1640212061,
+      "sha256": "65e433bda7b605e8fde29bc1a525b73bdb7091d1a35bc4066a452ddcfba125ad"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2057216220",
+      "submissionIds": [
+        "2057216220"
+      ],
+      "timestamp": 1783274249,
+      "sha256": "fc2b8ec835dac21d81599030e9339ae2456a52f8018854f563686cc52cd8f0b7"
+    }
+  ]
+}

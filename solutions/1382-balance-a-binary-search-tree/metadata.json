@@ -1,0 +1,45 @@
+{
+  "frontendId": "1382",
+  "title": "Balance a Binary Search Tree",
+  "slug": "balance-a-binary-search-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603624540",
+      "submissionIds": [
+        "603624540"
+      ],
+      "timestamp": 1639848061,
+      "sha256": "6f0e8be65eedd3c005a8f0b8b9d3ec1e56628c7b509978beead87ad9aa8c7da2"
+    }
+  ]
+}

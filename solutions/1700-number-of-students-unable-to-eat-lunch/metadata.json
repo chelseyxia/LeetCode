@@ -1,0 +1,37 @@
+{
+  "frontendId": "1700",
+  "title": "Number of Students Unable to Eat Lunch",
+  "slug": "number-of-students-unable-to-eat-lunch",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Queue",
+      "slug": "queue"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "607313718",
+      "submissionIds": [
+        "607313718"
+      ],
+      "timestamp": 1640502353,
+      "sha256": "e13cc4784b3eb84750c9f2f3e2220c87a8cb4debe6a41c7d093e900b8547b5b3"
+    }
+  ]
+}

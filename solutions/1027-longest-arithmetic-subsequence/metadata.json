@@ -1,0 +1,37 @@
+{
+  "frontendId": "1027",
+  "title": "Longest Arithmetic Subsequence",
+  "slug": "longest-arithmetic-subsequence",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "588951027",
+      "submissionIds": [
+        "588951027"
+      ],
+      "timestamp": 1637214992,
+      "sha256": "e22d36c977bd355c43ff26f012b76354e92752d5033eaf6fb0ed9d714d5488b5"
+    }
+  ]
+}

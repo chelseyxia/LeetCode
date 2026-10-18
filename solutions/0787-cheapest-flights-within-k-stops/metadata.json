@@ -1,0 +1,55 @@
+{
+  "frontendId": "787",
+  "title": "Cheapest Flights Within K Stops",
+  "slug": "cheapest-flights-within-k-stops",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Shortest Path",
+      "slug": "shortest-path"
+    }
+  ],
+  "acceptedCountReported": 3,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "605334277",
+      "submissionIds": [
+        "605334277"
+      ],
+      "timestamp": 1640149001,
+      "sha256": "57a39e15a9a1b0510dc3fbd8128cd77e9a05175084fc66db7a789f0c1e37a1f2"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "722599382",
+      "submissionIds": [
+        "722599382",
+        "722597467"
+      ],
+      "timestamp": 1655269044,
+      "sha256": "d151e19b79e4528cc36a32dc908dd6c7aa364125321f5c0e226748155b64b290"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "frontendId": "1647",
+  "title": "Minimum Deletions to Make Character Frequencies Unique",
+  "slug": "minimum-deletions-to-make-character-frequencies-unique",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "613394244",
+      "submissionIds": [
+        "613394244"
+      ],
+      "timestamp": 1641363350,
+      "sha256": "2e1e88c6ae0f0c9fd0253f1e99333f46d78bd9a12ea60f81fc5cdeea747fc684"
+    }
+  ]
+}

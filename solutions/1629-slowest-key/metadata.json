@@ -1,0 +1,29 @@
+{
+  "frontendId": "1629",
+  "title": "Slowest Key",
+  "slug": "slowest-key",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539684984",
+      "submissionIds": [
+        "539684984"
+      ],
+      "timestamp": 1629171484,
+      "sha256": "62dd1612a9a6bcd7a520a0cb5e1ab680b30c4f6cf5fd6adcadc4bf25c0c67173"
+    }
+  ]
+}

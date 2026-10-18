@@ -1,0 +1,42 @@
+{
+  "frontendId": "55",
+  "title": "Jump Game",
+  "slug": "jump-game",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "567670018",
+      "submissionIds": [
+        "567670018"
+      ],
+      "timestamp": 1633665891,
+      "sha256": "9c491fcca21733c07d7d49af81560e4950ef5347f12d2166032547959483825b"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "662220228",
+      "submissionIds": [
+        "662220228"
+      ],
+      "timestamp": 1647578022,
+      "sha256": "70558a4c9ee7e2d6a65125d131fc50729e694891df0757cdcc717c4d14e31536"
+    }
+  ]
+}

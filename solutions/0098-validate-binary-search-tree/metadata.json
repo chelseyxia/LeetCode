@@ -1,0 +1,56 @@
+{
+  "frontendId": "98",
+  "title": "Validate Binary Search Tree",
+  "slug": "validate-binary-search-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "552684855",
+      "submissionIds": [
+        "552684855",
+        "552684726"
+      ],
+      "timestamp": 1631293583,
+      "sha256": "f940d2d7224156345abbd1e992b5ce52a46b9a4bc5e195886404673fea529196"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "552688567",
+      "submissionIds": [
+        "552688567"
+      ],
+      "timestamp": 1631294109,
+      "sha256": "582a2bd0d75feb5924b43acb74b570550d614dfeec1762b8814e1658c029db3e"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "552690146",
+      "submissionIds": [
+        "552690146"
+      ],
+      "timestamp": 1631294332,
+      "sha256": "55497c91f77a4f825ea04a9338c3a1d355d5257380fb023d62760d56550fe35a"
+    }
+  ]
+}

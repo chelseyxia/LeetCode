@@ -1,0 +1,117 @@
+{
+  "frontendId": "973",
+  "title": "K Closest Points to Origin",
+  "slug": "k-closest-points-to-origin",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Geometry",
+      "slug": "geometry"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Quickselect",
+      "slug": "quickselect"
+    },
+    {
+      "name": "K-D Tree",
+      "slug": "k-d-tree"
+    }
+  ],
+  "acceptedCountReported": 9,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "537949112",
+      "submissionIds": [
+        "537949112"
+      ],
+      "timestamp": 1628868968,
+      "sha256": "7a9f4aed05f531a72f96ded1d5282bbfc1fccb866b0dc6a0af40524f80963408"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "537965069",
+      "submissionIds": [
+        "537965069"
+      ],
+      "timestamp": 1628871292,
+      "sha256": "2262d10e2e0d121d4f7ace851e3eb2fedb05412fde075916b13e6906c34047e7"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "546257814",
+      "submissionIds": [
+        "546257814"
+      ],
+      "timestamp": 1630263784,
+      "sha256": "3bd7650ff375c6fe607213f7329f2fdf344f40f738915e4d541ce54265888f73"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "607530103",
+      "submissionIds": [
+        "607530103"
+      ],
+      "timestamp": 1640542462,
+      "sha256": "1dc333099a275c4d95b57aeca850af7caf9c5b0cda383e40bddd78228de0ccbf"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "607545295",
+      "submissionIds": [
+        "607545295"
+      ],
+      "timestamp": 1640544732,
+      "sha256": "45f63b926576651c7dd2cb00dc756f0e21eb07b98ccb6e90f931b7422fb42dcf"
+    },
+    {
+      "file": "solution-6.java",
+      "submissionId": "681224442",
+      "submissionIds": [
+        "681224442",
+        "681224242"
+      ],
+      "timestamp": 1650081795,
+      "sha256": "3dbf379b3c42127fb9aea52997f842ef52fb7aaa2dbe5f35e1de6ede713c53e5"
+    },
+    {
+      "file": "solution-7.java",
+      "submissionId": "2100799042",
+      "submissionIds": [
+        "2100799042"
+      ],
+      "timestamp": 1786304559,
+      "sha256": "264135663ea9998753628d7d9433319c14e34f8ad00f8a10678745df76a07724"
+    },
+    {
+      "file": "solution-8.java",
+      "submissionId": "2100802272",
+      "submissionIds": [
+        "2100802272"
+      ],
+      "timestamp": 1786304853,
+      "sha256": "738709e5d9230fc3df90a568dc3502b8b4e27869c59293f53caae03d8ba33914"
+    }
+  ]
+}

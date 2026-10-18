@@ -1,0 +1,46 @@
+{
+  "frontendId": "1004",
+  "title": "Max Consecutive Ones III",
+  "slug": "max-consecutive-ones-iii",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "622037274",
+      "submissionIds": [
+        "622037274"
+      ],
+      "timestamp": 1642460246,
+      "sha256": "de2ccf70e9b41c4ea05f120c5e3d98806fbdd82fe17a60dfaf4e3145d6220c12"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2058783839",
+      "submissionIds": [
+        "2058783839"
+      ],
+      "timestamp": 1783400959,
+      "sha256": "9f3d412294a541c886a2bac630e8b0ba26162df288470e0ff05f42d080af03a5"
+    }
+  ]
+}

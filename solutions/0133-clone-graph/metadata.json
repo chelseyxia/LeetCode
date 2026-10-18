@@ -1,0 +1,56 @@
+{
+  "frontendId": "133",
+  "title": "Clone Graph",
+  "slug": "clone-graph",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "605353327",
+      "submissionIds": [
+        "605353327"
+      ],
+      "timestamp": 1640151807,
+      "sha256": "4ebe35e9a32faeffb41054747bff923f2fdb7e8f070e7f62313c2999f50c2e49"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "704930271",
+      "submissionIds": [
+        "704930271",
+        "666152799"
+      ],
+      "timestamp": 1653241691,
+      "sha256": "dd29cf73c1056d6942680215bc2b482619e7b49642c7dd6a9b1ca59516477495"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "705272972",
+      "submissionIds": [
+        "705272972"
+      ],
+      "timestamp": 1653285778,
+      "sha256": "208bc421728b322861cd1f707b1653f4a19c7b60c5570f209d020fbe6228af02"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "frontendId": "794",
+  "title": "Valid Tic-Tac-Toe State",
+  "slug": "valid-tic-tac-toe-state",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "610225396",
+      "submissionIds": [
+        "610225396"
+      ],
+      "timestamp": 1640930128,
+      "sha256": "8f0c0ea59e350b8e3b80ee2e263701c20ed45ad9130e06eba3d81b737dfc2049"
+    }
+  ]
+}

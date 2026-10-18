@@ -1,0 +1,37 @@
+{
+  "frontendId": "655",
+  "title": "Print Binary Tree",
+  "slug": "print-binary-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603273768",
+      "submissionIds": [
+        "603273768"
+      ],
+      "timestamp": 1639770086,
+      "sha256": "2fdaa3152de264a42582e0b56712350cad7c9415544caf423069ffca46cb999f"
+    }
+  ]
+}

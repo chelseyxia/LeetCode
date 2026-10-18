@@ -1,0 +1,45 @@
+{
+  "frontendId": "2289",
+  "title": "Steps to Make Array Non-decreasing",
+  "slug": "steps-to-make-array-non-decreasing",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Linked List",
+      "slug": "linked-list"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2081210439",
+      "submissionIds": [
+        "2081210439"
+      ],
+      "timestamp": 1785010455,
+      "sha256": "20c804e953af8f6fab02478753b28401d8cd133304c9ae4ec45dfbc51397a0bf"
+    }
+  ]
+}

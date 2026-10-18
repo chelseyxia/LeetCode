@@ -1,0 +1,52 @@
+{
+  "frontendId": "9",
+  "title": "Palindrome Number",
+  "slug": "palindrome-number",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ],
+  "acceptedCountReported": 4,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "542221400",
+      "submissionIds": [
+        "542221400"
+      ],
+      "timestamp": 1629602896,
+      "sha256": "66eae2b90bd422d937ac057bab180c18d329812a16ea31bcd6f4e0b1bf449b6b"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "1406421042",
+      "submissionIds": [
+        "1406421042"
+      ],
+      "timestamp": 1727637681,
+      "sha256": "92097232348bfd112bc3da295d19feab55008c9ec8e733a1eea214632b878dc9"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "1406433753",
+      "submissionIds": [
+        "1406433753"
+      ],
+      "timestamp": 1727638678,
+      "sha256": "a7e5167d086284333f345cae4aeb4c8d0d25e08a6f7f38d7b6e99190136e2e96"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "1406434137",
+      "submissionIds": [
+        "1406434137"
+      ],
+      "timestamp": 1727638709,
+      "sha256": "d8a681abddf1b33e4184f4732d2c9c0b961207dd351ca9049b35b3f0afbb29bb"
+    }
+  ]
+}

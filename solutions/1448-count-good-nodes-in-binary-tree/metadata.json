@@ -1,0 +1,46 @@
+{
+  "frontendId": "1448",
+  "title": "Count Good Nodes in Binary Tree",
+  "slug": "count-good-nodes-in-binary-tree",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538223937",
+      "submissionIds": [
+        "538223937"
+      ],
+      "timestamp": 1628919422,
+      "sha256": "edab90c13a55729fc9b9e0edad3805b5cc0c44a94b10c6125fbdb2a330e31416"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2068061963",
+      "submissionIds": [
+        "2068061963"
+      ],
+      "timestamp": 1784088986,
+      "sha256": "d509385adbe27421a6ec7645ddc217f0285bf1cb13e316c7b2c31b0b83f96af9"
+    }
+  ]
+}

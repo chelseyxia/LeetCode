@@ -1,0 +1,19 @@
+{
+  "frontendId": "370",
+  "title": "Range Addition",
+  "slug": "range-addition",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 0,
+  "solutions": []
+}

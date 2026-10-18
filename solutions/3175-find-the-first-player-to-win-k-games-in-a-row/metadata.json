@@ -1,0 +1,29 @@
+{
+  "frontendId": "3175",
+  "title": "Find The First Player to win K Games in a Row",
+  "slug": "find-the-first-player-to-win-k-games-in-a-row",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1803958712",
+      "submissionIds": [
+        "1803958712"
+      ],
+      "timestamp": 1760678696,
+      "sha256": "3535a14a8221f535d55e7afed0f90692eb4c27d07c685071333b09d31ff03b70"
+    }
+  ]
+}

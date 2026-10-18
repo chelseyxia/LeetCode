@@ -1,0 +1,45 @@
+{
+  "frontendId": "975",
+  "title": "Odd Even Jump",
+  "slug": "odd-even-jump",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    },
+    {
+      "name": "Ordered Set",
+      "slug": "ordered-set"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "723914168",
+      "submissionIds": [
+        "723914168"
+      ],
+      "timestamp": 1655408002,
+      "sha256": "1ca7118da8fc8ecf88a826755e8dbf97347aa18a73db2ddfe6506cca025a95c8"
+    }
+  ]
+}

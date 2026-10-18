@@ -1,0 +1,49 @@
+{
+  "frontendId": "3481",
+  "title": "Apply Substitutions",
+  "slug": "apply-substitutions",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Topological Sort",
+      "slug": "topological-sort"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1812582181",
+      "submissionIds": [
+        "1812582181"
+      ],
+      "timestamp": 1761511931,
+      "sha256": "a05a52233bcb30363a62a2597693cd7f539d3276b924239bdae3897599e19857"
+    }
+  ]
+}

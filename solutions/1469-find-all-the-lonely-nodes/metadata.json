@@ -1,0 +1,37 @@
+{
+  "frontendId": "1469",
+  "title": "Find All The Lonely Nodes",
+  "slug": "find-all-the-lonely-nodes",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "604832486",
+      "submissionIds": [
+        "604832486"
+      ],
+      "timestamp": 1640065960,
+      "sha256": "028d3f20935651db2a873688cd2e1e231e57dbe2c6c57a0ffa7f8038457e08af"
+    }
+  ]
+}

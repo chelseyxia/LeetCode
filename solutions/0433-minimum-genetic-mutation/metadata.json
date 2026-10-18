@@ -1,0 +1,37 @@
+{
+  "frontendId": "433",
+  "title": "Minimum Genetic Mutation",
+  "slug": "minimum-genetic-mutation",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Bidirectional Search",
+      "slug": "bidirectional-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2048337198",
+      "submissionIds": [
+        "2048337198"
+      ],
+      "timestamp": 1782610155,
+      "sha256": "7fa97ea7e3ba5510cee88b53febe5c9395b5cad91783d74779b8625e73b49786"
+    }
+  ]
+}

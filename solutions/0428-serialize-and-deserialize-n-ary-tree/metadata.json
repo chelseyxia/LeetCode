@@ -1,0 +1,37 @@
+{
+  "frontendId": "428",
+  "title": "Serialize and Deserialize N-ary Tree",
+  "slug": "serialize-and-deserialize-n-ary-tree",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603658181",
+      "submissionIds": [
+        "603658181"
+      ],
+      "timestamp": 1639854235,
+      "sha256": "e0904bb3b9ecb47cdcf6abd8406a829694a47258683f20750fbad760ae363dab"
+    }
+  ]
+}

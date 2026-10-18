@@ -1,0 +1,33 @@
+{
+  "frontendId": "159",
+  "title": "Longest Substring with At Most Two Distinct Characters",
+  "slug": "longest-substring-with-at-most-two-distinct-characters",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1991534712",
+      "submissionIds": [
+        "1991534712"
+      ],
+      "timestamp": 1777526895,
+      "sha256": "b554a425fbc9ce014d83852885523d5f91e07f3ab0e9ad7dea360917effd3fe8"
+    }
+  ]
+}

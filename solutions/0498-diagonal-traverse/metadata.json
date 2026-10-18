@@ -1,0 +1,33 @@
+{
+  "frontendId": "498",
+  "title": "Diagonal Traverse",
+  "slug": "diagonal-traverse",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "623018330",
+      "submissionIds": [
+        "623018330"
+      ],
+      "timestamp": 1642570346,
+      "sha256": "7ddf8ad3163f5c163ac66c42b11bcdc370f5d1b4d2df9f547505fca08b20bc5a"
+    }
+  ]
+}

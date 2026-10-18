@@ -1,0 +1,49 @@
+{
+  "frontendId": "269",
+  "title": "Alien Dictionary",
+  "slug": "alien-dictionary",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    },
+    {
+      "name": "Topological Sort",
+      "slug": "topological-sort"
+    },
+    {
+      "name": "Directed Acyclic Graph",
+      "slug": "directed-acyclic-graph"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "603920099",
+      "submissionIds": [
+        "603920099"
+      ],
+      "timestamp": 1639898817,
+      "sha256": "f0e4df1c813b147351a6b7f0a0fe822ed360302d27330cbb066d0187e31296a0"
+    }
+  ]
+}

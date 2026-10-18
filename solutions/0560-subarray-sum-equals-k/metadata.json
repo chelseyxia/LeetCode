@@ -1,0 +1,70 @@
+{
+  "frontendId": "560",
+  "title": "Subarray Sum Equals K",
+  "slug": "subarray-sum-equals-k",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 6,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "616669467",
+      "submissionIds": [
+        "616669467",
+        "538166403"
+      ],
+      "timestamp": 1641784213,
+      "sha256": "0b7155921f702f18c016d1afe0f3ad67779e45560cb5233f11a8951b57bb2798"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "616671861",
+      "submissionIds": [
+        "616671861"
+      ],
+      "timestamp": 1641784469,
+      "sha256": "819b28e684e8bb99c63bd8660cf21ced4874d177fb30ec08082cd431044460df"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "639551404",
+      "submissionIds": [
+        "639551404"
+      ],
+      "timestamp": 1644623282,
+      "sha256": "18c2ea2b5b41bfbc2b5c315668b22078ca842402f5ed0b7700931d6cf4387055"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "639554240",
+      "submissionIds": [
+        "639554240"
+      ],
+      "timestamp": 1644623821,
+      "sha256": "10ea2611ef8429b4f839daef3c5ba88a9b78f6c6c63dacec954a272aa9fa9e19"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "643729503",
+      "submissionIds": [
+        "643729503"
+      ],
+      "timestamp": 1645164210,
+      "sha256": "4dd4f83822a5e9673a2c91e9ab964ca40d87b30a400257503ee3f1098e94dc1e"
+    }
+  ]
+}

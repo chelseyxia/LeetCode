@@ -1,0 +1,66 @@
+{
+  "frontendId": "33",
+  "title": "Search in Rotated Sorted Array",
+  "slug": "search-in-rotated-sorted-array",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "acceptedCountReported": 6,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "554437781",
+      "submissionIds": [
+        "554437781"
+      ],
+      "timestamp": 1631571749,
+      "sha256": "bb21fe2c12ac873a262d0ecdca26dde13882bfaa56990958a29e1f2c27129d76"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "554442277",
+      "submissionIds": [
+        "554442277",
+        "554438237"
+      ],
+      "timestamp": 1631572551,
+      "sha256": "70b950d2f630d9976227ca060e14d2a770f477b2a40e84dba14729ca32deae8c"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "643783177",
+      "submissionIds": [
+        "643783177"
+      ],
+      "timestamp": 1645169977,
+      "sha256": "596ea3202c0230c143e0f17600cb108f0a47f6fbba86622775e5393e77936774"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "656820988",
+      "submissionIds": [
+        "656820988"
+      ],
+      "timestamp": 1646866753,
+      "sha256": "bee7a2c520b53df66bceb3f2b3f4bc7540f52b0b40b29eef2bc4ac382b8a56b4"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "2011959309",
+      "submissionIds": [
+        "2011959309"
+      ],
+      "timestamp": 1779645761,
+      "sha256": "7110bdf339cfe7bb958dc1b2fc7880e096235174de31a558a4a9ab3ee08d6ba1"
+    }
+  ]
+}

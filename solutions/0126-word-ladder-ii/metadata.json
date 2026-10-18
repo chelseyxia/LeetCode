@@ -1,0 +1,41 @@
+{
+  "frontendId": "126",
+  "title": "Word Ladder II",
+  "slug": "word-ladder-ii",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Bidirectional Search",
+      "slug": "bidirectional-search"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "605214540",
+      "submissionIds": [
+        "605214540"
+      ],
+      "timestamp": 1640128504,
+      "sha256": "66a88c1a96c5e9d92d32087d74e36eb98e544d7a3c8337821177d1e9fd52c563"
+    }
+  ]
+}

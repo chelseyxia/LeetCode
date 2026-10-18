@@ -1,0 +1,33 @@
+{
+  "frontendId": "1475",
+  "title": "Final Prices With a Special Discount in a Shop",
+  "slug": "final-prices-with-a-special-discount-in-a-shop",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Monotonic Stack",
+      "slug": "monotonic-stack"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2081145004",
+      "submissionIds": [
+        "2081145004"
+      ],
+      "timestamp": 1785005138,
+      "sha256": "6e41d0bbff1a6e5a8ecdec1c4b9c512c884f36caa5770c9b05b5a195668f28ec"
+    }
+  ]
+}

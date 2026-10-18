@@ -1,0 +1,41 @@
+{
+  "frontendId": "1177",
+  "title": "Can Make Palindrome from Substring",
+  "slug": "can-make-palindrome-from-substring",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "634051294",
+      "submissionIds": [
+        "634051294"
+      ],
+      "timestamp": 1643941130,
+      "sha256": "217d4cf87a9f59ca72d616f03490e1226e6c98c73191091f170dbc6db424e1a4"
+    }
+  ]
+}

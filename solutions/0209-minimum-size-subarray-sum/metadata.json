@@ -1,0 +1,37 @@
+{
+  "frontendId": "209",
+  "title": "Minimum Size Subarray Sum",
+  "slug": "minimum-size-subarray-sum",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "1994652868",
+      "submissionIds": [
+        "1994652868"
+      ],
+      "timestamp": 1777869111,
+      "sha256": "ebdbc3e9e2487fdba390f7013276a09d9f26da281fbfe4d47813e1a9d8b7f98f"
+    }
+  ]
+}

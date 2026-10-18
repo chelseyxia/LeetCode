@@ -1,0 +1,42 @@
+{
+  "frontendId": "1603",
+  "title": "Design Parking System",
+  "slug": "design-parking-system",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539094983",
+      "submissionIds": [
+        "539094983"
+      ],
+      "timestamp": 1629067632,
+      "sha256": "243be4a5a318dcff204dd6bd7d711f392021dd29614ea66a16978216d7e9dcaa"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "637330209",
+      "submissionIds": [
+        "637330209"
+      ],
+      "timestamp": 1644344446,
+      "sha256": "54613dbfa2670d44cc63a6534021f17762b92d806c8f2af2764f8f42fa5d51e0"
+    }
+  ]
+}

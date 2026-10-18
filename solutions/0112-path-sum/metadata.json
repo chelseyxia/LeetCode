@@ -1,0 +1,46 @@
+{
+  "frontendId": "112",
+  "title": "Path Sum",
+  "slug": "path-sum",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 2,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "601578936",
+      "submissionIds": [
+        "601578936"
+      ],
+      "timestamp": 1639459511,
+      "sha256": "247cb24630228858d60b50d081d66afb271fb029d4951e57d7f6db6daf635be1"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "2025747478",
+      "submissionIds": [
+        "2025747478"
+      ],
+      "timestamp": 1780868501,
+      "sha256": "056c50a107d72116c5d038f8fcaa85a7375cccbe07b6cba999d9d76a23139783"
+    }
+  ]
+}

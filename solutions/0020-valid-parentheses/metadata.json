@@ -1,0 +1,96 @@
+{
+  "frontendId": "20",
+  "title": "Valid Parentheses",
+  "slug": "valid-parentheses",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    },
+    {
+      "name": "Bracket Sequences",
+      "slug": "bracket-sequences"
+    }
+  ],
+  "acceptedCountReported": 8,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "538129426",
+      "submissionIds": [
+        "538129426"
+      ],
+      "timestamp": 1628899220,
+      "sha256": "ab765d258852cd417de8cd58e8596051be30527c847463fdff8e12f36a0802a1"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "539420231",
+      "submissionIds": [
+        "539420231"
+      ],
+      "timestamp": 1629127310,
+      "sha256": "f25765a2b86fa7b1ed0e3b0cbec42b19ef28de652d19fd1090b952ee49e325bd"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "544402670",
+      "submissionIds": [
+        "544402670"
+      ],
+      "timestamp": 1629957136,
+      "sha256": "aab9c6ffc9769285800620701f86efb8e738db2c3b93695a9d5ed3ac0d19bd8d"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "551854276",
+      "submissionIds": [
+        "551854276"
+      ],
+      "timestamp": 1631159488,
+      "sha256": "2e665299c4fc952060002ba89c53ecaa197921f1db17a60d71f81a7268257eec"
+    },
+    {
+      "file": "solution-5.java",
+      "submissionId": "551856530",
+      "submissionIds": [
+        "551856530"
+      ],
+      "timestamp": 1631159773,
+      "sha256": "3dad9c1d983138433ad65cf8fc2fd578d2166378c7ec97db8348b9527075a039"
+    },
+    {
+      "file": "solution-6.java",
+      "submissionId": "555608030",
+      "submissionIds": [
+        "555608030"
+      ],
+      "timestamp": 1631749074,
+      "sha256": "298e487658579feef210984961c13b703cd4bc3954c3a745b9934a4e3a1bb57d"
+    },
+    {
+      "file": "solution-7.java",
+      "submissionId": "626888419",
+      "submissionIds": [
+        "626888419"
+      ],
+      "timestamp": 1643043482,
+      "sha256": "b1e24323696586d08b070bec1d78a01a9ca88e9cadb3b2a8da6d65fa4c770a55"
+    },
+    {
+      "file": "solution-8.java",
+      "submissionId": "652871442",
+      "submissionIds": [
+        "652871442"
+      ],
+      "timestamp": 1646350138,
+      "sha256": "b09a83609378a6afcbe02a287147badd5ab587cc82b155e1c74322e51829c2fa"
+    }
+  ]
+}

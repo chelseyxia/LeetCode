@@ -1,0 +1,45 @@
+{
+  "frontendId": "843",
+  "title": "Guess the Word",
+  "slug": "guess-the-word",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Minimax",
+      "slug": "minimax-algorithm"
+    },
+    {
+      "name": "Interactive",
+      "slug": "interactive"
+    },
+    {
+      "name": "Game Theory",
+      "slug": "game-theory"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "618160039",
+      "submissionIds": [
+        "618160039"
+      ],
+      "timestamp": 1641969119,
+      "sha256": "3afcc6af3ab66ecc63c334d0696273a1416a331484cd5be74910f4499029ebd1"
+    }
+  ]
+}

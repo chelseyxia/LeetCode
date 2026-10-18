@@ -1,0 +1,65 @@
+{
+  "frontendId": "323",
+  "title": "Number of Connected Components in an Undirected Graph",
+  "slug": "number-of-connected-components-in-an-undirected-graph",
+  "difficulty": "MEDIUM",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Graph Theory",
+      "slug": "graph"
+    }
+  ],
+  "acceptedCountReported": 5,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "539019357",
+      "submissionIds": [
+        "539019357"
+      ],
+      "timestamp": 1629055058,
+      "sha256": "99a567a72afb5c6c45392ccfa4c5453cb904d703c0d7d918db29988923e557eb"
+    },
+    {
+      "file": "solution-2.java",
+      "submissionId": "548049710",
+      "submissionIds": [
+        "548049710"
+      ],
+      "timestamp": 1630536858,
+      "sha256": "c6fdf8795abe9aad7961334f99fc544bbc8aa87646d81aa8636e5b1ede7dee9c"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "684243343",
+      "submissionIds": [
+        "684243343"
+      ],
+      "timestamp": 1650473978,
+      "sha256": "51f6eea1b0061c9ce1afc38b24d456684bc4342842e1f3f404ace9b8b9afbcee"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "684243888",
+      "submissionIds": [
+        "684243888",
+        "684243706"
+      ],
+      "timestamp": 1650474037,
+      "sha256": "2079f8c71e2aa4a142e0f9cfc2bc5e464a54f4a69e06add14902518141d49641"
+    }
+  ]
+}

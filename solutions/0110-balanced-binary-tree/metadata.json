@@ -1,0 +1,33 @@
+{
+  "frontendId": "110",
+  "title": "Balanced Binary Tree",
+  "slug": "balanced-binary-tree",
+  "difficulty": "EASY",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "601446482",
+      "submissionIds": [
+        "601446482"
+      ],
+      "timestamp": 1639437978,
+      "sha256": "240f3e2954b5461d91622ade9ccab58c6a30c899aa5897fcfbeebb83e925f2fc"
+    }
+  ]
+}

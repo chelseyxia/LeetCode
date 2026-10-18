@@ -1,0 +1,57 @@
+{
+  "frontendId": "778",
+  "title": "Swim in Rising Water",
+  "slug": "swim-in-rising-water",
+  "difficulty": "HARD",
+  "status": "SOLVED",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Breadth-First Search",
+      "slug": "breadth-first-search"
+    },
+    {
+      "name": "Union-Find",
+      "slug": "union-find"
+    },
+    {
+      "name": "Minimax",
+      "slug": "minimax-algorithm"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Dijkstra's Algorithm",
+      "slug": "dijkstra"
+    }
+  ],
+  "acceptedCountReported": 1,
+  "solutions": [
+    {
+      "file": "solution-1.java",
+      "submissionId": "2105004738",
+      "submissionIds": [
+        "2105004738"
+      ],
+      "timestamp": 1786599112,
+      "sha256": "ed7f5fd4677a16920a8b88f5e9ded8f6b07dcf35801b105731528e5a36660753"
+    }
+  ]
+}
