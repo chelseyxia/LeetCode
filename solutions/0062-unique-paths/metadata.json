@@ -2,7 +2,7 @@
   "frontendId": "62",
   "title": "Unique Paths",
   "slug": "unique-paths",
-  "difficulty": "MEDIUM",
+  "difficulty": "Medium",
   "status": "SOLVED",
   "topicTags": [
     {
@@ -37,6 +37,15 @@
       ],
       "timestamp": 1647970169,
       "sha256": "51d5516a7062a466454d7a3b2a0670bd4286adc88e1a4e0af22fadec9d294e4e"
+    },
+    {
+      "file": "solution-3.java",
+      "submissionId": "2178509793",
+      "submissionIds": [
+        "2178509793"
+      ],
+      "timestamp": 1792644753,
+      "sha256": "eb270a92d368ad28c5307762addec21e1b2f541b0da1caca31d74ed4b190ed89"
     }
   ]
 }
