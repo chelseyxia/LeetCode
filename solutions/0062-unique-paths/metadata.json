@@ -46,6 +46,15 @@
       ],
       "timestamp": 1792644753,
       "sha256": "eb270a92d368ad28c5307762addec21e1b2f541b0da1caca31d74ed4b190ed89"
+    },
+    {
+      "file": "solution-4.java",
+      "submissionId": "2181663540",
+      "submissionIds": [
+        "2181663540"
+      ],
+      "timestamp": 1792953450,
+      "sha256": "0910d97669e4bef8acd4c98c01a511fdb458eb5ed680d934b1dc59a8d7849979"
     }
   ]
 }
