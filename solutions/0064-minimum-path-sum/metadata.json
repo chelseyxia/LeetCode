@@ -2,7 +2,7 @@
   "frontendId": "64",
   "title": "Minimum Path Sum",
   "slug": "minimum-path-sum",
-  "difficulty": "MEDIUM",
+  "difficulty": "Medium",
   "status": "SOLVED",
   "topicTags": [
     {
@@ -64,6 +64,15 @@
       ],
       "timestamp": 1647975552,
       "sha256": "080628b90467ca5d534ce57a587f68c178cd247e3bf72c5ea628664fe017a6a8"
+    },
+    {
+      "file": "solution-6.java",
+      "submissionId": "2181793650",
+      "submissionIds": [
+        "2181793650"
+      ],
+      "timestamp": 1792973417,
+      "sha256": "d73402715def802343e22fe9f1eb235770aad515c5772f310d5fa9444dd3cbe6"
     }
   ]
 }
